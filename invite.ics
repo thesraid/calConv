@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+PRODID:-//Facebook//NONSGML Facebook Events V1.0//EN
+X-WR-CALNAME:Lost Society - Belfast - 22nd Feb 2019
+X-PUBLISHED-TTL:PT12H
+X-ORIGINAL-URL:https://www.facebook.com/events/344593096288935/
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20181106T100042Z
+LAST-MODIFIED:20181106T100042Z
+CREATED:20181105T191731Z
+SEQUENCE:52991
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+ATTENDEE;CN=Niáll McMullan;PARTSTAT=ACCEPTED:https://www.facebook.com/niall.mcmullan.52
+ATTENDEE;CN=Jason Gourley;PARTSTAT=ACCEPTED:https://www.facebook.com/profile.php?id=100015530622831
+ATTENDEE;CN=Alessandro Rocco;PARTSTAT=ACCEPTED:https://www.facebook.com/Deathbus
+ATTENDEE;CN=Joe Ó Donnghaíle;PARTSTAT=ACCEPTED:https://www.facebook.com/MaskOfAnarchy
+ATTENDEE;CN=Bizz Bizby;PARTSTAT=ACCEPTED:https://www.facebook.com/bizz.bizby
+ATTENDEE;CN=Martin Hurst;PARTSTAT=ACCEPTED:https://www.facebook.com/martin.hurst.165
+ATTENDEE;CN=Sophia O'Connor;PARTSTAT=ACCEPTED:https://www.facebook.com/littlenymth
+ATTENDEE;CN=Benn Murphy;PARTSTAT=ACCEPTED:https://www.facebook.com/MacaroniManiac
+ATTENDEE;CN=Ricky Ferguson;PARTSTAT=ACCEPTED:https://www.facebook.com/ricky.ferguson.505
+ATTENDEE;CN=Colly Mack;PARTSTAT=ACCEPTED:https://www.facebook.com/colm.mckeown.10
+ATTENDEE;CN=Alain Mc Closkey;PARTSTAT=ACCEPTED:https://www.facebook.com/alain.mccloskey
+ATTENDEE;CN=James Symes;PARTSTAT=ACCEPTED:https://www.facebook.com/djhellborn
+ATTENDEE;CN=Graham Douglas;PARTSTAT=ACCEPTED:https://www.facebook.com/graham.douglas.568
+ATTENDEE;CN=Rhys Fraser;PARTSTAT=ACCEPTED:https://www.facebook.com/rhys.fraser1
+ATTENDEE;CN=Sam Gardiner;PARTSTAT=ACCEPTED:https://www.facebook.com/sammy.gardinersdmf
+ATTENDEE;CN=Robert Warnock;PARTSTAT=ACCEPTED:https://www.facebook.com/robert.warnock.77
+ATTENDEE;CN=Robbie Beckett;PARTSTAT=ACCEPTED:https://www.facebook.com/robbie.beckett.12
+ATTENDEE;CN=Rhiannon Houston;PARTSTAT=ACCEPTED:https://www.facebook.com/RhiannonHoustonyo
+ATTENDEE;CN=Fredy Moita;PARTSTAT=ACCEPTED:https://www.facebook.com/fredy.moita
+ATTENDEE;CN=Darragh Dazz Oconnor;PARTSTAT=ACCEPTED:https://www.facebook.com/darragh.oconnor.52
+ATTENDEE;CN=Thomas Stranaghan;PARTSTAT=ACCEPTED:https://www.facebook.com/thomas.stranaghan
+ATTENDEE;CN=Jonny Mcmillan;PARTSTAT=ACCEPTED:https://www.facebook.com/jonny.mcmillan.3
+ATTENDEE;CN=Matthew McClelland;PARTSTAT=ACCEPTED:https://www.facebook.com/matthew.mcclelland.75
+ATTENDEE;CN=Fergal Holmes;PARTSTAT=ACCEPTED:https://www.facebook.com/fergalholmes
+ATTENDEE;CN=Dean Blackfyre;PARTSTAT=ACCEPTED:https://www.facebook.com/dincxjo
+ATTENDEE;CN=Graeme Wilson;PARTSTAT=ACCEPTED:https://www.facebook.com/graeme.wilson.315
+ATTENDEE;CN=Phil Robinson;PARTSTAT=ACCEPTED:https://www.facebook.com/phil.robinson.315
+ATTENDEE;CN=Ian Fuller;PARTSTAT=ACCEPTED:https://www.facebook.com/themetalambassador
+ATTENDEE;CN=Conor Mc Kerr;PARTSTAT=ACCEPTED:https://www.facebook.com/conor.m.kerr.5
+ATTENDEE;CN=Jonny Lolz;PARTSTAT=ACCEPTED:https://www.facebook.com/jonny.scimitar
+ATTENDEE;CN=Keith Sharp;PARTSTAT=ACCEPTED:https://www.facebook.com/keith.sharp.566
+ATTENDEE;CN=Jukka-Pekka Kauppinen;PARTSTAT=ACCEPTED:https://www.facebook.com/jukkapekka.kauppinen
+ATTENDEE;CN=Brenda P McTaggart;PARTSTAT=ACCEPTED:https://www.facebook.com/Br3ndaSaysHi
+ATTENDEE;CN=James Loveday;PARTSTAT=ACCEPTED:https://www.facebook.com/lovedayjames
+ATTENDEE;CN=Ryan McConville;PARTSTAT=TENTATIVE:https://www.facebook.com/ryan.mcconville.58
+ATTENDEE;CN=Tyrone Industrial;PARTSTAT=TENTATIVE:https://www.facebook.com/tyrone.industrial.3
+ATTENDEE;CN=Ignatios Un Uilis;PARTSTAT=TENTATIVE:https://www.facebook.com/ignatios.unuilis
+ATTENDEE;CN=Jordan Gallagher McCaul;PARTSTAT=TENTATIVE:https://www.facebook.com/heavy.metal.up.your.arse
+ATTENDEE;CN=Marius Dimofte;PARTSTAT=TENTATIVE:https://www.facebook.com/marius.dimofte.5
+ATTENDEE;CN=Trisha Chanik;PARTSTAT=TENTATIVE:https://www.facebook.com/trisha.chanik.3
+ATTENDEE;CN=Alistair Richmond;PARTSTAT=TENTATIVE:https://www.facebook.com/alistair.richmond.7
+ATTENDEE;CN=Michele Marcoccio;PARTSTAT=TENTATIVE:https://www.facebook.com/profile.php?id=100002909467420
+ATTENDEE;CN=CJ McCarroll;PARTSTAT=TENTATIVE:https://www.facebook.com/cjdotx
+ATTENDEE;CN=James Rankin;PARTSTAT=TENTATIVE:https://www.facebook.com/james.rankin.5
+ATTENDEE;CN=David Maginn;PARTSTAT=TENTATIVE:https://www.facebook.com/ffsdgsfzdc6d211a4
+ATTENDEE;CN=Chris Marston;PARTSTAT=TENTATIVE:https://www.facebook.com/chris.marston.7
+ATTENDEE;CN=Stephen Tannock;PARTSTAT=TENTATIVE:https://www.facebook.com/Stephentannock68
+ATTENDEE;CN=Jay Strawbridge;PARTSTAT=TENTATIVE:https://www.facebook.com/jay.strawbridge.7
+ATTENDEE;CN=Gavin Beattie;PARTSTAT=TENTATIVE:https://www.facebook.com/gavin.beattie.39
+ATTENDEE;CN=Joe Doyle;PARTSTAT=TENTATIVE:https://www.facebook.com/joe.doyle.39
+ATTENDEE;CN=Paul Bam;PARTSTAT=TENTATIVE:https://www.facebook.com/paul.bam.5
+ATTENDEE;CN=CP Chris Prenter;PARTSTAT=TENTATIVE:https://www.facebook.com/chris.chrisprenter
+ATTENDEE;CN=Carlos WingDing Grant;PARTSTAT=TENTATIVE:https://www.facebook.com/carl.grant.14268
+ATTENDEE;CN=Jade Pallett;PARTSTAT=TENTATIVE:https://www.facebook.com/jade.pallett.5
+ATTENDEE;CN=Nikki Armour;PARTSTAT=TENTATIVE:https://www.facebook.com/nikki.t.armour
+ATTENDEE;CN=Claire Dixon;PARTSTAT=TENTATIVE:https://www.facebook.com/claire.mann.315
+ATTENDEE;CN=Sean Harkin;PARTSTAT=TENTATIVE:https://www.facebook.com/xHorcrux
+ATTENDEE;CN=Paul McMonagle;PARTSTAT=TENTATIVE:https://www.facebook.com/paul.mcmonagle.9
+ATTENDEE;CN=Meghan Cree;PARTSTAT=TENTATIVE:https://www.facebook.com/meghan.cree.5
+ATTENDEE;CN=Claudia Meireles;PARTSTAT=TENTATIVE:https://www.facebook.com/claudia.meireles.9
+ATTENDEE;CN=Ross Maginnes;PARTSTAT=TENTATIVE:https://www.facebook.com/ross.maginnes
+ATTENDEE;CN=Chris E. Magowan;PARTSTAT=TENTATIVE:https://www.facebook.com/chris.e.magowan
+ATTENDEE;CN=Matthew Moore;PARTSTAT=TENTATIVE:https://www.facebook.com/matthew.moore.7923
+ATTENDEE;CN=Roddy Bevin;PARTSTAT=TENTATIVE:https://www.facebook.com/roddy.bevin
+ATTENDEE;CN=Louise Zoe Gowdy;PARTSTAT=TENTATIVE:https://www.facebook.com/louliar90
+ATTENDEE;CN=Aileen Ryan;PARTSTAT=TENTATIVE:https://www.facebook.com/aileenmry
+ATTENDEE;CN=Leanne Cardwell;PARTSTAT=TENTATIVE:https://www.facebook.com/leanne.cardwell.9
+ATTENDEE;CN=Deane Montgomery;PARTSTAT=TENTATIVE:https://www.facebook.com/deanem
+ATTENDEE;CN=Steve Martin;PARTSTAT=TENTATIVE:https://www.facebook.com/steve.martin.7543
+ATTENDEE;CN=Mark Mc Grogan;PARTSTAT=TENTATIVE:https://www.facebook.com/FlashArtMark
+ATTENDEE;CN=Anthony King;PARTSTAT=TENTATIVE:https://www.facebook.com/antoking
+ATTENDEE;CN=Karla Andrews;PARTSTAT=TENTATIVE:https://www.facebook.com/Karla.Andrews.1990
+ATTENDEE;CN=Peter Agate;PARTSTAT=TENTATIVE:https://www.facebook.com/peter.agate
+ATTENDEE;CN=Peter Bowden;PARTSTAT=TENTATIVE:https://www.facebook.com/peter.bowden.739
+ATTENDEE;CN=Paddy Cassells;PARTSTAT=TENTATIVE:https://www.facebook.com/paddy.cassells
+ATTENDEE;CN=Anthony McCaughley;PARTSTAT=TENTATIVE:https://www.facebook.com/anthony.mccaughley
+ATTENDEE;CN=Laco Proinsias Fernyak;PARTSTAT=TENTATIVE:https://www.facebook.com/laco.fernyak
+ATTENDEE;CN=Eddie Cross;PARTSTAT=TENTATIVE:https://www.facebook.com/Metallix316
+ATTENDEE;CN=Ryan McCallum;PARTSTAT=TENTATIVE:https://www.facebook.com/rhmccallum
+ATTENDEE;CN=Bill Ward;PARTSTAT=TENTATIVE:https://www.facebook.com/bill.wardjr
+ATTENDEE;CN=Catherine Neeson;PARTSTAT=TENTATIVE:https://www.facebook.com/cneeson1
+ATTENDEE;CN=Dezzer Deekers Freemantłe;PARTSTAT=TENTATIVE:https://www.facebook.com/djdezzer
+ATTENDEE;CN=Dale Buchanan;PARTSTAT=TENTATIVE:https://www.facebook.com/dale.buchanan.18
+ATTENDEE;CN=Azzedine Hamouda;PARTSTAT=TENTATIVE:https://www.facebook.com/azzedineh
+ATTENDEE;CN=David Mark Ashby;PARTSTAT=TENTATIVE:https://www.facebook.com/MonkUberRock
+ATTENDEE;CN=Frankie McGurk;PARTSTAT=TENTATIVE:https://www.facebook.com/phil.mcgurk
+ATTENDEE;CN=Pearse Moreland;PARTSTAT=TENTATIVE:https://www.facebook.com/pearse.moreland.3
+ATTENDEE;CN=Lindsay Healy;PARTSTAT=TENTATIVE:https://www.facebook.com/lindsay.davey.77
+ATTENDEE;CN=Dave Cullen;PARTSTAT=TENTATIVE:https://www.facebook.com/david.cullen.5667
+ATTENDEE;CN=Antti Ståhlberg;PARTSTAT=TENTATIVE:https://www.facebook.com/antti.stahlberg
+ATTENDEE;CN=Ruth Flinn;PARTSTAT=TENTATIVE:https://www.facebook.com/ruth.flinn
+ATTENDEE;CN=David Mason;PARTSTAT=TENTATIVE:https://www.facebook.com/davidgmason
+ATTENDEE;CN=Patrick Fisher;PARTSTAT=TENTATIVE:https://www.facebook.com/patrick.fisher.7370
+ATTENDEE;CN=Michelle MishMash Mandipira;PARTSTAT=TENTATIVE:https://www.facebook.com/michelle.mandipira
+ATTENDEE;CN=Aaron Hamilton;PARTSTAT=TENTATIVE:https://www.facebook.com/soisoisoisoisoi
+ATTENDEE;CN=Michael Brown;PARTSTAT=TENTATIVE:https://www.facebook.com/micky.brown.750
+ATTENDEE;CN=Leila Moura;PARTSTAT=TENTATIVE:https://www.facebook.com/leila.moura.522
+ATTENDEE;CN=Nathan Scott;PARTSTAT=TENTATIVE:https://www.facebook.com/cheesestrodel
+ATTENDEE;CN=Melanie Brehaut;PARTSTAT=TENTATIVE:https://www.facebook.com/melanie.brehaut.9
+ATTENDEE;CN=Anthony McCann;PARTSTAT=TENTATIVE:https://www.facebook.com/amccann123
+ATTENDEE;CN=John Thompson;PARTSTAT=TENTATIVE:https://www.facebook.com/john.thompson1349
+ATTENDEE;CN=Orlaith Ní Cheallaigh;PARTSTAT=TENTATIVE:https://www.facebook.com/orlaithk2
+ATTENDEE;CN=Stephen Mc Nally;PARTSTAT=TENTATIVE:https://www.facebook.com/stephen.m.nally
+ATTENDEE;CN=Wayne Donaldson;PARTSTAT=TENTATIVE:https://www.facebook.com/NotBruceJustWayne
+ATTENDEE;CN=Dean Millen;PARTSTAT=TENTATIVE:https://www.facebook.com/dean.millen.5
+ATTENDEE;CN=Andrew Quirey;PARTSTAT=TENTATIVE:https://www.facebook.com/andrew.quirey
+DTSTART:20190222T193000Z
+DTEND:20190222T233000Z
+UID:e344593096288935@facebook.com
+SUMMARY:Lost Society - Belfast - 22nd Feb 2019
+LOCATION:Voodoo Belfast
+URL:https://www.facebook.com/events/344593096288935/
+DESCRIPTION:DME By Arrangement With K2 Present
+ s\n\nLost Society\nPlus Guests\n\nVoodo
+ o Belfast\nFri. 22nd Feb 2019\n7.30p
+ m - 18+\n£14 inc bkg fee - on sale
+  8th November 10\n\nwww.dme-promotio
+ ns.com\n\nhttps://www.facebook.com/e
+ vents/344593096288935/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+END:VCALENDAR
