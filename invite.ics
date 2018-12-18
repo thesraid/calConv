@@ -1,123 +1,2106 @@
 BEGIN:VCALENDAR
 PRODID:-//Facebook//NONSGML Facebook Events V1.0//EN
-X-WR-CALNAME:Lost Society - Belfast - 22nd Feb 2019
+X-WR-CALNAME:Antaine Mac An Rí's Facebook Events
 X-PUBLISHED-TTL:PT12H
-X-ORIGINAL-URL:https://www.facebook.com/events/344593096288935/
+X-ORIGINAL-URL:/events/
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20181106T193959Z
+LAST-MODIFIED:20181106T193959Z
+CREATED:20181019T170716Z
+SEQUENCE:1564363
+ORGANIZER;CN=Invictus Productions:MAILTO:noreply@facebookmail.com
+DTSTART:20191026T170000Z
+DTEND:20191026T220000Z
+UID:e2176763695979376@facebook.com
+SUMMARY:De Mysteriis Dom Invicti: 20 Years of Invictus SOLD OUT
+LOCATION:1 John's Square\, Limerick\, County 
+ Limerick\, V94 RRH6\, Ireland
+URL:https://www.facebook.com/events/2176763695979376/
+DESCRIPTION:Invictus Productions in alliance w
+ ith Bad Reputation IRL present\n\nDe
+  Mysteriis Dom Invicti: 20 Years o
+ f Invictus Productions\, a Samhain 
+ Celebration at St. John's Church\, 
+ John's Square\, Limerick.\n\nFeaturin
+ g\n\nNEGATIVE PLANE (USA)\nMalthusian
+  (Irl)\nPossession - Band (Bel)\nInc
+ oncessus Lux Lucis (UK)\nSacrilegia
+  (Irl)\n\nThis unique\, celebratory e
+ vent will take place in a deconsec
+ rated church and will be first tim
+ e Negative Plane\, as well as the o
+ ther acts\, will have ever performe
+ d in a church setting. Stained Gla
+ ss Revelations brought to life.\n\nT
+ ickets are €35\, will be limited 
+ to 150 ONLY and will be available 
+ from Thursday November 1st from ww
+ w.invictusproductions.net.\n\nTicket
+ s will be printed and mailed to cu
+ stomers.\n\nhttps://www.facebook.com
+ /events/2176763695979376/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T085218Z
+LAST-MODIFIED:20181121T085218Z
+CREATED:20181119T083113Z
+SEQUENCE:174065
+ORGANIZER;CN=Dublin Events\, Concerts & Parties:MAILTO:noreply@facebookmail.com
+DTSTART:20190821T170000Z
+DTEND:20190821T220000Z
+UID:e328543324409720@facebook.com
+SUMMARY:Foo Fighters | Dublin
+LOCATION:Dublin\, Ireland
+URL:https://www.facebook.com/events/328543324409720/
+DESCRIPTION:Foo Fighters announce two Irish sh
+ ows for summer 2019. \n\nThey will h
+ ead to Belfast on August 19 and Du
+ blin on August 21.Tickets go on ge
+ neral sale at 10am on November 23\,
+  here:\n► https://ticketmaster-uk
+ .pxf.io/BXO4y\n► https://www.eatm
+ ytickets.com/en/artist/foo-fighter
+ s/\n\nhttps://www.facebook.com/event
+ s/328543324409720/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181122T160331Z
+LAST-MODIFIED:20181122T160331Z
+CREATED:20181122T160320Z
+SEQUENCE:11
+ORGANIZER;CN=MCD:MAILTO:noreply@facebookmail.com
+DTSTART:20190821T160000Z
+DTEND:20190821T220000Z
+UID:e306572683282547@facebook.com
+SUMMARY:Foo Fighters - Dublin
+LOCATION:RDS
+URL:https://www.facebook.com/events/306572683282547/
+DESCRIPTION:Dave Grohl\, Taylor Hawkins\, Nate M
+ endel\, Chris Shiflett\, Pat Smear a
+ nd Rami Jaffee continue to sell ou
+ t stadiums and arenas the world ov
+ er. The band's current live show\, 
+ described by Rolling Stone as “e
+ xplosive and euphoric… wild and 
+ combustible at the place where Gro
+ hl’s love for punk and classic r
+ ock coalesce into something raging
+  and tuneful… a show of enthusia
+ sm that has grown over decades\,”
+  will be visiting the following ci
+ ties and venues:\n\n• 19 Aug Belfa
+ st\, N. Ireland @ Vital Festival (h
+ eadline series)\n• 21 Aug Dublin\,
+  Ireland @ RDS Arena\n\nSee foofight
+ ers.com for information regarding 
+ pre-sales and more.\nSupport on the
+  headline dates to be announced.\n\n
+ Having covered ground from Reykjav
+ ik to Las Vegas in 2017\, the tirel
+ ess Foo Fighters began 2018 with a
+ n Australia / New Zealand stadium 
+ tour\, and proceeded to play three-
+ hour-plus rock marathons for capac
+ ity crowds over multiple nights at
+  some of the world’s most presti
+ gious venues: Madison Square Garde
+ n\, Fenway Park in Boston\, Wrigley 
+ Field in Chicago\, London Stadium—
+ plus a return to Ullevi Stadium in
+  Gothenburg— the site of the acc
+ ident that led to the 2015 Broken 
+ Leg Tour. 2018 also marked the sop
+ homore year of Foo Fighters’ own
+  CalJam festival. CalJam '18 outdi
+ d its classic debut year with an a
+ ll-hits Foo Fighters headline set\,
+  a rare Iggy Pop reunion with the 
+ Joshua Homme-helmed Post Pop Depre
+ ssion band\, and an encore celebrat
+ ion of Nirvana--featuring an onsta
+ ge reunion of Krist Novoselic\, Dav
+ e Grohl and Pat Smear\, with appear
+ ances from Joan Jett\, Brody Dalle 
+ of the Distillers and John McCaule
+ y of Deer Tick.\nSUBJECT TO LICENCE
+ \nTickets for Dublin from €79.50 
+ including booking fees go on sale 
+ this Friday 23 November at 10am.\n\n
+ https://www.facebook.com/events/30
+ 6572683282547/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T142225Z
+LAST-MODIFIED:20181121T142225Z
+CREATED:20181121T121441Z
+SEQUENCE:7664
+ORGANIZER;CN=Belfast Vital:MAILTO:noreply@facebookmail.com
+DTSTART:20190819T160000Z
+DTEND:20190819T210000Z
+UID:e1339530159541286@facebook.com
+SUMMARY:VITAL 2019 - Foo Fighters
+LOCATION:Boucher Road Playing Fields Belfas
+ t
+URL:https://www.facebook.com/events/1339530159541286/
+DESCRIPTION::: BELFAST VITAL 2019 ::\nFoo Fight
+ ers + special guests TBA\nBoucher R
+ oad Playing Fields\, Belfast\nAugust
+  19th 2019\n\nDave Grohl\, Taylor Haw
+ kins\, Nate Mendel\, Chris Shiflett\,
+  Pat Smear and Rami Jaffee continu
+ e to sell out stadiums and arenas 
+ the world over. The band’s curre
+ nt live show\, described by Rolling
+  Stone as “explosive and euphori
+ c… wild and combustible at the p
+ lace where Grohl’s love for punk
+  and classic rock coalesce into so
+ mething raging and tuneful… a sh
+ ow of enthusiasm that has grown ov
+ er decades\,” will be headlining 
+ this years Belfast Vital 2019 fest
+ ival.\n\nHaving covered ground from 
+ Reykjavik to Las Vegas in 2017\, th
+ e tireless Foo Fighters began 2018
+  with an Australia / New Zealand s
+ tadium tour\, and proceeded to play
+  three-hour-plus rock marathons fo
+ r capacity crowds over multiple ni
+ ghts at some of the world’s most
+  prestigious venues: Madison Squar
+ e Garden\, Fenway Park in Boston\, W
+ rigley Field in Chicago\, London St
+ adium—plus a return to Ullevi St
+ adium in Gothenburg— the site of
+  the accident that led to the 2015
+  Broken Leg Tour. 2018 also marked
+  the sophomore year of Foo Fighter
+ s’ own CalJam festival. CalJam ’
+ 18 outdid its classic debut year w
+ ith an all-hits Foo Fighters headl
+ ine set\, a rare Iggy Pop reunion w
+ ith the Joshua Homme-helmed Post P
+ op Depression band\, and an encore 
+ celebration of Nirvana–featuring
+  an onstage reunion of Krist Novos
+ elic\, Dave Grohl and Pat Smear\, wi
+ th appearances from Joan Jett\, Bro
+ dy Dalle of the Distillers and Joh
+ n McCauley of Deer Tick.\n\nSUBJECT 
+ TO LICENCE\nTickets on sale this Fr
+ iday 23 November at 10am.\n\nhttps:/
+ /www.facebook.com/events/133953015
+ 9541286/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181123T094111Z
+LAST-MODIFIED:20181123T094111Z
+CREATED:20181119T211635Z
+SEQUENCE:303876
+ORGANIZER;CN=Dublin Events Guide:MAILTO:noreply@facebookmail.com
+DTSTART:20190819T150000Z
+DTEND:20190819T220000Z
+UID:e331425364355391@facebook.com
+SUMMARY:Foo Fighters Live in Belfast
+LOCATION:Boucher Road Playing Fields Belfas
+ t
+URL:https://www.facebook.com/events/331425364355391/
+DESCRIPTION:Foo Fighters are coming back to Ir
+ eland!\nThey play Belfast Vital on 
+ Monday 19 August.\nMon 19 Aug 2019 
+ @ 4:00 pm | Boucher Playing Fields
+ \, Belfast\n\nGeneral Onsale: Fri 23 
+ Nov 2018 @ 10:00 AM\n\n>>> Tickets: 
+ http://bit.ly/2DwWRDc\n\nSupport on 
+ the headline dates to be announced
+ .\n\n#FooFighters #FooFightersTicket
+ s #FooFightersLive #altrock #postg
+ runge #BelfastVital #EventsInBelfa
+ st\n\nhttps://www.facebook.com/event
+ s/331425364355391/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181127T085931Z
+LAST-MODIFIED:20181127T085931Z
+CREATED:20181127T085931Z
+SEQUENCE:0
+ORGANIZER;CN=Belsonic:MAILTO:noreply@facebookmail.com
+DTSTART:20190612T170000Z
+DTEND:20190612T220000Z
+UID:e259868034705508@facebook.com
+SUMMARY:SLASH feat Myles Kennedy & The Conspirators + Blackberry Smoke
+LOCATION:Belsonic
+URL:https://www.facebook.com/events/259868034705508/
+DESCRIPTION:TICKETS ON SALE THIS FRIDAY 10AM!\n
+ \nBELSONIC IN ASSOCIATION WITH MAGN
+ ERS PRESENTS:\n\nSLASH\nFeaturing Myl
+ es Kennedy & The Conspirators \nBla
+ ckberry Smoke\n& Screaming Eagles\n\n
+ WEDNESDAY 12TH JUNE 2019\nORMEAU PA
+ RK\, BELFAST\n\nGATES 6PM | 16+ ID RE
+ QUIRED \n\nSUBJECT TO LICENCE\n \nTick
+ ets priced £30+ booking fee\, go o
+ n sale this Friday November 30th @
+  10am from Ticketmaster outlets an
+ d www.ticketmaster.ie \n\nThe most f
+ amous name is rock n roll\, singer-
+ songwriter\, musician and lead guit
+ arist in the world’s biggest ban
+ d Guns N Roses\, SLASH is pleased t
+ o announce his largest Belfast hea
+ dline show to date at Belsonic on 
+ Wednesday 12th June 2019 featuring
+  Alter Bridge frontman\, Myles Kenn
+ edy & The Conspirators and support
+ ed on the night by Blackberry Smok
+ e and Screaming Eagles. It’s bee
+ n four years since we last heard n
+ ew music from SLASH. But the guita
+ rist has hardly spent that time re
+ laxing—far from it\, in fact. Fir
+ st\, there was an 18-month\, 20-coun
+ try world tour in support of the s
+ econd SLASH FT MYLES KENNEDY & THE
+  CONSPIRATORS album\, 2014’s Worl
+ d On Fire\, which saw the band play
+  to packed houses everywhere from 
+ the U.S. to the U.K.\, Europe to Au
+ stralia\, South America to Southeas
+ t Asia. Then\, almost immediately a
+ fter the tour wrapped in Las Vegas
+  on New Year’s Eve\, 2015\, it was
+  announced to the world that the g
+ uitarist\, after roughly two decade
+ s away\, would be rejoining Guns N’
+  Roses in an historic reunion with
+  Axl Rose and Duff McKagan. Since 
+ then\, SLASH and his Gn’R band ma
+ tes have crisscrossed the globe on
+  multiple arena and stadium jaunts
+ \, playing to millions of fans the 
+ world over on what has been a reco
+ rd-breaking tour. \n\nSLASH Featurin
+ g Myles Kennedy & The Conspirators
+ . released their new album ‘Livi
+ ng The Dream’ in September of th
+ is year.\n\n\n  Tickets\, priced £30 
+ + Booking Fee\, go on-sale Friday 3
+ 0th November @ 10am from Ticketmas
+ ter Outlets nationwide.\n\nhttps://w
+ ww.facebook.com/events/25986803470
+ 5508/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181001T161820Z
+LAST-MODIFIED:20181001T161820Z
+CREATED:20180924T072934Z
+SEQUENCE:636526
+ORGANIZER;CN=Dublin Events\, Concerts & Parties:MAILTO:noreply@facebookmail.com
+DTSTART:20190608T120000Z
+DTEND:20190608T220000Z
+UID:e289466121872591@facebook.com
+SUMMARY:Metallica :: Slane 2019
+LOCATION:Slane Castle\, Meath\, Ireland.
+URL:https://www.facebook.com/events/289466121872591/
+DESCRIPTION:Metallica announced 2019 Worldwire
+ d Europe Tour dates!\n\nMore about t
+ he concert: http://bit.ly/Slane-MC
+ D\n\nhttps://www.facebook.com/events
+ /289466121872591/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181005T135231Z
+LAST-MODIFIED:20181005T135231Z
+CREATED:20181005T112648Z
+SEQUENCE:8743
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190418T190000Z
+DTEND:20190418T220000Z
+UID:e607749826320230@facebook.com
+SUMMARY:Dropkick Murphys - Vicar Street, Dublin
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/607749826320230/
+DESCRIPTION:DROPKICK MURPHYS\nVicar St\, Dublin\n
+ 17 & 18 April 2019\n\nCeltic punk-ro
+ ck legends Dropkick Murphys will r
+ eturn to Dublin for two nights at 
+ Vicar St on 17 & 18 April 2019.\n\nA
+ s much as Dropkick Murphys love Bo
+ ston\, they were determined to star
+ t their third decade with a bang. 
+ They wanted to take it to the next
+  level. For that\, they knew they'd
+  need to make a record that blew p
+ eople away. To do that\, they'd nee
+ d to focus. To do that\, they'd nee
+ d to remove all distractions. To d
+ o that\, they'd need to go to...El 
+ Paso?\n\nYou heard that right! They 
+ packed up their gear and hit the r
+ oad\, joining longtime producer Ted
+  Hutt at a studio 30 miles east of
+  El Paso. Sonic Ranch Studios\, who
+ se property abuts the U.S./Mexico 
+ border\, is a place where the only 
+ cell service is the occasional bar
+  that pops up from a Mexican carri
+ er. This bold move\, this dedicatio
+ n\, this desolation – and this am
+ azing studio – helped the band c
+ apture something magical on their 
+ new album\, 11 Short Stories Of Pai
+ n & Glory.\n\nA look back at childho
+ od life\, a snapshot of a clueless 
+ Masshole\, a stop-you-in-your track
+ s reflection on a terrorist traged
+ y...it’s all there across the re
+ cord’s 11 tracks. There are mome
+ nts of ass-kicking Celtic punk att
+ itude\, ball-busting wisecracks\, te
+ ar-jerking confessions\, and the ki
+ nd of upbeat words of wisdom that 
+ can be chanted loud and proud acro
+ ss arenas and stadiums worldwide. 
+ It’s real. It’s raw. It’s Dr
+ opkick Murphys.\n\n11 Short Stories 
+ Of Pain & Glory represents a high-
+ water mark for Dropkick Murphys as
+  they invite listeners everywhere 
+ to once again take an active part 
+ in their story. “We’ve stayed 
+ true to what the band is and has a
+ lways been. And we’re still expa
+ nding on our sound and lyrical con
+ tent\,” offers Brennan.\n\n“There
+  is lots of messed up stuff going 
+ on in the world but you can't let 
+ it take you down\,” Casey continu
+ es. “The only way to survive in 
+ life is to enjoy it and make the m
+ ost of it. That’s what this reco
+ rd is. There’s good times. There
+ ’s bad times. There’s happy ti
+ mes. There’s sad times. In just 
+ 40 minutes\, you feel all of that. 
+ We truly put our heart and soul in
+ to every record we’ve ever made.
+  This is no exception. We wouldn’
+ t let it go down any other way. We
+ ’ll break up before that happens
+ .” 11 Short Stories Of Pain & Gl
+ ory is the perfect way to kick off
+  another 20 years of Dropkick Murp
+ hys. Hold your head high\, and cran
+ k it up.\n\nDropkick Murphys are:\n\nA
+ l Barr lead vocals\n\nTim Brennan gu
+ itars\, accordion\, mellotron\, whist
+ les and vocals\n\nKen Casey lead voc
+ als and bass guitar\n\nJeff DaRosa b
+ anjo\, bouzouki\, mandolin\, harmonic
+ a\, acoustic guitars and vocals\n\nMa
+ tt Kelly drums\, percussion and voc
+ als\n\nJames Lynch guitars and vocal
+ s\n\nwww.dropkickmurphys.com/\n\nTicke
+ ts priced €32.50 go on sale Mond
+ ay 8th October at 10am through www
+ .ticketmaster.ie & usual outlets n
+ ationwide.\n\nwww.dropkickmurphys.co
+ m/\n\nhttps://www.facebook.com/event
+ s/607749826320230/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180827T145101Z
+LAST-MODIFIED:20180827T145101Z
+CREATED:20180827T145101Z
+SEQUENCE:0
+ORGANIZER;CN=Karl Leavey:MAILTO:noreply@facebookmail.com
+DTSTART:20190417T190000Z
+DTEND:20190417T230000Z
+UID:e241528493219921@facebook.com
+SUMMARY:Ulcerate/Malthusian/Zealot Cult
+LOCATION:The Grand Social
+URL:https://www.facebook.com/events/241528493219921/
+DESCRIPTION:Ulcerate (Relapse) -  Irish Debut\n
+ https://ulcerate.bandcamp.com/\n\nMa
+ lthusian (Invictus) - \nhttps://mal
+ thusian.bandcamp.com/\n\nZealot Cult
+  (Blood Harvest)\nhttps://bloodharv
+ estrecords.bandcamp.com/album/karm
+ enian-crypt-12mlp\n\nPoster to follo
+ w\n\nThe Grand Social\nDublin\n€25\n\n
+ https://www.facebook.com/events/24
+ 1528493219921/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181005T135243Z
+LAST-MODIFIED:20181005T135243Z
+CREATED:20181005T112520Z
+SEQUENCE:8843
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190417T190000Z
+DTEND:20190417T220000Z
+UID:e1666638333441381@facebook.com
+SUMMARY:Dropkick Murphys - Vicar Street, Dublin
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/1666638333441381/
+DESCRIPTION:DROPKICK MURPHYS\nVicar St\, Dublin\n
+ 17 & 18 April 2019\n\nCeltic punk-ro
+ ck legends Dropkick Murphys will r
+ eturn to Dublin for two nights at 
+ Vicar St on 17 & 18 April 2019.\n\nA
+ s much as Dropkick Murphys love Bo
+ ston\, they were determined to star
+ t their third decade with a bang. 
+ They wanted to take it to the next
+  level. For that\, they knew they'd
+  need to make a record that blew p
+ eople away. To do that\, they'd nee
+ d to focus. To do that\, they'd nee
+ d to remove all distractions. To d
+ o that\, they'd need to go to...El 
+ Paso?\n\nYou heard that right! They 
+ packed up their gear and hit the r
+ oad\, joining longtime producer Ted
+  Hutt at a studio 30 miles east of
+  El Paso. Sonic Ranch Studios\, who
+ se property abuts the U.S./Mexico 
+ border\, is a place where the only 
+ cell service is the occasional bar
+  that pops up from a Mexican carri
+ er. This bold move\, this dedicatio
+ n\, this desolation – and this am
+ azing studio – helped the band c
+ apture something magical on their 
+ new album\, 11 Short Stories Of Pai
+ n & Glory.\n\nA look back at childho
+ od life\, a snapshot of a clueless 
+ Masshole\, a stop-you-in-your track
+ s reflection on a terrorist traged
+ y...it’s all there across the re
+ cord’s 11 tracks. There are mome
+ nts of ass-kicking Celtic punk att
+ itude\, ball-busting wisecracks\, te
+ ar-jerking confessions\, and the ki
+ nd of upbeat words of wisdom that 
+ can be chanted loud and proud acro
+ ss arenas and stadiums worldwide. 
+ It’s real. It’s raw. It’s Dr
+ opkick Murphys.\n\n11 Short Stories 
+ Of Pain & Glory represents a high-
+ water mark for Dropkick Murphys as
+  they invite listeners everywhere 
+ to once again take an active part 
+ in their story. “We’ve stayed 
+ true to what the band is and has a
+ lways been. And we’re still expa
+ nding on our sound and lyrical con
+ tent\,” offers Brennan.\n\n“There
+  is lots of messed up stuff going 
+ on in the world but you can't let 
+ it take you down\,” Casey continu
+ es. “The only way to survive in 
+ life is to enjoy it and make the m
+ ost of it. That’s what this reco
+ rd is. There’s good times. There
+ ’s bad times. There’s happy ti
+ mes. There’s sad times. In just 
+ 40 minutes\, you feel all of that. 
+ We truly put our heart and soul in
+ to every record we’ve ever made.
+  This is no exception. We wouldn’
+ t let it go down any other way. We
+ ’ll break up before that happens
+ .” 11 Short Stories Of Pain & Gl
+ ory is the perfect way to kick off
+  another 20 years of Dropkick Murp
+ hys. Hold your head high\, and cran
+ k it up.\n\nDropkick Murphys are:\n\nA
+ l Barr lead vocals\n\nTim Brennan gu
+ itars\, accordion\, mellotron\, whist
+ les and vocals\n\nKen Casey lead voc
+ als and bass guitar\n\nJeff DaRosa b
+ anjo\, bouzouki\, mandolin\, harmonic
+ a\, acoustic guitars and vocals\n\nMa
+ tt Kelly drums\, percussion and voc
+ als\n\nJames Lynch guitars and vocal
+ s\n\nwww.dropkickmurphys.com/\n\nTicke
+ ts priced €32.50 go on sale Mond
+ ay 8th October at 10am through www
+ .ticketmaster.ie & usual outlets n
+ ationwide.\n\nwww.dropkickmurphys.co
+ m/\n\nhttps://www.facebook.com/event
+ s/1666638333441381/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T114256Z
+LAST-MODIFIED:20181121T114256Z
+CREATED:20181116T100223Z
+SEQUENCE:438033
+ORGANIZER;CN=Bad Reputation IRL:MAILTO:noreply@facebookmail.com
+DTSTART:20190408T190000Z
+DTEND:20190408T224500Z
+UID:e255782978428353@facebook.com
+SUMMARY:The Black Dahlia Murder - Dolans Warehouse, Limerick - 08/04/19
+LOCATION:Dolans Pub
+URL:https://www.facebook.com/events/255782978428353/
+DESCRIPTION:Bad Reputation IRL \nby Arrangement
+  With UTA presents:\n\nThe Black Dah
+ lia Murder\n& Guests\n\nMonday 8th Ap
+ ril 2019\nDolans Warehouse\, Dolans\,
+  Limerick\nDoors: 8pm\nTickets: €2
+ 0 (inc booking fee)\nOn sale from T
+ uesday 20th Nov 2018\nwww.dolans.ie
+  & www.ticketmaster.ie\n\nhttps://ww
+ w.facebook.com/events/255782978428
+ 353/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181116T100001Z
+LAST-MODIFIED:20181116T100001Z
+CREATED:20181115T110714Z
+SEQUENCE:82367
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190407T173000Z
+DTEND:20190407T213000Z
+UID:e574600189656295@facebook.com
+SUMMARY:The Black Dahlia Murder - Dublin - 7th April 2019
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/574600189656295/
+DESCRIPTION:DME By Arrangement With UTA Presen
+ ts\n\nThe Black Dahlia Murder\nPlus G
+ uests\n\nVoodoo Lounge Dublin\nSunday
+  7th April 2019\n6.30pm - 18+\n€20
+  inc bkg fee from www.ticketmaster
+ .ie & outlets nationwide\, www.tick
+ ets.ie & Sound Cellar\n\nwww.dme-pro
+ motions.com\n\nhttps://www.facebook.
+ com/events/574600189656295/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181106T102709Z
+LAST-MODIFIED:20181106T102709Z
+CREATED:20181106T102709Z
+SEQUENCE:0
+ORGANIZER;CN=Aiken Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190402T183000Z
+DTEND:20190402T213000Z
+UID:e687920031608626@facebook.com
+SUMMARY:IDLES + Crows | Vicar Street, Dublin
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/687920031608626/
+DESCRIPTION:IDLES + Crows\nVicar Street\, Dublin
+ \n2nd April 2019\n \nTickets €22.90
+  go on sale this Friday at 9am!\n\nA
+ fter a wrapping up sell-out UK and
+  US tours\, IDLES have confirmed a 
+ 2019 world tour\, headlining their 
+ biggest venues yet. The run will i
+ nclude a headline show at The Belf
+ ast Empire\, 1st April 2019 and Vic
+ ar Street\, Dublin 2nd April 2019. 
+  Tickets go on public sale this Fr
+ iday Nov 9th at 9AM local time\, wi
+ th tickets available at www.idlesb
+ and.com.\n\nIDLES’ new record 'Joy
+  As An Act Of Resistance' debuted 
+ at no.5 in the UK charts\, breaking
+  Rough Trade’s all-time record f
+ or most pre-orders and sales in da
+ y. It is currently the no.1 best r
+ eviewed record of 2018 (average ra
+ ting of 88 across 25 reviews) at A
+ lbum Of The Year and in the Top 10
+  on Metacritic. \n\nThe band saw not
+  only singles but the album itself
+  A-listed at 6 Music and earned ma
+ jor features\, amongst others\, with
+  the likes of Q\, Mojo\, The Guardia
+ n and covers with DIY\, Loud & Quie
+ t\, So Young and NME. They’ve arr
+ ived internationally too with only
+  last week NPR Music declaring “
+ I am an IDLES addict. It's like ma
+ inlining an uplifting and unifying
+  assault on nationalism\, racism\, i
+ ntolerance\, and class inequality.”
+  \n\nThe band won Best Breakthrough 
+ at the Q Awards last month followi
+ ng their Jools Holland debut which
+  NME called “history in the maki
+ ng…incomparably brilliant\,” li
+ kening it to Arctic Monkeys and Ka
+ nye West's first appearances on th
+ e show. \n\nSelected praise for IDLE
+ S:\n\n“No hyperbole needed\; IDLES 
+ are the most important band we hav
+ e right now." - DIY Magazine (cove
+ r story)\n\n“Everything about Joy 
+ As An Act Of Resistance is just so
+  perfectly realised. An instant cl
+ assic\, one that people will turn t
+ o in times of need for years to co
+ me.” 10/10 NME\n\n“This album is
+  a heart-breaking but jubilant exp
+ loration of joy\, honesty\, fragilit
+ y and expression as our most power
+ ful means of human resistance.” 
+  9/10 Classic Rock\n\n“IDLES have 
+ released the most relevant and at 
+ times gut wrenching album of the y
+ ear.” Drowned In Sound\n\n“IDLES
+  make sense of modern chaos on the
+  utterly essential Joy as an Act o
+ f Resistance.” The Line Of Best 
+ Fit\n\n“Idles take their rightful 
+ place as not Britain’s\, nor Euro
+ pe’s\, but the world’s most vit
+ al band.\nIt’s a fist-clenched ce
+ lebration of the full spectrum of 
+ phenomena - inexplicable\, crushing
+  and totally joyous - that divides
+  and unites us all.” The Quietus
+ \n\n“IDLES deliver a thunderous an
+ d sharp state-of-the-nation addres
+ s.” The 405\n\nhttp://www.idlesban
+ d.com/\n\nhttps://www.facebook.com/i
+ dlesband/\n\nhttps://twitter.com/idl
+ esband\n\nhttps://www.instagram.com/
+ idlesband/\n\nhttps://www.facebook.c
+ om/events/687920031608626/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181109T105858Z
+LAST-MODIFIED:20181109T105858Z
+CREATED:20181106T102707Z
+SEQUENCE:261111
+ORGANIZER;CN=Aiken Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190401T183000Z
+DTEND:20190401T213000Z
+UID:e632009207195615@facebook.com
+SUMMARY:SOLD OUT - IDLES + Crows | The Belfast Empire
+LOCATION:The Belfast Empire
+URL:https://www.facebook.com/events/632009207195615/
+DESCRIPTION:IDLES + Crows\nThe Belfast Empire \n
+ 1st April 2019\n \nTickets £19.50 g
+ o on sale this Friday at 9am!\n\nAft
+ er a wrapping up sell-out UK and U
+ S tours\, IDLES have confirmed a 20
+ 19 world tour\, headlining their bi
+ ggest venues yet. The run will inc
+ lude a headline show at The Belfas
+ t Empire\, 1st April 2019 and Vicar
+  Street\, Dublin 2nd April 2019.  T
+ ickets go on public sale this Frid
+ ay Nov 9th at 9AM local time\, with
+  tickets available at www.idlesban
+ d.com.\n\nIDLES’ new record 'Joy A
+ s An Act Of Resistance' debuted at
+  no.5 in the UK charts\, breaking R
+ ough Trade’s all-time record for
+  most pre-orders and sales in day.
+  It is currently the no.1 best rev
+ iewed record of 2018 (average rati
+ ng of 88 across 25 reviews) at Alb
+ um Of The Year and in the Top 10 o
+ n Metacritic. \n\nThe band saw not o
+ nly singles but the album itself A
+ -listed at 6 Music and earned majo
+ r features\, amongst others\, with t
+ he likes of Q\, Mojo\, The Guardian 
+ and covers with DIY\, Loud & Quiet\,
+  So Young and NME. They’ve arriv
+ ed internationally too with only l
+ ast week NPR Music declaring “I 
+ am an IDLES addict. It's like main
+ lining an uplifting and unifying a
+ ssault on nationalism\, racism\, int
+ olerance\, and class inequality.”
+  \n\nThe band won Best Breakthrough 
+ at the Q Awards last month followi
+ ng their Jools Holland debut which
+  NME called “history in the maki
+ ng…incomparably brilliant\,” li
+ kening it to Arctic Monkeys and Ka
+ nye West's first appearances on th
+ e show. \n\nSelected praise for IDLE
+ S:\n\n“No hyperbole needed\; IDLES 
+ are the most important band we hav
+ e right now." - DIY Magazine (cove
+ r story)\n\n“Everything about Joy 
+ As An Act Of Resistance is just so
+  perfectly realised. An instant cl
+ assic\, one that people will turn t
+ o in times of need for years to co
+ me.” 10/10 NME\n\n“This album is
+  a heart-breaking but jubilant exp
+ loration of joy\, honesty\, fragilit
+ y and expression as our most power
+ ful means of human resistance.” 
+  9/10 Classic Rock\n\n“IDLES have 
+ released the most relevant and at 
+ times gut wrenching album of the y
+ ear.” Drowned In Sound\n\n“IDLES
+  make sense of modern chaos on the
+  utterly essential Joy as an Act o
+ f Resistance.” The Line Of Best 
+ Fit\n\n“Idles take their rightful 
+ place as not Britain’s\, nor Euro
+ pe’s\, but the world’s most vit
+ al band.\nIt’s a fist-clenched ce
+ lebration of the full spectrum of 
+ phenomena - inexplicable\, crushing
+  and totally joyous - that divides
+  and unites us all.” The Quietus
+ \n\n“IDLES deliver a thunderous an
+ d sharp state-of-the-nation addres
+ s.” The 405\n\nhttp://www.idlesban
+ d.com/\n\nhttps://www.facebook.com/i
+ dlesband/\n\nhttps://twitter.com/idl
+ esband\n\nhttps://www.instagram.com/
+ idlesband/\n\nhttps://www.facebook.c
+ om/events/632009207195615/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180823T104305Z
+LAST-MODIFIED:20180823T104305Z
+CREATED:20180625T151433Z
+SEQUENCE:5081312
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190329T190000Z
+DTEND:20190329T220000Z
+UID:e1700434493385959@facebook.com
+SUMMARY:Cellar Darling - On The Rox, Dublin - 29th March 2019
+LOCATION:On The Rox
+URL:https://www.facebook.com/events/1700434493385959/
+DESCRIPTION:DME By Arrangement With K2 Present
+ s\n\nCellar Darling\nPlus Guests\n\nOn 
+ The Rox\, Dublin\nFriday 29th March 
+ 2019\n7pm - 18+\n€16 inc bkg fee -
+  on sale 29th June 10am\n\nwww.dme-p
+ romotions.com\n\nhttps://www.faceboo
+ k.com/events/1700434493385959/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180901T010546Z
+LAST-MODIFIED:20180901T010546Z
+CREATED:20180626T135230Z
+SEQUENCE:5742796
+ORGANIZER;CN=Audio Glasgow:MAILTO:noreply@facebookmail.com
+DTSTART:20190328T183000Z
+DTEND:20190328T223000Z
+UID:e268721893703326@facebook.com
+SUMMARY:Cellar Darling - 28th March 2019 | Audio Glasgow
+LOCATION:Audio Glasgow
+URL:https://www.facebook.com/events/268721893703326/
+DESCRIPTION:Cellar Darling\n+ Guests\n\n28th Marc
+ h 2019\nAudio Glasgow | 14 Midland 
+ St | G1 4PP\n6.30PM | 16+ |  £12.5
+ 0adv\n\nTickets on sale Friday 29th 
+ June from www.tickets-scotland.com
+  or Tickets Scotland Argyle St Gla
+ sgow & Rose St Edinburgh.\n\nhttps:/
+ /www.facebook.com/events/268721893
+ 703326/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181120T104402Z
+LAST-MODIFIED:20181120T104402Z
+CREATED:20181120T104132Z
+SEQUENCE:150
+ORGANIZER;CN=Eventbrite:MAILTO:noreply@facebookmail.com
+DTSTART:20190323T193000Z
+DTEND:20190323T223000Z
+UID:e460206744507522@facebook.com
+SUMMARY:Therapy?
+LOCATION:Cyprus Avenue
+URL:https://www.facebook.com/events/460206744507522/
+DESCRIPTION:Andy Cairns tells a great story ab
+ out Therapy?’s spring UK tour wi
+ th The Stranglers. As the trio wal
+ ked onstage in Kilmarnock\, Scotlan
+ d\, their frontman noticed a solita
+ ry punter\, three rows from the fro
+ nt\, vigorously booing his band bef
+ ore a single amplified guitar chor
+ d had been struck. Each successive
+  song in the set received the same
+  vociferous\, relentlessly hostile 
+ response. Two nights later\, at Not
+ tingham Rock City\, the antagonist 
+ was back once more\, front and cent
+ re\, still booing\, though with mark
+ edly less enmity than before. In M
+ anchester\, on the final night of t
+ he campaign\, Cairns stepped from h
+ is tour bus to be confronted again
+  by the by-now-familiar face of hi
+ s new nemesis. This time\, however\,
+  the guy was clutching a pen and a
+  copy of Therapy?’s classic 1994
+  album Troublegum. “Could you si
+ gn this for me please?” he asked
+  politely.\n\n“I think we’d ba
+ ttered him into submission\,” Cai
+ rns says with a laugh.\n\nIt’s a
+ n instructive anecdote\, both a tes
+ tament to Therapy?’s enduring ca
+ pacity to win over hearts and mind
+ s with their singular\, sui generis
+  sound\, and a reminder\, in a broad
+ er sense\, that even in the face of
+  alienation\, disaffection and disc
+ ord\, there remains hope for consen
+ sus\, harmony and solidarity. \n\nW
+ hich brings us\, neatly\, to Therapy
+ ?’s fifteenth studio album\, Clea
+ ve. Roughly themed around notions 
+ of duality and division\, the band’
+ s follow-up to 2015’s acclaimed 
+ Disquiet - and their first recordi
+ ng for new label Marshall Records 
+ – is a sharply focused\, fiercely
+  intelligent\, impassioned and empo
+ wering set of songs from a band op
+ erating at a creative and artistic
+  peak. A scathing\, incisive state-
+ of-the-nation address\, investigati
+ ng the schisms in contemporary soc
+ iety and the motivations of those 
+ seeking to propagate disjuncture\, 
+ it’s a powerful\, challenging\, un
+ compromising collection from a ban
+ d never afraid to confront and dis
+ sect humanity’s darkest impulses
+ .\n\nhttps://www.facebook.com/events
+ /460206744507522/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180815T174512Z
+LAST-MODIFIED:20180815T174512Z
+CREATED:20180629T072209Z
+SEQUENCE:4098183
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190323T173000Z
+DTEND:20190323T221500Z
+UID:e216599992495163@facebook.com
+SUMMARY:Overkill - Destruction - Flotsam & Jetsam Dublin 23.3.19
+LOCATION:The Academy
+URL:https://www.facebook.com/events/216599992495163/
+DESCRIPTION:Killfest 2019 featuring Overkill\, 
+ Destruction\, Flotsam and Jetsam & 
+ MESHIAAK will come to Dublin's The
+  Academy on Saturday 23rd March 20
+ 19! Tickets €35 inc bkg fee on s
+ ale Friday 6th July @ 10am.\n\nLegen
+ dary New Jersey thrashers OVERKILL
+  released their latest live album 
+ titled »Live In Overhausen«\, on 
+ May 18th\, 2018 through Nuclear Bla
+ st.\n\nToday\, the band are pleased t
+ o announce an extended European to
+ ur for March 2019 in support of th
+ eir upcoming\, untitled new studio 
+ album. OVERKILL will be joining fo
+ rces with the German cult thrash m
+ etal band and label mates DESTRUCT
+ ION\, legendary thrash metallers FL
+ OTSAM & JETSAM and up and coming A
+ ustralian thrash squad MESHIAAK fo
+ r the »KILLFEST TOUR 2019« .\n\nCo
+ mmented OVERKILL vocalist Bobby Bl
+ itz:\n"ONE MORE FUCKING TIME! Let t
+ he the shit fall away and the meta
+ l rule the day. Overkill comes to 
+ Europe in march 2019 on the releas
+ e of the new album. So get your ne
+ cks ready boys and girls\, it's goi
+ ng to be dangerous!"\n\nSchmier from
+  DESTRUCTION adds:\n„Touring with
+  some of the most influential Amer
+ ican Thrash icons is always a plea
+ sure. We became good friends over 
+ all those years\, I'm happy we are 
+ ALL still around and we can thrash
+  Europe together. Also some of the
+  Australian boys from MESHIAAK hav
+ e toured with us Down Under before
+  with their predecessor band 4 ARM
+ . What an intense family-reunion…
+ hahaha! \nThis is undoubtedly a kil
+ ler package for the enthusiastic E
+ uropean metal fans for sure - we w
+ ill present DESTRUCTION in fantast
+ ic form and with a terrific new dr
+ ummer! „\n\nKILLFEST TOUR 2019\nOVE
+ RKILL\nDESTRUCTION\nFLOTSAM & JETSAM
+ \nMESHIAAK\n\n08.03. IT Bologna - Zon
+ a Roveri\n09.03. IT Bergamo Palosco
+  - Acradia\n10.03. DE München - Ba
+ ckstage\n14.03. DE Berlin - Columbi
+ a Theater\n16.03. DE Osnabrück - H
+ yde Park\n17.03. DE Frankfurt - Bat
+ schkapp\n20.03. FR Paris - Trabendo
+ \n21.03. UK London - O2 Academy\n22.
+ 03. UK Hammerfest\n23.03. IR Dublin
+  - Academy\n24.03. UK Glasgow - SWG
+ 3\n\nMore shows will be announced so
+ on....\n\nhttps://www.facebook.com/e
+ vents/216599992495163/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181112T163632Z
+LAST-MODIFIED:20181112T163632Z
+CREATED:20181109T161252Z
+SEQUENCE:260620
+ORGANIZER;CN=Alive in Dublin:MAILTO:noreply@facebookmail.com
+DTSTART:20190323T000000Z
+DTEND:20190323T230000Z
+UID:e2337472632961149@facebook.com
+SUMMARY:The Angry Agenda & United Bottles
+LOCATION:The Underground
+URL:https://www.facebook.com/events/2337472632961149/
+DESCRIPTION:This is going to be another super 
+ night of Street Punk Rock n Roll m
+ usic in Dublin city. It will also 
+ be another first trip into town an
+ d this time for Watfords's The Ang
+ ry Agenda. They delivered fine set
+ s at Blackpool's Rebellion Festiva
+ l for the past couple of years and
+  are also ripping up venues across
+  the UK. All on the back of two  f
+ antastic albums. These guys really
+  produce the goods live and we are
+  excited to have them coming over.
+  This will be a chance to catch th
+ em do their thing in a small tight
+  perfect punk rock venue in the ci
+ ty center. We know you folks will 
+ give them a fantastic welcome. Her
+ e comes trouble ......\nAlso on the
+  bill will be Belfast's United Bot
+ tles. No stranger at all to Dublin
+ . They played quiet a few shows in
+  the city over 2018 and I expect t
+ o see plenty more of them in 2019.
+  Also fantastic live\, note perfect
+ . Should be a few new tunes in the
+  air this night too.\n\nAs usual I a
+ sk you all to help us beat Facefec
+ kers algorithms\, share the event &
+  invite your mates. This is our sc
+ ene\, everyone is welcome\, let's ma
+ ke it work. Save live music & supp
+ ort the venues that support us .SH
+ ARE ! SHARE ! SHARE !\nSee ya in th
+ e basement folks\, up the front & a
+ t the bar !\n\nhttps://www.facebook.
+ com/events/2337472632961149/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181120T172946Z
+LAST-MODIFIED:20181120T172946Z
+CREATED:20181120T110455Z
+SEQUENCE:23091
+ORGANIZER;CN=Dolans Pub:MAILTO:noreply@facebookmail.com
+DTSTART:20190322T210000Z
+DTEND:20190323T000000Z
+UID:e359050538197140@facebook.com
+SUMMARY:Therapy? presented by Seoda Shows and Bad Reputation
+LOCATION:Dolans Pub
+URL:https://www.facebook.com/events/359050538197140/
+DESCRIPTION:Presented by Seoda Shows and Bad R
+ eputation Ireland\, Dolans are deli
+ ghted to announce that Therapy? ar
+ e returning to Dolans Warehouse Fr
+ iday March 22nd 2019. \nTickets are
+  on sale Thursday November 22nd at
+  9am. \n€27 plus booking fee\n\nAnd
+ y Cairns tells a great story about
+  Therapy?’s spring UK tour with 
+ The Stranglers. As the trio walked
+  onstage in Kilmarnock\, Scotland\, 
+ their frontman noticed a solitary 
+ punter\, three rows from the front\,
+  vigorously booing his band before
+  a single amplified guitar chord h
+ ad been struck. Each successive so
+ ng in the set received the same vo
+ ciferous\, relentlessly hostile res
+ ponse. Two nights later\, at Nottin
+ gham Rock City\, the antagonist was
+  back once more\, front and centre\,
+  still booing\, though with markedl
+ y less enmity than before. In Manc
+ hester\, on the final night of the 
+ campaign\, Cairns stepped from his 
+ tour bus to be confronted again by
+  the by-now-familiar face of his n
+ ew nemesis. This time\, however\, th
+ e guy was clutching a pen and a co
+ py of Therapy?’s classic 1994 al
+ bum Troublegum. “Could you sign 
+ this for me please?” he asked po
+ litely.\n“I think we’d battered
+  him into submission\,” Cairns sa
+ ys with a laugh.\nIt’s an instruc
+ tive anecdote\, both a testament to
+  Therapy?’s enduring capacity to
+  win over hearts and minds with th
+ eir singular\, sui generis sound\, a
+ nd a reminder\, in a broader sense\,
+  that even in the face of alienati
+ on\, disaffection and discord\, ther
+ e remains hope for consensus\, harm
+ ony and solidarity. \nWhich brings 
+ us\, neatly\, to Therapy?’s fiftee
+ nth studio album\, Cleave. Roughly 
+ themed around notions of duality a
+ nd division\, the band’s follow-u
+ p to 2015’s acclaimed Disquiet -
+  and their first recording for new
+  label Marshall Records – is a s
+ harply focused\, fiercely intellige
+ nt\, impassioned and empowering set
+  of songs from a band operating at
+  a creative and artistic peak. A s
+ cathing\, incisive state-of-the-nat
+ ion address\, investigating the sch
+ isms in contemporary society and t
+ he motivations of those seeking to
+  propagate disjuncture\, it’s a p
+ owerful\, challenging\, uncompromisi
+ ng collection from a band never af
+ raid to confront and dissect human
+ ity’s darkest impulses.\n\nFrom th
+ e thrillingly propulsive assault o
+ f Wreck It Like Beckett via the ad
+ dictive Callow (the album's first 
+ single\, out now) and the unsettlin
+ g I Stand Alone to the disquieting
+ \, bleakly beautiful No Sunshine\, t
+ he ten tracks which make up Cleave
+  coalesce to paint a portrait of a
+  fractured\, dislocated world rent 
+ by unprincipled\, mendacious master
+ s.\n“We’re living in a time riv
+ en by conflict\,” Andy Cairns sta
+ tes baldly. “You look at what’
+ s happening in the United States a
+ t present\, what’s going on with 
+ Brexit in the UK\, with North and S
+ outh Korea\, with Palestine and Isr
+ ael\, and it’s impossible not to 
+ see turmoil and turbulence. Some o
+ f these conflicts have been going 
+ on as long as I can remember\, but 
+ they seemed to really reach a head
+  again around the time we were wri
+ ting the album. Cleave is our resp
+ onse to the divisions we see all a
+ round us.”\n\nIt’s worth conside
+ ring Therapy?’s journey to this 
+ point. Their story begins in North
+ ern Ireland in 1989\, when vocalist
+ /guitarist Cairns\, bassist Michael
+  McKeegan and drummer Fyfe Ewing –
+  bonded by a deep appreciation of 
+ post-punk\, art-rock\, Detroit techn
+ o and the most uncompromising soun
+ ds from the fringes of the US nois
+ e rock underground – embarked up
+ on a mission to investigate the ps
+ yches of the marginalised\, malcont
+ ent and misanthropic. The 1990 rel
+ ease of a self-financed seven inch
+  single (Meat Abstract) on the ban
+ d’s own Multifuckingnational Rec
+ ords label\, was followed by the re
+ cording of a brace of bold\, abrasi
+ ve mini albums\, 1991's Babyteeth a
+ nd 1992's Pleasure Death\, for Lond
+ on-based Wiiija record\, both colle
+ ctions securing Number 1 slots on 
+ the UK’s Independent music chart
+ s. Such success did not go unnotic
+ ed by the nation’s major labels\,
+  and the in-demand trio elected to
+  partner next with A&M Records\, fo
+ r whom they promptly delivered a T
+ op 30 single (Teethgrinder) and To
+ p 40 album (Nurse) in 1993. On a c
+ reative roll\, in 1994 Therapy? tru
+ ly hit their stride with the elect
+ rifying\, exhilarating punk-metal c
+ rossover set Troublegum\, which ser
+ ved up no fewer than five UK Top 4
+ 0 singles (Turn\, Nowhere\, Die Laug
+ hing\, Trigger Inside and Screamage
+ r\, the opening track from 1993 EP 
+ Shortsharpshock)\, sold one million
+  copies worldwide and garnered the
+  fast-rising band a Mercury Music 
+ Prize nomination. Unwilling to dil
+ ute their vision in pursuit of mai
+ nstream acceptance\, the band spent
+  much of the two decades which fol
+ lowed re-writing the rule book for
+  what constitutes success for a mo
+ dern rock act\, issuing a successio
+ n of fiercely idiosyncratic albums
+ \, aided and abetted by the recruit
+ ment\, in 2002\, of drummer Neil Coo
+ per. To the delight of their loyal
+  fan-base\, in 2015 the trio concei
+ ved a sequel of sorts to Troublegu
+ m in Disquiet\, a brilliantly-reali
+ sed\, bruisingly melodic punk/metal
+  collection which took as its star
+ ting point questions of where the 
+ adolescent protagonist of their 19
+ 94 masterpiece might find himself 
+ 20 years on. Stepping away from th
+ at fascinating narrative\, Cleave c
+ ontinues along a similar sonic pat
+ h\, alluding to the band’s ‘cla
+ ssic’ sound while opening up new
+  paths to explore.\n\n“The way I’
+ ve described Cleave to people who’
+ ve been asking is that it’s kind
+ a like Nurse and Pleasure Death-er
+ a Therapy? meets Troublegum\, but w
+ ith a totally modern 21st century 
+ production\,” says Cairns of the 
+ 10 song collection committed to ta
+ pe by producer Chris Sheldon at Bl
+ ast studios in Newcastle-upon-Tyne
+  in January this year. “I think 
+ we’ve become a lot more comforta
+ ble about doing what we do best. A
+ round the time of [2009’s] Crook
+ ed Timber and [2010’s] A Brief C
+ rack Of Light I was still trying t
+ o prove a point to people that I l
+ isten to a lot of different music 
+ and trying to illustrate that in t
+ he music we were writing. But when
+  we did Disquiet and saw the react
+ ion we got from people who love gu
+ itar music and love our band it ma
+ de me realise that there’s certa
+ in things we do so well\, certain t
+ hings that are so characteristic o
+ f Therapy?\, so we decided to focus
+  on these things. We never want to
+  be a template band\, writing the s
+ ame song forever\, but we did defin
+ itely try to play to our strengths
+ .” \nCairns credits producer Shel
+ don\, who worked with the band on T
+ roublegum\, 1998’s Semi-Detached 
+ and 2003’s High Anxiety\, for kee
+ ping the band fixated upon deliver
+ ing their new material with maximu
+ m impact\, streamlining arrangement
+ s and stripping away extraneous fa
+ t\, setting aside ego in service of
+  the songs.\n“We know we can trus
+ t Chris\,” says Cairns simply. “
+ He has a great history with the ba
+ nd and no agenda. It’s not like 
+ he’s looking to make hit singles
+ \, but he also wants the band to be
+  at their maximum ability\, and he’
+ s very good at pointing out proble
+ ms without offending you! In pre-p
+ roduction we shortened a lot of th
+ e songs and got directly to the po
+ int. You can get into your own lit
+ tle bubble when you’re writing s
+ ongs so it’s great to have someo
+ ne objective come in and challenge
+  you to re-think things.”\nThe re
+ sult is one of the most formidable
+ \, provocative and impactful albums
+  of Therapy?’s storied 29 year c
+ areer\, once again proving that the
+  band’s pre-eminence as one of t
+ he UK’s most inventive\, fearless
+  and individualistic musical artis
+ ts. Andy Cairns offers a detailed 
+ dissection of the album in the tra
+ ck-by-track breakdown that follows
+ \, but taking a broader view of his
+  band’s fifteenth studio set\, he
+ ’s justifiably proud of the unif
+ ied drive and restless creativity 
+ evident in this powerful\, questing
+  collection.\n“I know that we can
+  be a difficult sell\, because we h
+ ave no particular niche and no des
+ ire to conform\,” he admits\, “b
+ ut Therapy? have always the kind o
+ f band that when people discover u
+ s\, they immerse themselves deep an
+ d keep us close to their hearts. W
+ e’ve never been part of a trend\,
+  so we’ve never been cast aside 
+ when fashions changed. Cleave\, to 
+ me\, is Therapy? at our most focuse
+ d. I love our more experimental si
+ de\, but I also love that this reco
+ rd sounds like it was made by a ba
+ nd who’re all reading from the s
+ ame script and moving forward with
+  the same determination and hunger
+ .”\n\nhttps://www.facebook.com/eve
+ nts/359050538197140/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180913T182517Z
+LAST-MODIFIED:20180913T182517Z
+CREATED:20180830T175808Z
+SEQUENCE:1211229
+ORGANIZER;CN=Down by Law Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190322T200000Z
+DTEND:20190323T000000Z
+UID:e1115481608630544@facebook.com
+SUMMARY:Rotten Sound live in Belfast
+LOCATION:The Palm House
+URL:https://www.facebook.com/events/1115481608630544/
+DESCRIPTION:Down by Law presents:\n\nRotten Soun
+ d\nStrangle Wire\nScimitar \nTHVS\n\nFr
+ iday 22th March 2019 - The Palm Ho
+ use\, Belfast\nDoors: 8:00pm\nTickets
+  £22 via WeGotTickets\n\nhttps://ww
+ w.facebook.com/events/111548160863
+ 0544/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181120T101037Z
+LAST-MODIFIED:20181120T101037Z
+CREATED:20181120T101037Z
+SEQUENCE:0
+ORGANIZER;CN=Strange Brew:MAILTO:noreply@facebookmail.com
+DTSTART:20190321T200000Z
+DTEND:20190321T230000Z
+UID:e335874533866388@facebook.com
+SUMMARY:Therapy?
+LOCATION:Róisín Dubh
+URL:https://www.facebook.com/events/335874533866388/
+DESCRIPTION:Strange Brew presents\nTHERAPY?\nIn 
+ association with Aiken Promotions\n
+ \nThursday 21st March \n8pm. €24/2
+ 2\nOn sale Thursday at 9am\n\nAndy  C
+ airns  tells  a  great  story  abo
+ ut  Therapy?͛s  spring  UK  tour 
+  with  The  Stranglers.  As  the  
+ trio  walked  onstage  in  Kilmarn
+ ock\,  Scotland\,  their  frontman  
+ noticed  a  solitary  punter\,  thr
+ ee  rows  from  the  front\,  vigor
+ ously  booing  his  band  before  
+ a  single  amplified  guitar  chor
+ d  had  been  struck.  Each  succe
+ ssive  song  in  the  set  receive
+ d  the  same  vociferous\,  relentl
+ essly  hostile  response.  Two  ni
+ ghts  later\,  at  Nottingham  Rock
+   City\,  the  antagonist  was  bac
+ k  once  more\,  front  and  centre
+ \,  still  booing\,  though  with  m
+ arkedly  less  enmity  than  befor
+ e.  In  Manchester\,  on  the  fina
+ l  night  of  the  campaign\,  Cair
+ ns  stepped  from  his  tour  bus 
+  to  be  confronted  again  by  th
+ e  by-now-familiar  face  of  his 
+  new  nemesis.  This  time\,  howev
+ er\,  the  guy  was  clutching  a  
+ pen  and  a  copy  of  Therapy?͛s
+   classic  1994  album  Troublegum
+ .  ͞Could  you  sign  this  for  
+ me  please?͟  he  asked  politely
+ .  ͞I  think  we͛d  battered  hi
+ m  into  submission\,͟  Cairns  sa
+ ys  with  a  laugh.  It͛s  an  in
+ structive  anecdote\,  both  a  tes
+ tament  to  Therapy?͛s  enduring 
+  capacity  to  win  over  hearts  
+ and  minds  with  their  singular\,
+   sui  generis  sound\,  and  a  re
+ minder\,  in  a  broader  sense\,  t
+ hat  even  in  the  face  of  alie
+ nation\,  disaffection  and  discor
+ d\,  there  remains  hope  for  con
+ sensus\,  harmony  and  solidarity.
+     Which  brings  us\,  neatly\,  t
+ o  Therapy?͛s  fifteenth  studio 
+  album\,  Cleave.  Roughly  themed 
+  around  notions  of  duality  and
+   division\,  the  band͛s  follow-
+ up  to  2015͛s  acclaimed  Disqui
+ et  -  and  their  first  recordin
+ g  for  new  label  Marshall  Reco
+ rds  –is  a  sharply  focused\,  
+ fiercely  intelligent\,  impassione
+ d  and  empowering  set  of  songs
+   from  a  band  operating  at  a 
+  creative  and  artistic  peak.  A
+   scathing\,  incisive  state-of-th
+ e-nation  address\,  investigating 
+  the  schisms  in  contemporary  s
+ ociety  and  the  motivations  of 
+  those  seeking  to  propagate  di
+ sjuncture\,  it͛s  a  powerful\,  c
+ hallenging\,  uncompromising  colle
+ ction  from  a  band  never  afrai
+ d  to  confront  and  dissect  hum
+ anity͛s  darkest  impulses.  \n\nFr
+ om  the  thrillingly  propulsive  
+ assault  of  Wreck  It  Like  Beck
+ ett  via  the  addictive  Callow  
+ (the  album's  first  single\,  out
+   now)  and  the  unsettling  I  S
+ tand  Alone  to  the  disquieting\,
+   bleakly  beautiful  No  Sunshine
+ \,  the  ten  tracks  which  make  
+ up  Cleave  coalesce  to  paint  a
+   portrait  of  a  fractured\,  dis
+ located  world  rent  by  unprinci
+ pled\,  mendacious  masters.  ͞We͛
+ re  living  in  a  time  riven  by
+   conflict\,͟  Andy  Cairns  state
+ s  baldly.  ͞You  look  at  what͛
+ s  happening  in  the  United  Sta
+ tes  at  present\,  what͛s  going 
+  on  with  Brexit  in  the  UK\,  w
+ ith  North  and  South  Korea\,  wi
+ th  Palestine  and  Israel\,  and  
+ it͛s  impossible  not  to  see  t
+ urmoil  and  turbulence.  Some  of
+   these  conflicts  have  been  go
+ ing  on  as  long  as  I  can  rem
+ ember\,  but  they  seemed  to  rea
+ lly  reach  a  head  again  around
+   the  time  we  were  writing  th
+ e  album.  Cleave  is  our  respon
+ se  to  the  divisions  we  see  a
+ ll  around  us.͟It͛s  worth  con
+ sidering  Therapy?͛s  journey  to
+   this  point.  Their  story  begi
+ ns  in  Northern  Ireland  in  198
+ 9\,  when  vocalist/guitarist  Cair
+ ns\,  bassist  Michael  McKeegan  a
+ nd  drummer  Fyfe  Ewing  –  bon
+ ded  by  a  deep  appreciation  of
+   post-punk\,  art-rock\,  Detroit  
+ techno  and  the  most  uncompromi
+ sing  sounds  from  the  fringes  
+ of  the  US  noise  rock  undergro
+ und  –  embarked  upon  a  missi
+ on  to  investigate  the  psyches 
+  of  the  marginalised\,  malconten
+ t  and  misanthropic.  The  1990  
+ release  of  a  self-financed  sev
+ en  inch  single  (Meat  Abstract)
+   on  the  band͛s  own  Multifuck
+ ingnational  Records  label\,  was 
+  followed  by  the  recording  of 
+  a  brace  of  bold\,  abrasive  mi
+ ni  albums\,  1991's  Babyteeth  an
+ d  1992's  Pleasure  Death\,  for  
+ London-based  Wiiija  record\,  bot
+ h  collections  securing  Number  
+ 1  slots  on  the  UK͛s  Independ
+ ent  music  charts.  Such  success
+   did  not  go  unnoticed  by  the
+   nation͛s  major  labels\,  and  
+ the  in-demand  trio  elected  to 
+  partner  next  with  A&M  Records
+ \,  for  whom  they  promptly  deli
+ vered  a  Top  30  single  (Teethg
+ rinder)  and  Top  40  album  (Nur
+ se)  in  1993.  On  a  creative  r
+ oll\,  in  1994  Therapy?  truly  h
+ it  their  stride  with  the  elec
+ trifying\,  exhilarating  punk-meta
+ l  crossover  set  Troublegum\,  wh
+ ich  served  up  no  fewer  than  
+ five  UK  Top  40  singles  (Turn\,
+   Nowhere\,  Die  Laughing\,  Trigge
+ r  Inside  and  Screamager\,  the  
+ opening  track  from  1993  EP  Sh
+ ortsharpshock)\,  sold  one  millio
+ n  copies  worldwide  and  garnere
+ d  the  fast-rising  band  a  Merc
+ ury  Music  Prize  nomination.  Un
+ willing  to  dilute  their  vision
+   in  pursuit  of  mainstream  acc
+ eptance\,  the  band  spent  much  
+ of  the  two  decades  which  foll
+ owed  re-writing  the  rule  book 
+  for  what  constitutes  success  
+ for  a  modern  rock  act\,  issuin
+ g  a  succession  of  fiercely  id
+ iosyncratic  albums\,  aided  and  
+ abetted  by  the  recruitment\,  in
+   2002\,  of  drummer  Neil  Cooper
+ .  To  the  delight  of  their  lo
+ yal  fan-base\,  in  2015  the  tri
+ o  conceived  a  sequel  of  sorts
+   to  Troublegum  in  Disquiet\,  a
+   brilliantly-realised\,  bruisingl
+ y  melodic  punk/metal  collection
+   which  took  as  its  starting  
+ point  questions  of  where  the  
+ adolescent  protagonist  of  their
+   1994  \n\nmasterpiece  might  find
+   himself  20  years  on.  Steppin
+ g  away  from  that  fascinating  
+ narrative\,  Cleave  continues  alo
+ ng  a  similar  sonic  path\,  allu
+ ding  to  the  band͛s  ͚classic͛
+   sound  while  opening  up  new  
+ paths  to  explore.  ͞The  way  I
+ ͛ve  described  Cleave  to  peopl
+ e  who͛ve  been  asking  is  that
+   it͛s  kinda  like  Nurse  and  
+ Pleasure  Death-era  Therapy?  mee
+ ts  Troublegum\,  but  with  a  tot
+ ally  modern  21st  century  produ
+ ction\,͟  says  Cairns  of  the  1
+ 0  song  collection  committed  to
+   tape  by  producer  Chris  Sheld
+ on  at  Blast  studios  in  Newcas
+ tle-upon-Tyne  in  January  this  
+ year.  ͞I  think  we͛ve  become 
+  a  lot  more  comfortable  about 
+  doing  what  we  do  best.  Aroun
+ d  the  time  of  [2009͛s]  Crook
+ ed  Timber  and  [2010͛s]  A  Bri
+ ef  Crack  Of  Light  I  was  stil
+ l  trying  to  prove  a  point  to
+   people  that  I  listen  to  a  
+ lot  of  different  music  and  tr
+ ying  to  illustrate  that  in  th
+ e  music  we  were  writing.  But 
+  when  we  did  Disquiet  and  saw
+   the  reaction  we  got  from  pe
+ ople  who  love  guitar  music  an
+ d  love  our  band  it  made  me  
+ realise  that  there͛s  certain  
+ things  we  do  so  well\,  certain
+   things  that  are  so  character
+ istic  of  Therapy?\,  so  we  deci
+ ded  to  focus  on  these  things.
+   We  never  want  to  be  a  temp
+ late  band\,  writing  the  same  s
+ ong  forever\,  but  we  did  defin
+ itely  try  to  play  to  our  str
+ engths.͟Cairns  credits  producer
+   Sheldon\,  who  worked  with  the
+   band  on  Troublegum\,  1998͛s  
+ Semi-Detached  and  2003͛s  High 
+  Anxiety\,  for  keeping  the  band
+   fixated  upon  delivering  their
+   new  material  with  maximum  im
+ pact\,  streamlining  arrangements 
+  and  stripping  away  extraneous 
+  fat\,  setting  aside  ego  in  se
+ rvice  of  the  songs.  ͞We  know
+   we  can  trust  Chris\,͟  says  
+ Cairns  simply.  ͞He  has  a  gre
+ at  history  with  the  band  and 
+  no  agenda.  It͛s  not  like  he
+ ͛s  looking  to  make  hit  singl
+ es\,  but  he  also  wants  the  ba
+ nd  to  be  at  their  maximum  ab
+ ility\,  and  he͛s  very  good  at
+   pointing  out  problems  without
+   offending  you!  In  pre-product
+ ion  we  shortened  a  lot  of  th
+ e  songs  and  got  directly  to  
+ the  point.  You  can  get  into  
+ your  own  little  bubble  when  y
+ ou͛re  writing  songs  so  it͛s 
+  great  to  have  someone  objecti
+ ve  come  in  and  challenge  you 
+  to  re-think  things.͟The  resul
+ t  is  one  of  the  most  formida
+ ble\,  provocative  and  impactful 
+  albums  of  Therapy?͛s  storied 
+  29  year  career\,  once  again  p
+ roving  that  the  band͛s  pre-em
+ inence  as  one  of  the  UK͛s  m
+ ost  inventive\,  fearless  and  in
+ dividualistic  musical  artists.  
+ Andy  Cairns  offers  a  detailed 
+  dissection  of  the  album  in  t
+ he  track-by-track  breakdown  tha
+ t  follows\,  but  taking  a  broad
+ er  view  of  his  band͛s  fiftee
+ nth  studio  set\,  he͛s  justifia
+ bly  proud  of  the  unified  driv
+ e  and  restless  creativity  evid
+ ent  in  this  powerful\,  questing
+   collection.  ͞I  know  that  we
+   can  be  a  difficult  sell\,  be
+ cause  we  have  no  particular  n
+ iche  and  no  desire  to  conform
+ \,͟  he  admits\,  ͞but  Therapy? 
+  have  always  the  kind  of  band
+   that  when  people  discover  us
+ \,  they  immerse  themselves  deep
+   and  keep  us  \n\nclose  to  thei
+ r  hearts.  We͛ve  never  been  p
+ art  of  a  trend\,  so  we͛ve  ne
+ ver  been  cast  aside  when  fash
+ ions  changed.  Cleave\,  to  me\,  
+ is  Therapy?  at  our  most  focus
+ ed.  I  love  our  more  experimen
+ tal  side\,  but  I  also  love  th
+ at  this  record  sounds  like  it
+   was  made  by  a  band  who͛re 
+  all  reading  from  the  same  sc
+ ript  and  moving  forward  with  
+ the  same  determination  and  hun
+ ger.͟\n\nhttps://www.facebook.com/e
+ vents/335874533866388/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181120T102101Z
+LAST-MODIFIED:20181120T102101Z
+CREATED:20181120T102101Z
+SEQUENCE:0
+ORGANIZER;CN=Nerve Centre:MAILTO:noreply@facebookmail.com
+DTSTART:20190320T200000Z
+DTEND:20190320T230000Z
+UID:e195788434701219@facebook.com
+SUMMARY:Therapy?
+LOCATION:Nerve Centre
+URL:https://www.facebook.com/events/195788434701219/
+DESCRIPTION:In association with Aiken Promotio
+ ns\, Northern Irish rock legends Th
+ erapy? return to the Nerve Centre 
+ after 10 years for an NI exclusive
+  show\, marking their 30th annivers
+ ary as a band.\n\nThe tour it's part
+  of follows the release of the tri
+ o's 15th studio album\, Cleave\, the
+ ir first recording for new label M
+ arshall Records. Roughly themed ar
+ ound notions of duality and divisi
+ on\, a sharply focused\, fiercely in
+ telligent\, impassioned and empower
+ ing set of songs from a band opera
+ ting at a creative and artistic pe
+ ak.\n\nFrom the thrillingly propulsi
+ ve assault of 'Wreck It Like Becke
+ tt' via the addictive first single
+  'Callow' and the unsettling 'I St
+ and Alone' to the disquieting\, ble
+ akly beautiful 'No Sunshine'\, the 
+ ten tracks which make up Cleave co
+ alesce to paint a portrait of a fr
+ actured\, dislocated world rent by 
+ unprincipled\, mendacious masters.\n
+ \nTherapy's story begins in Norther
+ n Ireland in 1989\, when vocalist/g
+ uitarist Andy Cairns\, bassist Mich
+ ael McKeegan and drummer Fyfe Ewin
+ g – bonded by a deep appreciatio
+ n of post-punk\, art-rock\, Detroit 
+ techno and the most uncompromising
+  sounds from the fringes of the US
+  noise rock underground – embark
+ ed upon a mission to investigate t
+ he psyches of the marginalised\, ma
+ lcontent and misanthropic.\n\nAfter 
+ two Number 1 slots on the UK’s I
+ ndependent music charts\, Therapy? 
+ truly hit their stride in 1994 wit
+ h the electrifying\, exhilarating p
+ unk-metal crossover set Troublegum
+ \, which served up no fewer than fi
+ ve UK Top 40 singles\, sold one mil
+ lion copies worldwide and garnered
+  the fast-rising band a Mercury Mu
+ sic Prize nomination.\n\nThe band sp
+ ent much of the two decades which 
+ followed re-writing the rule book 
+ for what constitutes success for a
+  modern rock act\, issuing a succes
+ sion of fiercely idiosyncratic alb
+ ums\, aided and abetted by the recr
+ uitment\, in 2002\, of drummer Neil 
+ Cooper.\n\nIn 2015 the trio conceive
+ d a sequel of sorts to Troublegum 
+ in Disquiet\, a brilliantly-realise
+ d\, bruisingly melodic punk/metal c
+ ollection which took as its starti
+ ng point questions of where the ad
+ olescent protagonist of their 1994
+  masterpiece might find himself 20
+  years on. Stepping away from that
+  fascinating narrative\, Cleave con
+ tinues along a similar sonic path\,
+  alluding to the band’s ‘class
+ ic’ sound while opening up new p
+ aths to explore.\n\nThe result is on
+ e of the most formidable\, provocat
+ ive and impactful albums of Therap
+ y?’s storied three decade career
+ \, once again proving that the band
+ ’s pre-eminence as one of the UK
+ ’s most inventive\, fearless and 
+ individualistic musical artists.\n\n
+ https://www.facebook.com/events/19
+ 5788434701219/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180829T080003Z
+LAST-MODIFIED:20180829T080003Z
+CREATED:20180828T200601Z
+SEQUENCE:42842
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190319T190000Z
+DTEND:20190319T223000Z
+UID:e540888506365639@facebook.com
+SUMMARY:UFO 'Last Orders 50th Anniversary' Tour - Dublin - 19.3.2019
+LOCATION:The Academy
+URL:https://www.facebook.com/events/540888506365639/
+DESCRIPTION:DME By Arrangement With Miracle Ar
+ tists Presents\n\nUFO\n'Last Orders -
+  50th Anniversary Tour'\n\nPlus Gues
+ ts\n\nThe Academy\, Dublin\n19th March
+  2019\n7pm - 18+\n€28 inc bkg fee 
+ - on sale now from www.ticketmaste
+ r.ie & outlets nationwide\n\nwww.dme
+ -promotions.com\n\nhttps://www.faceb
+ ook.com/events/540888506365639/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T112700Z
+LAST-MODIFIED:20181121T112700Z
+CREATED:20181121T112700Z
+SEQUENCE:0
+ORGANIZER;CN=Bad Reputation IRL:MAILTO:noreply@facebookmail.com
+DTSTART:20190316T200000Z
+DTEND:20190317T003000Z
+UID:e395481054325698@facebook.com
+SUMMARY:GUN 'EM ALL - Guns N' Roses & Metallica Tribute -Dolans,Limerick
+LOCATION:Dolans Pub
+URL:https://www.facebook.com/events/395481054325698/
+DESCRIPTION:Bad Reputation IRL presents\nGUN 'E
+ M ALL\n***\nAbuse Your Illusion - Gu
+ ns n' Roses Tribute\n&\nWhiplash - M
+ etallica Tribute Band\n***\nSaturday
+  16th March 2018\nDolans Warehouse\,
+  Dolans\, Limerick\nDoors: 8pm\nTicke
+ ts: \n€10 from www.dolans.ie & €
+ 12 on the door\, \nON SALE SOON\n\nhtt
+ ps://www.facebook.com/events/39548
+ 1054325698/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181018T180611Z
+LAST-MODIFIED:20181018T180611Z
+CREATED:20181010T112410Z
+SEQUENCE:715321
+ORGANIZER;CN=MPI Bands:MAILTO:noreply@facebookmail.com
+DTSTART:20190314T193000Z
+DTEND:20190314T223000Z
+UID:e553849411702129@facebook.com
+SUMMARY:P.O.D + Alien Ant Farm + '68 live in Dublin
+LOCATION:Button Factory
+URL:https://www.facebook.com/events/553849411702129/
+DESCRIPTION:MPI PRESENT : P.O.D & ALIEN ANTFAR
+ M\n+ '68 & New Valley Wolves\n\nFollo
+ wing the announcement of their new
+  album ‘Circles’\, which will b
+ e released on 16th November\, P.O.D
+ . are thrilled to reveal they will
+  be hitting the road in February –
+  March 2019 for the ‘Full Circle
+ ’ European Tour with Alien Ant F
+ arm and special guests ’68.\n\nIn 
+ the last few years\, P.O.D. have en
+ joyed a resurgence in popularity\, 
+ which has seen them perform at the
+  Download Festival\, Hellfest\, Rock
+  on the Range\, River City Rockfest
+ \, Carolina Rebellion\, and Aftersho
+ ck Festival\, as well as shared sta
+ ges with In This Moment\, Prophets 
+ of Rage\, Shinedown\, and Five Finge
+ r Death Punch.\n\nTalking about the 
+ tour Sonny Sandoval says\; “We ha
+ ven’t been able to tour Europe a
+ nd the UK as much as we’d like s
+ o this tour with our friends Alien
+  Ant Farm and 68 is very special t
+ o us and long overdue. We plan on 
+ destroying these shows so don’t 
+ miss it.”\n\nSan Diego’s finest 
+ will be playing songs from the new
+  album as well as their extensive 
+ catalogue of hits and fan favourit
+ es. They will be joined hard rock 
+ heroes Alien Ant Farm and noise pu
+ nk duo ’68 that features The Cha
+ riot/Norma Jean’s Josh Scogin an
+ d will call through Germany\, Italy
+ \, Denmark\, Belgium\, The Netherland
+ s\, The UK and Ireland.\nThe three-t
+ ime Grammy-nominated P.O.D have so
+ ld over 12 million records worldwi
+ de and on November 16th\, 2018\, Mas
+ cot Records/Mascot Label Group wil
+ l release ‘Circles\,’ P.O.D.’
+ s debut for the label.\n\nThe album 
+ is the bands’ first since 2015’
+ s The Awakening. On ‘Circles’\,
+  they collaborated with an L.A.-ba
+ sed production duo called the Heav
+ y\, who ensured the album is contem
+ porary-sounding without losing any
+  of the band’s core sonic signif
+ iers.\n\nSupport from Dublin's New V
+ alley Wolves\n\nThursday 14th of Mar
+ ch\,\nThe Button Factory Dublin\n\nhtt
+ ps://www.facebook.com/events/55384
+ 9411702129/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181011T132522Z
+LAST-MODIFIED:20181011T132522Z
+CREATED:20181010T220212Z
+SEQUENCE:55390
+ORGANIZER;CN=Bad Reputation IRL:MAILTO:noreply@facebookmail.com
+DTSTART:20190312T193000Z
+DTEND:20190313T000000Z
+UID:e273140489994845@facebook.com
+SUMMARY:P.O.D. & Alien Ant Farm - Dolans Warehouse, Limerick - 12/03/19
+LOCATION:Dolans Pub
+URL:https://www.facebook.com/events/273140489994845/
+DESCRIPTION:Bad Reputation & Dolans presents:\n
+ \nP.O.D.\n&\nAlien Ant Farm\nwith spec
+ ial guests\n68\n&\nNew Valley Wolves\n
+ \nTuesday March 12th 2019\nDolans Wa
+ rehouse\, Dolans\,\nLimerick\nDoors: 7
+ .30pm\nTickets: €30 (Plus Booking
+  Fee - 18+ event)\nOn Sale Oct 12th
+  from \nwww.dolans.ie & www.ticketm
+ aster.ie\n\nhttps://www.facebook.com
+ /events/273140489994845/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181106T100002Z
+LAST-MODIFIED:20181106T100002Z
+CREATED:20181105T180822Z
+SEQUENCE:57100
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190309T170000Z
+DTEND:20190309T214500Z
+UID:e169175974034502@facebook.com
+SUMMARY:Primordial - Belfast - 9th March 2019
+LOCATION:Limelight Belfast
+URL:https://www.facebook.com/events/169175974034502/
+DESCRIPTION:DME Presents\n\nPrimordial\nPlus Gues
+ ts\nThe Crawling\nSenzar\nDeath The L
+ eveller\n\nLimelight 2\, Belfast\nSat.
+  9th March 2019\n5pm - 18+\n£17.50 
+ inc bkg fee - on sale Fri. 9th Nov
+ ember 10am from www.ticketmaster.i
+ e & usual outlets\n\nwww.dme-promoti
+ ons.com\n\nhttps://www.facebook.com/
+ events/169175974034502/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181013T161500Z
+LAST-MODIFIED:20181013T161500Z
+CREATED:20181010T171502Z
+SEQUENCE:255598
+ORGANIZER;CN=TicketWeb:MAILTO:noreply@facebookmail.com
+DTSTART:20190301T230000Z
+DTEND:20190302T020000Z
+UID:e436961590041649@facebook.com
+SUMMARY:The Seattle Grunge Experience
+LOCATION:Monroe's Galway
+URL:https://www.facebook.com/events/436961590041649/
+DESCRIPTION:€15   BF / Age 18 And Up\n\nAdditi
+ onal Info:\nThe Seattle Grunge Expe
+ rience are the ultimate live tribu
+ te to the Grunge scene of the 90s\,
+  performing the music Nirvana\, Pea
+ rl Jam\, Alice In Chains\, Soundgard
+ en and more.Over 2 hours of all ki
+ ller no filler Grunge tunes guaran
+ teed at every show!The 90s was a g
+ reat time for music with so many c
+ reative\, innovative bands breaking
+ out from under the mainstream rada
+ r  seemingly most of them from the
+  PacificNorthwest and conquering t
+ he world through MTV - Thats where
+  the idea for TheSeattle Grunge Ex
+ perience comes from as these bands
+ \, these songs were meant to be hea
+ rd back to back!The European exper
+ ience of the genre was largely ins
+ pired by repeat plays on MTVwhere\,
+  on any given day\, you could watch
+  videos for Smells like Teen Spiri
+ t followedby Even FlowBlack Hole S
+ unMan In The BoxHunger Strike...Co
+ me As YouAre...AliveWould? Then yo
+ u had those seminal MTV Unplugged 
+ shows thatunveiled this emerging s
+ cene as truly affecting for anyone
+  with a television.https://www.fac
+ ebook.com/SeattleGrungeExperience\n
+ Tickets:\nhttps://www.ticketweb.ie/
+ event/the-seattle-grunge-experienc
+ e-monroes-live-tickets/8804895?REF
+ ERRAL_ID=twfb\n\nhttps://www.faceboo
+ k.com/events/436961590041649/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181001T090002Z
+LAST-MODIFIED:20181001T090002Z
+CREATED:20181001T083309Z
+SEQUENCE:1613
+ORGANIZER;CN=Róisín Dubh:MAILTO:noreply@facebookmail.com
+DTSTART:20190301T200000Z
+DTEND:20190301T230000Z
+UID:e483462195501504@facebook.com
+SUMMARY:Hayseed Dixie
+LOCATION:Róisín Dubh
+URL:https://www.facebook.com/events/483462195501504/
+DESCRIPTION:HAYSEED DIXIE\nFriday 1st March\n8pm
+ . €22.50/20\nOn sale Wednesday at
+  10am\n\nHayseed Dixie began one day
+  in 2000 when John Wheeler and Mik
+ e Daly drank roughly enough whiske
+ y to float a battleship from the F
+ lorida Coast over to Portugal and 
+ back and\ndecided to play around in
+  John’s studio. Having spent the
+  previous few years touring around
+  with assorted country hat-acts\, J
+ ohn had assembled a proper pile of
+  recording equipment. \n\nThus when 
+ he and Mike discovered in their dr
+ unken epiphany that the Lost Highw
+ ay of Reverend Hank Williams and t
+ he Highway to Hell of Bishop Bon S
+ cott were indeed the same identica
+ l stretch of tarmac\, they were wel
+ l and truly prepared to document t
+ his revelation in situ. \n\nNow\, 17 
+ years and 14 albums later\, with gl
+ obal physical sales in excess of h
+ alf a million and over 1\,200 live 
+ shows in 31 different countries un
+ der their belts\, Hayseed Dixie are
+  the undisputed\ncreators of the mu
+ sical genre\, Rockgrass. There are 
+ many copycats\, converts\, and disci
+ ples out there. Accept no imitatio
+ ns.\n\nhttps://www.facebook.com/even
+ ts/483462195501504/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181009T105956Z
+LAST-MODIFIED:20181009T105956Z
+CREATED:20181001T090115Z
+SEQUENCE:698321
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190228T193000Z
+DTEND:20190228T223000Z
+UID:e399560263911113@facebook.com
+SUMMARY:Hayseed Dixie
+LOCATION:Button Factory
+URL:https://www.facebook.com/events/399560263911113/
+DESCRIPTION:Sale Dates and Times:\n\nPublic Onsa
+ le : Wed\, 3 Oct 2018 at 10:00 AM\n\n
+ https://www.facebook.com/events/39
+ 9560263911113/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181029T130002Z
+LAST-MODIFIED:20181029T130002Z
+CREATED:20181028T184249Z
+SEQUENCE:65833
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190224T190000Z
+DTEND:20190224T230000Z
+UID:e606550229787760@facebook.com
+SUMMARY:Pestilence 'Consuming Impulse' & More - Dublin - 24.2.19
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/606550229787760/
+DESCRIPTION:DME By Arrangement With Eternal Ro
+ ck Presents\n\nPestilence (official)
+ \n'Reduced To Ashes' tour - playing
+  'Consuming Impulse' in full + mor
+ e!\n\nPlus Guests\n\nVoodoo Lounge Dub
+ lin\nSunday 24th February 2019\n7pm 
+ - 18+ \n€25 inc bkg fee from www.
+ ticketmaster.ie & outlets nationwi
+ de\, www.tickets.ie & Sound Cellar 
+ - on sale Friday 2nd November 10am
+ \n\nwww.dme-promotions.com\n\nhttps://
+ www.facebook.com/events/6065502297
+ 87760/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181106T100003Z
+LAST-MODIFIED:20181106T100003Z
+CREATED:20181105T192053Z
+SEQUENCE:52750
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190223T190000Z
+DTEND:20190223T220000Z
+UID:e1920796968216736@facebook.com
+SUMMARY:Lost Society - Dublin - 23rd Feb 2019
+LOCATION:On The Rox
+URL:https://www.facebook.com/events/1920796968216736/
+DESCRIPTION:DME By Arrangement With K2 Present
+ s\n\nLost Society\nPlus Guests\n\nOn Th
+ e Rox\, Dublin\nSat 23rd Feb 2019\n7p
+ m - 18+\n€15 inc bkg fee - on sal
+ e 8th November 10am\n\nwww.dme-promo
+ tions.com\n\nhttps://www.facebook.co
+ m/events/1920796968216736/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181119T105058Z
+LAST-MODIFIED:20181119T105058Z
+CREATED:20181119T105007Z
+SEQUENCE:51
+ORGANIZER;CN=Pethrophile Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190223T130000Z
+DTEND:20190224T010000Z
+UID:e279758259344152@facebook.com
+SUMMARY:Urban Assault 2019
+LOCATION:An Spailpin Fanach
+URL:https://www.facebook.com/events/279758259344152/
+DESCRIPTION:Tickets on sale soon !\n\nhttps://ww
+ w.facebook.com/events/279758259344
+ 152/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20181106T100042Z
 LAST-MODIFIED:20181106T100042Z
 CREATED:20181105T191731Z
 SEQUENCE:52991
 ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
-ATTENDEE;CN=Niáll McMullan;PARTSTAT=ACCEPTED:https://www.facebook.com/niall.mcmullan.52
-ATTENDEE;CN=Jason Gourley;PARTSTAT=ACCEPTED:https://www.facebook.com/profile.php?id=100015530622831
-ATTENDEE;CN=Alessandro Rocco;PARTSTAT=ACCEPTED:https://www.facebook.com/Deathbus
-ATTENDEE;CN=Joe Ó Donnghaíle;PARTSTAT=ACCEPTED:https://www.facebook.com/MaskOfAnarchy
-ATTENDEE;CN=Bizz Bizby;PARTSTAT=ACCEPTED:https://www.facebook.com/bizz.bizby
-ATTENDEE;CN=Martin Hurst;PARTSTAT=ACCEPTED:https://www.facebook.com/martin.hurst.165
-ATTENDEE;CN=Sophia O'Connor;PARTSTAT=ACCEPTED:https://www.facebook.com/littlenymth
-ATTENDEE;CN=Benn Murphy;PARTSTAT=ACCEPTED:https://www.facebook.com/MacaroniManiac
-ATTENDEE;CN=Ricky Ferguson;PARTSTAT=ACCEPTED:https://www.facebook.com/ricky.ferguson.505
-ATTENDEE;CN=Colly Mack;PARTSTAT=ACCEPTED:https://www.facebook.com/colm.mckeown.10
-ATTENDEE;CN=Alain Mc Closkey;PARTSTAT=ACCEPTED:https://www.facebook.com/alain.mccloskey
-ATTENDEE;CN=James Symes;PARTSTAT=ACCEPTED:https://www.facebook.com/djhellborn
-ATTENDEE;CN=Graham Douglas;PARTSTAT=ACCEPTED:https://www.facebook.com/graham.douglas.568
-ATTENDEE;CN=Rhys Fraser;PARTSTAT=ACCEPTED:https://www.facebook.com/rhys.fraser1
-ATTENDEE;CN=Sam Gardiner;PARTSTAT=ACCEPTED:https://www.facebook.com/sammy.gardinersdmf
-ATTENDEE;CN=Robert Warnock;PARTSTAT=ACCEPTED:https://www.facebook.com/robert.warnock.77
-ATTENDEE;CN=Robbie Beckett;PARTSTAT=ACCEPTED:https://www.facebook.com/robbie.beckett.12
-ATTENDEE;CN=Rhiannon Houston;PARTSTAT=ACCEPTED:https://www.facebook.com/RhiannonHoustonyo
-ATTENDEE;CN=Fredy Moita;PARTSTAT=ACCEPTED:https://www.facebook.com/fredy.moita
-ATTENDEE;CN=Darragh Dazz Oconnor;PARTSTAT=ACCEPTED:https://www.facebook.com/darragh.oconnor.52
-ATTENDEE;CN=Thomas Stranaghan;PARTSTAT=ACCEPTED:https://www.facebook.com/thomas.stranaghan
-ATTENDEE;CN=Jonny Mcmillan;PARTSTAT=ACCEPTED:https://www.facebook.com/jonny.mcmillan.3
-ATTENDEE;CN=Matthew McClelland;PARTSTAT=ACCEPTED:https://www.facebook.com/matthew.mcclelland.75
-ATTENDEE;CN=Fergal Holmes;PARTSTAT=ACCEPTED:https://www.facebook.com/fergalholmes
-ATTENDEE;CN=Dean Blackfyre;PARTSTAT=ACCEPTED:https://www.facebook.com/dincxjo
-ATTENDEE;CN=Graeme Wilson;PARTSTAT=ACCEPTED:https://www.facebook.com/graeme.wilson.315
-ATTENDEE;CN=Phil Robinson;PARTSTAT=ACCEPTED:https://www.facebook.com/phil.robinson.315
-ATTENDEE;CN=Ian Fuller;PARTSTAT=ACCEPTED:https://www.facebook.com/themetalambassador
-ATTENDEE;CN=Conor Mc Kerr;PARTSTAT=ACCEPTED:https://www.facebook.com/conor.m.kerr.5
-ATTENDEE;CN=Jonny Lolz;PARTSTAT=ACCEPTED:https://www.facebook.com/jonny.scimitar
-ATTENDEE;CN=Keith Sharp;PARTSTAT=ACCEPTED:https://www.facebook.com/keith.sharp.566
-ATTENDEE;CN=Jukka-Pekka Kauppinen;PARTSTAT=ACCEPTED:https://www.facebook.com/jukkapekka.kauppinen
-ATTENDEE;CN=Brenda P McTaggart;PARTSTAT=ACCEPTED:https://www.facebook.com/Br3ndaSaysHi
-ATTENDEE;CN=James Loveday;PARTSTAT=ACCEPTED:https://www.facebook.com/lovedayjames
-ATTENDEE;CN=Ryan McConville;PARTSTAT=TENTATIVE:https://www.facebook.com/ryan.mcconville.58
-ATTENDEE;CN=Tyrone Industrial;PARTSTAT=TENTATIVE:https://www.facebook.com/tyrone.industrial.3
-ATTENDEE;CN=Ignatios Un Uilis;PARTSTAT=TENTATIVE:https://www.facebook.com/ignatios.unuilis
-ATTENDEE;CN=Jordan Gallagher McCaul;PARTSTAT=TENTATIVE:https://www.facebook.com/heavy.metal.up.your.arse
-ATTENDEE;CN=Marius Dimofte;PARTSTAT=TENTATIVE:https://www.facebook.com/marius.dimofte.5
-ATTENDEE;CN=Trisha Chanik;PARTSTAT=TENTATIVE:https://www.facebook.com/trisha.chanik.3
-ATTENDEE;CN=Alistair Richmond;PARTSTAT=TENTATIVE:https://www.facebook.com/alistair.richmond.7
-ATTENDEE;CN=Michele Marcoccio;PARTSTAT=TENTATIVE:https://www.facebook.com/profile.php?id=100002909467420
-ATTENDEE;CN=CJ McCarroll;PARTSTAT=TENTATIVE:https://www.facebook.com/cjdotx
-ATTENDEE;CN=James Rankin;PARTSTAT=TENTATIVE:https://www.facebook.com/james.rankin.5
-ATTENDEE;CN=David Maginn;PARTSTAT=TENTATIVE:https://www.facebook.com/ffsdgsfzdc6d211a4
-ATTENDEE;CN=Chris Marston;PARTSTAT=TENTATIVE:https://www.facebook.com/chris.marston.7
-ATTENDEE;CN=Stephen Tannock;PARTSTAT=TENTATIVE:https://www.facebook.com/Stephentannock68
-ATTENDEE;CN=Jay Strawbridge;PARTSTAT=TENTATIVE:https://www.facebook.com/jay.strawbridge.7
-ATTENDEE;CN=Gavin Beattie;PARTSTAT=TENTATIVE:https://www.facebook.com/gavin.beattie.39
-ATTENDEE;CN=Joe Doyle;PARTSTAT=TENTATIVE:https://www.facebook.com/joe.doyle.39
-ATTENDEE;CN=Paul Bam;PARTSTAT=TENTATIVE:https://www.facebook.com/paul.bam.5
-ATTENDEE;CN=CP Chris Prenter;PARTSTAT=TENTATIVE:https://www.facebook.com/chris.chrisprenter
-ATTENDEE;CN=Carlos WingDing Grant;PARTSTAT=TENTATIVE:https://www.facebook.com/carl.grant.14268
-ATTENDEE;CN=Jade Pallett;PARTSTAT=TENTATIVE:https://www.facebook.com/jade.pallett.5
-ATTENDEE;CN=Nikki Armour;PARTSTAT=TENTATIVE:https://www.facebook.com/nikki.t.armour
-ATTENDEE;CN=Claire Dixon;PARTSTAT=TENTATIVE:https://www.facebook.com/claire.mann.315
-ATTENDEE;CN=Sean Harkin;PARTSTAT=TENTATIVE:https://www.facebook.com/xHorcrux
-ATTENDEE;CN=Paul McMonagle;PARTSTAT=TENTATIVE:https://www.facebook.com/paul.mcmonagle.9
-ATTENDEE;CN=Meghan Cree;PARTSTAT=TENTATIVE:https://www.facebook.com/meghan.cree.5
-ATTENDEE;CN=Claudia Meireles;PARTSTAT=TENTATIVE:https://www.facebook.com/claudia.meireles.9
-ATTENDEE;CN=Ross Maginnes;PARTSTAT=TENTATIVE:https://www.facebook.com/ross.maginnes
-ATTENDEE;CN=Chris E. Magowan;PARTSTAT=TENTATIVE:https://www.facebook.com/chris.e.magowan
-ATTENDEE;CN=Matthew Moore;PARTSTAT=TENTATIVE:https://www.facebook.com/matthew.moore.7923
-ATTENDEE;CN=Roddy Bevin;PARTSTAT=TENTATIVE:https://www.facebook.com/roddy.bevin
-ATTENDEE;CN=Louise Zoe Gowdy;PARTSTAT=TENTATIVE:https://www.facebook.com/louliar90
-ATTENDEE;CN=Aileen Ryan;PARTSTAT=TENTATIVE:https://www.facebook.com/aileenmry
-ATTENDEE;CN=Leanne Cardwell;PARTSTAT=TENTATIVE:https://www.facebook.com/leanne.cardwell.9
-ATTENDEE;CN=Deane Montgomery;PARTSTAT=TENTATIVE:https://www.facebook.com/deanem
-ATTENDEE;CN=Steve Martin;PARTSTAT=TENTATIVE:https://www.facebook.com/steve.martin.7543
-ATTENDEE;CN=Mark Mc Grogan;PARTSTAT=TENTATIVE:https://www.facebook.com/FlashArtMark
-ATTENDEE;CN=Anthony King;PARTSTAT=TENTATIVE:https://www.facebook.com/antoking
-ATTENDEE;CN=Karla Andrews;PARTSTAT=TENTATIVE:https://www.facebook.com/Karla.Andrews.1990
-ATTENDEE;CN=Peter Agate;PARTSTAT=TENTATIVE:https://www.facebook.com/peter.agate
-ATTENDEE;CN=Peter Bowden;PARTSTAT=TENTATIVE:https://www.facebook.com/peter.bowden.739
-ATTENDEE;CN=Paddy Cassells;PARTSTAT=TENTATIVE:https://www.facebook.com/paddy.cassells
-ATTENDEE;CN=Anthony McCaughley;PARTSTAT=TENTATIVE:https://www.facebook.com/anthony.mccaughley
-ATTENDEE;CN=Laco Proinsias Fernyak;PARTSTAT=TENTATIVE:https://www.facebook.com/laco.fernyak
-ATTENDEE;CN=Eddie Cross;PARTSTAT=TENTATIVE:https://www.facebook.com/Metallix316
-ATTENDEE;CN=Ryan McCallum;PARTSTAT=TENTATIVE:https://www.facebook.com/rhmccallum
-ATTENDEE;CN=Bill Ward;PARTSTAT=TENTATIVE:https://www.facebook.com/bill.wardjr
-ATTENDEE;CN=Catherine Neeson;PARTSTAT=TENTATIVE:https://www.facebook.com/cneeson1
-ATTENDEE;CN=Dezzer Deekers Freemantłe;PARTSTAT=TENTATIVE:https://www.facebook.com/djdezzer
-ATTENDEE;CN=Dale Buchanan;PARTSTAT=TENTATIVE:https://www.facebook.com/dale.buchanan.18
-ATTENDEE;CN=Azzedine Hamouda;PARTSTAT=TENTATIVE:https://www.facebook.com/azzedineh
-ATTENDEE;CN=David Mark Ashby;PARTSTAT=TENTATIVE:https://www.facebook.com/MonkUberRock
-ATTENDEE;CN=Frankie McGurk;PARTSTAT=TENTATIVE:https://www.facebook.com/phil.mcgurk
-ATTENDEE;CN=Pearse Moreland;PARTSTAT=TENTATIVE:https://www.facebook.com/pearse.moreland.3
-ATTENDEE;CN=Lindsay Healy;PARTSTAT=TENTATIVE:https://www.facebook.com/lindsay.davey.77
-ATTENDEE;CN=Dave Cullen;PARTSTAT=TENTATIVE:https://www.facebook.com/david.cullen.5667
-ATTENDEE;CN=Antti Ståhlberg;PARTSTAT=TENTATIVE:https://www.facebook.com/antti.stahlberg
-ATTENDEE;CN=Ruth Flinn;PARTSTAT=TENTATIVE:https://www.facebook.com/ruth.flinn
-ATTENDEE;CN=David Mason;PARTSTAT=TENTATIVE:https://www.facebook.com/davidgmason
-ATTENDEE;CN=Patrick Fisher;PARTSTAT=TENTATIVE:https://www.facebook.com/patrick.fisher.7370
-ATTENDEE;CN=Michelle MishMash Mandipira;PARTSTAT=TENTATIVE:https://www.facebook.com/michelle.mandipira
-ATTENDEE;CN=Aaron Hamilton;PARTSTAT=TENTATIVE:https://www.facebook.com/soisoisoisoisoi
-ATTENDEE;CN=Michael Brown;PARTSTAT=TENTATIVE:https://www.facebook.com/micky.brown.750
-ATTENDEE;CN=Leila Moura;PARTSTAT=TENTATIVE:https://www.facebook.com/leila.moura.522
-ATTENDEE;CN=Nathan Scott;PARTSTAT=TENTATIVE:https://www.facebook.com/cheesestrodel
-ATTENDEE;CN=Melanie Brehaut;PARTSTAT=TENTATIVE:https://www.facebook.com/melanie.brehaut.9
-ATTENDEE;CN=Anthony McCann;PARTSTAT=TENTATIVE:https://www.facebook.com/amccann123
-ATTENDEE;CN=John Thompson;PARTSTAT=TENTATIVE:https://www.facebook.com/john.thompson1349
-ATTENDEE;CN=Orlaith Ní Cheallaigh;PARTSTAT=TENTATIVE:https://www.facebook.com/orlaithk2
-ATTENDEE;CN=Stephen Mc Nally;PARTSTAT=TENTATIVE:https://www.facebook.com/stephen.m.nally
-ATTENDEE;CN=Wayne Donaldson;PARTSTAT=TENTATIVE:https://www.facebook.com/NotBruceJustWayne
-ATTENDEE;CN=Dean Millen;PARTSTAT=TENTATIVE:https://www.facebook.com/dean.millen.5
-ATTENDEE;CN=Andrew Quirey;PARTSTAT=TENTATIVE:https://www.facebook.com/andrew.quirey
 DTSTART:20190222T193000Z
 DTEND:20190222T233000Z
 UID:e344593096288935@facebook.com
@@ -131,6 +2114,2621 @@ DESCRIPTION:DME By Arrangement With K2 Present
   8th November 10\n\nwww.dme-promotio
  ns.com\n\nhttps://www.facebook.com/e
  vents/344593096288935/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181007T212034Z
+LAST-MODIFIED:20181007T212034Z
+CREATED:20181007T212034Z
+SEQUENCE:0
+ORGANIZER;CN=LOR Productions:MAILTO:noreply@facebookmail.com
+DTSTART:20190219T183000Z
+DTEND:20190219T223000Z
+UID:e270468106918871@facebook.com
+SUMMARY:GEOFF TATE's Operation Mindcrime + special guest Skyfever
+LOCATION:Button Factory
+URL:https://www.facebook.com/events/270468106918871/
+DESCRIPTION:The legendary Geoff Tate (Official
+ )'s OPERATION MINDCRIME returns to
+  Dublin to deliver their 'Greatest
+  Hits' show at The Button Factory 
+ on February 19th 2018.\nSpecial gue
+ st Dublin rock band SKYFEVER.\nTick
+ ets on sale now via Ticketmaster.i
+ e\n\nhttps://www.facebook.com/events
+ /270468106918871/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181126T201746Z
+LAST-MODIFIED:20181126T201746Z
+CREATED:20180906T105354Z
+SEQUENCE:7032232
+ORGANIZER;CN=The LEE Harveys:MAILTO:noreply@facebookmail.com
+DTSTART:20190216T030000Z
+DTEND:20190217T010000Z
+UID:e481152585698782@facebook.com
+SUMMARY:Punk For Palestine
+LOCATION:Drop Dead Twice
+URL:https://www.facebook.com/events/481152585698782/
+DESCRIPTION:Punk For Palestine Fundraiser is h
+ appening in DDT Feb 16th 2019 to r
+ aise much needed cash towards medi
+ cal aid for the beleaguered people
+  in Palestine...there will be merc
+ h and info stalls from Irish Pales
+ tinian Solidarity and guest speake
+ rs to enlighten us all on the conf
+ lict...\nIts an all dayer with door
+ s opening at 3pm...first band 4pm.
+ ..food will also be available upst
+ stairs...\n\nUnder 18s allowed to at
+ tend gig strictly until 8pm\n\nAs th
+ is is a fundraiser there is no Gue
+ st List!\n\na stellar line up that i
+ ncludes in no particular order...\n
+ Trouble Pilgrims\nParanoid Visions\n
+ United Bottles\nThe Dubtones\nThe Le
+ e Harveys\nThe Blackpitts\nMadhouse\n
+ Checkpoint\nSnubbed\nFour Men Dead\n\n
+ \n\n\n\n\n\nAdmission is £15...\n\nSpread
+  the word and keep your eye on eve
+ nt page as this fundraiser will se
+ ll out fast...\n\nhttps://www.facebo
+ ok.com/events/481152585698782/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181009T090002Z
+LAST-MODIFIED:20181009T090002Z
+CREATED:20181008T171703Z
+SEQUENCE:56579
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190215T183000Z
+DTEND:20190215T223000Z
+UID:e759269481072568@facebook.com
+SUMMARY:Decapitated & Dyscarnate & Baest - Dublin - 15.2.19
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/759269481072568/
+DESCRIPTION:DME Presents\n\nDecapitated\nPlus Gue
+ sts\nDyscarnate\nBAEST\n\nVoodoo Loung
+ e Dublin\nFriday 15 th February 201
+ 9\n7pm - 18+\n€20 inc bkg fee from
+  www.ticketmaster.ie & outlets nat
+ ionwide\n\nwww.dme-promotions.com\n\nh
+ ttps://www.facebook.com/events/759
+ 269481072568/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181009T090000Z
+LAST-MODIFIED:20181009T090000Z
+CREATED:20181008T171201Z
+SEQUENCE:56879
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190214T190000Z
+DTEND:20190214T224500Z
+UID:e2028906860733373@facebook.com
+SUMMARY:Decapitated & Dyscarnate & Baest - Belfast - 14.2.19
+LOCATION:Voodoo Belfast
+URL:https://www.facebook.com/events/2028906860733373/
+DESCRIPTION:DME Presents\n\nDecapitated\nPlus Gue
+ sts\nDyscarnate\nBAEST\n\nVoodoo Belfa
+ st\nThursday 14th February 2019\n7pm
+  - 18+\n£18 inc bkg fee from www.t
+ icketmaster.ie & outlets nationwid
+ e\n\nwww.dme-promotions.com\n\nhttps:/
+ /www.facebook.com/events/202890686
+ 0733373/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181001T075209Z
+LAST-MODIFIED:20181001T075209Z
+CREATED:20180803T201346Z
+SEQUENCE:5053103
+ORGANIZER;CN=Dublin Events Guide:MAILTO:noreply@facebookmail.com
+DTSTART:20190210T193000Z
+DTEND:20190210T235900Z
+UID:e2123528051229407@facebook.com
+SUMMARY:Behemoth Concert at Vicar Street in Dublin
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/2123528051229407/
+DESCRIPTION:Get tickets for BEHEMOTH!'s upcomi
+ ng concert w/ special guests At Th
+ e Gates and Wolves In The Throne R
+ oom at Vicar Street in Dublin\, IE 
+ for 10 Feb 2019 at 7:30 PM\n\n>>> Ti
+ ckets: http://bit.ly/2RdKX5y\n\nBuy 
+ Behemoth's music: https://amzn.to/
+ 2vg69yB\nBuy Behemoth's merch: http
+ ://bit.ly/2MkUghv\n\nFind More Exper
+ ience: http://bit.ly/2Ghv7SF\nFind 
+ More Activities: http://bit.ly/2GU
+ 34ZK\nFind Parking Nearby: http://b
+ it.ly/2vytkqD\nFind Place to Stay: 
+ http://bit.ly/2voUBvx\n\nPolish blac
+ kened death metal outfit Behemoth 
+ have finally announced that they’
+ ll be making their return with the
+  news of their eleventh studio alb
+ um\, ‘I Love You At Your Darkest’
+ \, and now they’ve confirmed they
+ ’ll also be heading over to the 
+ UK & Ireland for some headline dat
+ es early next year.\nJoining them f
+ or the entirety of the run will be
+  At The Gates and Wolves In The Th
+ rone Room.\n\n#Behemoth #BehemothTic
+ kets #BehemothConcert #ILovedYouat
+ YourDarkest #blackeneddeathmetal #
+ extrememetal #AtTheGates #WolvesIn
+ TheThroneRoom  #DublinEvents\n\nhttp
+ s://www.facebook.com/events/212352
+ 8051229407/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181029T132802Z
+LAST-MODIFIED:20181029T132802Z
+CREATED:20180802T133027Z
+SEQUENCE:7603055
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190210T193000Z
+DTEND:20190210T223000Z
+UID:e286118018789464@facebook.com
+SUMMARY:Behemoth
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/286118018789464/
+DESCRIPTION:Sale Dates and Times:\n\nPublic Onsa
+ le : Mon\, 6 Aug 2018 at 10:00 AM\n\n
+ https://www.facebook.com/events/28
+ 6118018789464/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181030T140257Z
+LAST-MODIFIED:20181030T140257Z
+CREATED:20180917T145355Z
+SEQUENCE:3712142
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190210T183000Z
+DTEND:20190210T223000Z
+UID:e487225978444530@facebook.com
+SUMMARY:Stone Broken - Voodoo, Belfast - 10th Feb 2019
+LOCATION:Voodoo Belfast
+URL:https://www.facebook.com/events/487225978444530/
+DESCRIPTION:DME by arrangement with TKO presen
+ ts\n\nStone Broken\nPlus Guests\nBalef
+ ul Creed\nThose Damn Crows\n\nVoodoo\,
+  Belfast\nSunday 10th Feb. 2019\n6.3
+ 0pm - 18+\n£15 inc bkg fee - on sa
+ le Fri. 21st September @ 10am\n\nwww
+ .dme-promotions.com\n\nhttps://www.f
+ acebook.com/events/487225978444530
+ /
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180815T070331Z
+LAST-MODIFIED:20180815T070331Z
+CREATED:20180802T134032Z
+SEQUENCE:1099379
+ORGANIZER;CN=BEHEMOTH!:MAILTO:noreply@facebookmail.com
+DTSTART:20190210T183000Z
+DTEND:20190210T230000Z
+UID:e376059326258186@facebook.com
+SUMMARY:Ecclesia Diabolica Evropa 2019 | Dublin
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/376059326258186/
+DESCRIPTION:BEHEMOTH!\nAt The Gates\nWolves In T
+ he Throne Room\n\nWe hear your cries
+ \, Europe! We’re super excited to
+  announce the continuation of the 
+ ‘Ecclesia Diabolica’ World Tou
+ r on to the hallowed grounds of Eu
+ rope and Scandinavia. We bring tog
+ ether our Unholy Trinity completed
+  by At The Gates\nand Wolves In The
+  Throne Room to manifest a sacrile
+ gious swarm that will consume the 
+ continent and…beyond!’ says Be
+ hemoth frontman Adam Nergal Darski
+  about the tour announcement of th
+ e band’s ‘Ecclesia Diablica Ev
+ ropa e.v. Tour 2019’.\n\nExclusive
+  ticket bundles available on Augus
+ t 3rd\, 2018 on http://behemoth-sto
+ re.com/ticketbundles\n\nGeneral tick
+ et sale starts on August 6th\, 2018
+ \n\nhttps://www.facebook.com/events/
+ 376059326258186/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180825T225327Z
+LAST-MODIFIED:20180825T225327Z
+CREATED:20180708T190925Z
+SEQUENCE:4160642
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190209T190000Z
+DTEND:20190209T221500Z
+UID:e278474642898998@facebook.com
+SUMMARY:God Is An Astronaut - Academy, Dublin - 9.2.19
+LOCATION:The Academy
+URL:https://www.facebook.com/events/278474642898998/
+DESCRIPTION:DME & WhelansLive By Arrangement W
+ ith Avocado Booking Presents\n\nGod 
+ Is An Astronaut\nPlus Guests\n\nThe A
+ cademy\, Dublin\nSat. 9th Feb. 2019\n
+ 7pm - 18+\n€25 inc bkg from www.t
+ icketmaster.ie & outlets nationwid
+ e & Sound Cellar\n\nwww.dme-promotio
+ ns.com\nwww.whelanslive.com\n\nPress 
+ Release\n\nGOD IS AN ASTRONAUT UNVEI
+ L NEW ALBUM\n\n'Epitaph' To Be Relea
+ sed April 27th On Napalm Records!\n
+ \n1. Epitaph\n2. Mortal Coil\n3. Wint
+ er Dusk/Awakening\n4. Seance Room\n5
+ . Komorebi\n6. Medea\n7. Oisín\n\n\nsm
+ arturl.it/Epitaph-NPR (VINYL\, CD\, 
+ T-SHIRT PRE-ORDER) \n\nyoutu.be/6j7B
+ lxe2NzI \n\nEver since forming 16 ye
+ ars ago\, Irish trio God Is An Astr
+ onaut has reigned as one of the pr
+ emier instrumental groups. With it
+ s fusion of intense rock instrumen
+ tation\, ethereal and emotional sou
+ ndscapes\, awe-inspiring dynamics a
+ nd transfixing melodies. \n\nEach of
+  their prior releases has offered 
+ a breath taking sonic journey\, and
+  their ninth emotive opus\, Epitaph
+ \, is a record that both sees a pro
+ gression in their sound while stil
+ l remaining true to their ethos th
+ at helped define the band. The cov
+ er artwork was painted by French a
+ rtist Fursy Teyssier and fits the 
+ melancholic mood beautifully. Join
+ ed by long-time drummer Lloyd Hann
+ ey\, contributions also come from X
+ enon Field on sound design and for
+ mer member Jamie Dean on keys. \n\nT
+ he opening title track ‘Epitaph’
+  sets the album`s mood. There is p
+ ain and loss at work here\, but not
+  pain and loss that are given in t
+ o. Sparse piano motifs face energe
+ tic rhythms\, shimmering guitar coa
+ tings\, and eruptions of dense fury
+  breathe life into a journey of me
+ lancholic longing: there is the re
+ lease experienced when a troubled 
+ existence ends in ‘Mortal Coil‘
+  followed by the sombre foreshadow
+ ing that is ‘Winter Dusk/Awakeni
+ ng‘. \n\nThe album changes directi
+ on slightly with ‘Seánce Room’
+  and the music on this highway is 
+ taking you someplace meaningful an
+ d special – someplace where near
+  and far blur and stars weep over 
+ tragedies. \n\n‘Komorebi’ is a w
+ ord from Japanese. Think of the in
+ terplay between light and leaves w
+ hen sunlight shines through trees.
+ The song has a melancholic longing
+  or nostalgia for a person\, place 
+ or thing that is far away from you
+  or about to slip away. \n\n‘Medea
+ ’ references Greek mythology\, an
+ d the enchantress who married Jaso
+ n\, leader of the Argonauts\, only t
+ o be later guilty of filicide\, a c
+ rime so against the natural order 
+ of things that you can imagine the
+  stars in the sky weeping. It is n
+ ot easy to confront such things\, b
+ ut this record and this band don’
+ t shirk the challenge. \n\nFinally\, 
+ the beautiful and hypnotic piece o
+ f music that is the album-closing 
+ ‘Oisín’ is in memory of Torst
+ en and Niels' 7-year-old cousin wh
+ o was tragically taken from this w
+ orld. It distills into four minute
+ s all the pain\, sadness and longin
+ g felt by many over a much-longer 
+ timeframe. A fitting end to an alb
+ um that will move you deeply and c
+ all out to you to be revisited man
+ y times. \n\n\n© NAPALM RECORDS \nrel
+ eases April 27\, 2018 \n\nWritten and
+  performed by God Is An Astronaut.
+  Produced and mixed by God Is An A
+ stronaut. \nPost Production and pro
+ gramming by Xenon Field - www.xeno
+ nfield.com \nMastered by Tim Young 
+ @ Metropolis Mastering. \n\nArtwork 
+ by Fursy Teyssier - www.lesdiscret
+ s.com \n\n* Torsten Kinsella - Guita
+ rs\, Piano\, Synths\, Vox \n* Niels Ki
+ nsella - Bass \n* Lloyd Hanney - Dr
+ ums \n\nAdditional Guitar on song 1\,
+  2\, 3\, 4\, 5\, 6 by Jimmy Scanlon. \n
+ Additional Piano/Keys on song 1\, 2
+ \, 3 by Jamie Dean. \nAdditional Gui
+ tar on song 2 by Brian Harris.\n\nht
+ tps://www.facebook.com/events/2784
+ 74642898998/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181111T213640Z
+LAST-MODIFIED:20181111T213640Z
+CREATED:20180926T201217Z
+SEQUENCE:3979463
+ORGANIZER;CN=Dublin Events Guide:MAILTO:noreply@facebookmail.com
+DTSTART:20190206T200000Z
+DTEND:20190206T230000Z
+UID:e271795900107487@facebook.com
+SUMMARY:Steel Panther at Vicar Street in Dublin
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/271795900107487/
+DESCRIPTION:Get tickets for Steel Panther's up
+ coming concert at Vicar Street in 
+ Dublin\, IE for 6 Feb 2019 at 8:00 
+ pm\n\n>>> Tickets: http://bit.ly/2zI
+ 8gwD\n\nBuy Steel Panther's music: h
+ ttps://amzn.to/2NHFy8F\n\nFind More 
+ Experience: http://bit.ly/2Ghv7SF\n
+ Find More Activities: http://bit.l
+ y/2GU34ZK\nFind Parking Nearby: htt
+ p://bit.ly/2vytkqD\nFind Place to S
+ tay: http://bit.ly/2voUBvx\n\nCalifo
+ rnian rock ‘n’ roll party anim
+ als Steel Panther have said they w
+ ant to “Bring Hollywood to your 
+ neighbourhood” with the announce
+ ment of a brand new UK and Ireland
+  tour in February.\nThe run\, named 
+ the Sunset Strip Live! Tour\, is sc
+ heduled to go ahead in February\, a
+ nd will see the band performing a 
+ number of 80s hit rock covers alon
+ gside their own set material.\n\n#St
+ eelPanther #SteelPantherTickets #S
+ teelPantherLive #SunsetStripLIVE #
+ comedyrock #glammetal #heavymetal 
+ #DublinEvents\n\nhttps://www.faceboo
+ k.com/events/271795900107487/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181005T115150Z
+LAST-MODIFIED:20181005T115150Z
+CREATED:20180925T084532Z
+SEQUENCE:875178
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190206T193000Z
+DTEND:20190206T223000Z
+UID:e1094827044006159@facebook.com
+SUMMARY:Steel Panther live at Vicar St
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/1094827044006159/
+DESCRIPTION:Steel Panther\nVicar Street DUBLIN\n
+ 6 February 2019 (SOLD-OUT)\nDUE TO 
+ DEMAND! EXTRA DATE NOW ADDED! \n5th
+  February 2019\n \nCalifornia rock n
+ ’ roll party legends Steel Panth
+ er have announced an extra date fo
+ r Vicar St\, Dublin on 5th February
+  2019 due to demand.\n \nSteel Panth
+ er have been busy since they moved
+  into musical gear business. The b
+ and recently announced the release
+  of their first-ever distortion pe
+ dal for guitarists. From the geniu
+ s mind of guitar icon Satchel\, the
+  band is releasing the Pussy Melte
+ r. The pedal\, which is made in the
+  USA\, has 4 knobs and a toggle swi
+ tch so guitarists of all genders c
+ an customize the “Dirty”\, “S
+ izzle”\, “Booty”\, and “Load
+ ” parameters of the tone to thei
+ r individual liking. The Pussy Mel
+ ter effects pedal will be a limite
+ d run with pre-orders currently un
+ derway and units shipped to consum
+ ers week commencing October 1st. E
+ ach pedal will come with a certifi
+ cate of authenticity and musicians
+  all over the world can order thei
+ r own pedal at: https://lnk.to/pus
+ symelter.\n\nABOUT STEEL PANTHER:  \n
+ For the uninitiated\, Steel Panther
+  was formed in 2000 and is compris
+ ed of Michael Starr (lead singer)\,
+  Satchel (guitarist)\, Lexxi Foxx (
+ bass) and Stix Zadinia (drums). Ha
+ iling from Los Angeles\, the epicen
+ ter for rock n’ roll in all its 
+ debauchery and glamour\, Steel Pant
+ her has established themselves as 
+ the world’s premier party band\, 
+ melding hard rock with parody and 
+ criminally good looks. Steel Panth
+ er is a global phenomenon with fou
+ r full-length albums\, touring acro
+ ss the world\, platinum-level YouTu
+ be status and high-profile televis
+ ion appearances such as Jimmy Kimm
+ el Live\, Larry King Now\, FOX NFL S
+ unday and global magazine cover fe
+ atures. \n \nRolling Stone avowed\, “
+ There’s a reason Steel Panther h
+ ave transcended their origins as a
+  cover band playing the Sunset Str
+ ip\,” while Metal Sucks declared\,
+  “Steel Panther’s concept is g
+ enius...their songwriting is...pre
+ posterously snappy – and relatab
+ le.”\n \nTo quote the band themsel
+ ves “If you’re a person who’
+ s depressed and always bummed out 
+ and prefer it to rain\, go to a fuc
+ kin’ Morissey show”\n \n\nTickets
+  priced €36.50 go on sale Thursd
+ ay 11th October at 9am through www
+ .ticketmaster.ie & usual outlets n
+ ationwide.\n\nhttps://www.facebook.c
+ om/events/1094827044006159/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180925T102128Z
+LAST-MODIFIED:20180925T102128Z
+CREATED:20180925T102128Z
+SEQUENCE:0
+ORGANIZER;CN=Dublin Events\, Concerts & Parties:MAILTO:noreply@facebookmail.com
+DTSTART:20190206T190000Z
+DTEND:20190206T220000Z
+UID:e330246580869406@facebook.com
+SUMMARY:Steel Panther | Dublin
+LOCATION:Vicar Street\, Dublin\, County Dubli
+ n\, Ireland
+URL:https://www.facebook.com/events/330246580869406/
+DESCRIPTION:Steel Panther will bring their Sun
+ set Strip Live tour to the UK and 
+ Ireland in February!\n\nTickets go o
+ n general sale at 10am on Septembe
+ r 28\, here:\n► www.eatmytickets.c
+ om/en/artist/steel-panther\n\nhttps:
+ //www.facebook.com/events/33024658
+ 0869406/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181011T080034Z
+LAST-MODIFIED:20181011T080034Z
+CREATED:20181009T112515Z
+SEQUENCE:160519
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190205T200000Z
+DTEND:20190205T230000Z
+UID:e274366130076301@facebook.com
+SUMMARY:Steel Panther
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/274366130076301/
+DESCRIPTION:Sale Dates and Times:\n\nPublic Onsa
+ le : Thu\, 11 Oct 2018 at 09:00 AM\n
+ \nPresale : Wed\, 10 Oct 2018 at 09:
+ 00 AM\n\nhttps://www.facebook.com/ev
+ ents/274366130076301/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181005T115621Z
+LAST-MODIFIED:20181005T115621Z
+CREATED:20181005T115621Z
+SEQUENCE:0
+ORGANIZER;CN=Aiken Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190205T193000Z
+DTEND:20190205T223000Z
+UID:e1840851422617535@facebook.com
+SUMMARY:Steel Panther live at Vicar Street - Extra Date Added!
+LOCATION:Vicar Street
+URL:https://www.facebook.com/events/1840851422617535/
+DESCRIPTION:Steel Panther\nVicar St\, DUBLIN\n6 F
+ ebruary 2019 (SOLD-OUT)\n\nDUE TO DE
+ MAND! EXTRA DATE NOW ADDED! \n5th F
+ ebruary 2019\n \nCalifornia rock n’
+  roll party legends Steel Panther 
+ have announced an extra date for V
+ icar St\, Dublin on 5th February 20
+ 19 due to demand.\n \nSteel Panther 
+ have been busy since they moved in
+ to musical gear business. The band
+  recently announced the release of
+  their first-ever distortion pedal
+  for guitarists. From the genius m
+ ind of guitar icon Satchel\, the ba
+ nd is releasing the Pussy Melter. 
+ The pedal\, which is made in the US
+ A\, has 4 knobs and a toggle switch
+  so guitarists of all genders can 
+ customize the “Dirty”\, “Sizz
+ le”\, “Booty”\, and “Load”
+  parameters of the tone to their i
+ ndividual liking. The Pussy Melter
+  effects pedal will be a limited r
+ un with pre-orders currently under
+ way and units shipped to consumers
+  week commencing October 1st. Each
+  pedal will come with a certificat
+ e of authenticity and musicians al
+ l over the world can order their o
+ wn pedal at: https://lnk.to/pussym
+ elter.\n\nABOUT STEEL PANTHER:  \nFor
+  the uninitiated\, Steel Panther wa
+ s formed in 2000 and is comprised 
+ of Michael Starr (lead singer)\, Sa
+ tchel (guitarist)\, Lexxi Foxx (bas
+ s) and Stix Zadinia (drums). Haili
+ ng from Los Angeles\, the epicenter
+  for rock n’ roll in all its deb
+ auchery and glamour\, Steel Panther
+  has established themselves as the
+  world’s premier party band\, mel
+ ding hard rock with parody and cri
+ minally good looks. Steel Panther 
+ is a global phenomenon with four f
+ ull-length albums\, touring across 
+ the world\, platinum-level YouTube 
+ status and high-profile television
+  appearances such as Jimmy Kimmel 
+ Live\, Larry King Now\, FOX NFL Sund
+ ay and global magazine cover featu
+ res. \n \nRolling Stone avowed\, “T
+ here’s a reason Steel Panther ha
+ ve transcended their origins as a 
+ cover band playing the Sunset Stri
+ p\,” while Metal Sucks declared\, 
+ “Steel Panther’s concept is ge
+ nius...their songwriting is...prep
+ osterously snappy – and relatabl
+ e.”\n \nTo quote the band themselv
+ es “If you’re a person who’s
+  depressed and always bummed out a
+ nd prefer it to rain\, go to a fuck
+ in’ Morissey show”\n \n\nTickets 
+ priced €36.50 go on sale Thursda
+ y 11th October at 9am through www.
+ ticketmaster.ie & usual outlets na
+ tionwide.\n\nhttps://www.facebook.co
+ m/events/1840851422617535/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180905T090003Z
+LAST-MODIFIED:20180905T090003Z
+CREATED:20180903T192111Z
+SEQUENCE:135532
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190205T180000Z
+DTEND:20190205T230000Z
+UID:e881427975386118@facebook.com
+SUMMARY:Obscura & Fallujah & Allegaeon & First Fragment - Dublin 5.2.19
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/881427975386118/
+DESCRIPTION:DME By Arrangement With Avocado Bo
+ oking Presents\n\nObscura\nFallujah\nA
+ llegaeon\nFirst Fragment\n\nVoodoo Lo
+ unge Dublin\n5th February 2019\n6pm 
+ - 18+\n€22.50 from www.ticketmast
+ er.ie & outlets nationwide\, www.ti
+ ckets.ie & Sound Cellar - on sale 
+ Fri. 7th Sep @ 10am\n\nwww.dme-promo
+ tions.com\n\nhttps://www.facebook.co
+ m/events/881427975386118/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180905T113035Z
+LAST-MODIFIED:20180905T113035Z
+CREATED:20171215T134746Z
+SEQUENCE:22801369
+ORGANIZER;CN=Evil Scarecrow:MAILTO:noreply@facebookmail.com
+DTSTART:20190202T170000Z
+DTEND:20190202T220000Z
+UID:e1961995944039502@facebook.com
+SUMMARY:Dublin - Evil Scarecrow
+LOCATION:On The Rox
+URL:https://www.facebook.com/events/1961995944039502/
+DESCRIPTION:We're heading back across the wave
+ s to On The Rox with our Lost in A
+ ntartarctica Tour\, further details
+  to be announced.\n\nDoors open at 5
+ pm. This is a 14+ Show\, under 16s 
+ must be accompanied by an adult.\n\n
+ https://www.facebook.com/events/19
+ 61995944039502/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180815T190854Z
+LAST-MODIFIED:20180815T190854Z
+CREATED:20171212T172148Z
+SEQUENCE:21260826
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190202T170000Z
+DTEND:20190202T210000Z
+UID:e159213061362778@facebook.com
+SUMMARY:Evil Scarecrow - On The Rox, Dublin - 2nd Feb 2019
+LOCATION:On The Rox
+URL:https://www.facebook.com/events/159213061362778/
+DESCRIPTION:DME By Arrangement with Eccentric 
+ Gent Organisation Presents\n\nEvil S
+ carecrow\nPlus Guests\nTen Foot Wiza
+ rd\n\nOn The Rox\, Dublin\nSat 2nd Feb
+ ruary 2019\n14+ - 5pm\n€16 inc bkg
+  fee - on sale Fri. 15th December 
+ 10am\n\nhttps://www.facebook.com/eve
+ nts/159213061362778/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T154504Z
+LAST-MODIFIED:20181012T154504Z
+CREATED:20180823T180010Z
+SEQUENCE:4311894
+ORGANIZER;CN=TicketWeb:MAILTO:noreply@facebookmail.com
+DTSTART:20190201T230000Z
+DTEND:20190202T020000Z
+UID:e272302666927060@facebook.com
+SUMMARY:Pearl Jem (Rescheduled for Feb 1st 2019)
+LOCATION:Monroe's Galway
+URL:https://www.facebook.com/events/272302666927060/
+DESCRIPTION:€13   BF / Age 18 And Up\n\nAdditi
+ onal Info:\nNEW DATE !!!!!Since rel
+ easing Ten back in 1991\,PearlJam h
+ ave gone on to sell almost 100 mil
+ lion albums worldwide and secured 
+ a place in the hearts and minds of
+  people globally.. The music ofPea
+ rlJam has\, by now\, shaped and insp
+ ired a whole generation and this i
+ s something which Irish basedPearl
+ Jemhas not taken for granted as a 
+ great attention to detail was give
+ n when preparing this show.. The s
+ ense of honesty in the interpretat
+ ion of the music creates an insati
+ able atmosphere both onstage and t
+ hroughout the expectant crowds..To
+  compliment this then selection of
+  tracks taken from every album in 
+ thePearlJam back catalogue right u
+ p to their most recent offering "L
+ ightning Bolt" will be included as
+  part of their performance..Formed
+  in 2006\,PearlJemhave gone from st
+ rength to strength enjoying much s
+ uccess touring across Ireland\, UK 
+ & Europe.. Capturing the raw energ
+ y\, passion and emotion of the Seat
+ tle giants in their live performan
+ ce..Gaining the hard earned respec
+ t of even the most hardcore fans o
+ f the real thing this highly accla
+ imed tribute are now widely regard
+ ed as Europe's No. 1.. Truly a mus
+ t see show for allPearlJam fans ou
+ t there.. Wheather it's the more m
+ elodic chilled out aspect of this 
+ 2 hour programme or the full on gu
+ itar driven songs you desire these
+  lads have it covered..www.pearlje
+ m.comhttp://www.youtube.com/result
+ s?search_query=pearl+jem+channel&n
+ fpr=1https://www.facebook.com/pear
+ ljemalive?fref=tshttp://www.pearlj
+ em.com/news/kerrang-review\nTickets
+ :\nhttps://www.ticketweb.ie/event/p
+ earl-jem-monroes-live-tickets/8663
+ 885?REFERRAL_ID=twfb\n\nhttps://www.
+ facebook.com/events/27230266692706
+ 0/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181026T090038Z
+LAST-MODIFIED:20181026T090038Z
+CREATED:20181025T135100Z
+SEQUENCE:68978
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190201T190000Z
+DTEND:20190201T220000Z
+UID:e1935080280129867@facebook.com
+SUMMARY:Cockney Rejects & the Old Firm Casuals
+LOCATION:Button Factory
+URL:https://www.facebook.com/events/1935080280129867/
+DESCRIPTION:Sale Dates and Times:\n\nPublic Onsa
+ le : Fri\, 26 Oct 2018 at 10:00 AM\n
+ \nhttps://www.facebook.com/events/1
+ 935080280129867/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180907T075401Z
+LAST-MODIFIED:20180907T075401Z
+CREATED:20180903T082927Z
+SEQUENCE:343474
+ORGANIZER;CN=Dublin Events\, Concerts & Parties:MAILTO:noreply@facebookmail.com
+DTSTART:20190130T190000Z
+DTEND:20190130T220000Z
+UID:e2153381041552211@facebook.com
+SUMMARY:Ozzy Osbourne | Dublin
+LOCATION:Dublin\, Ireland
+URL:https://www.facebook.com/events/2153381041552211/
+DESCRIPTION:Ozzy Osbourne has announced dates 
+ in the UK and Ireland for his No M
+ ore Tours 2 run.\n\nTickets go on sa
+ le at 9am on September 7\, here:\nht
+ tps://www.eatmytickets.com/en/arti
+ st/ozzy-osbourne\n\nhttps://www.face
+ book.com/events/2153381041552211/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181029T132803Z
+LAST-MODIFIED:20181029T132803Z
+CREATED:20180903T080038Z
+SEQUENCE:4858045
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190130T183000Z
+DTEND:20190130T213000Z
+UID:e308017159958218@facebook.com
+SUMMARY:Ozzy Osbourne + Judas Priest
+LOCATION:3Arena
+URL:https://www.facebook.com/events/308017159958218/
+DESCRIPTION:OZZY OSBOURNE + JUDAS PRIEST\n3Aren
+ a\, Dublin\nJanuary 30th\, 2019\n\nTick
+ ets from €59 Incl. booking fee o
+ n sale this Friday!\n\nRock and Roll
+  Hall of Fame inductee and Grammy®
+ - winning singer and songwriter OZ
+ ZY OSBOURNE today revealed details
+  about his forthcoming "NO MORE TO
+ URS 2\," a reference to his 1992 "N
+ o More Tours" trek. The tour will 
+ open at Dublin’s 3Arena on 30th 
+ January 2019 with special guests J
+ udas Priest.\n\nThe announcement by 
+ the legendary musical icon about t
+ he European dates extends the Nort
+ h American tour\, announced earlier
+  this year\, with his long time col
+ laborators Zakk Wylde (Guitar)\, Bl
+ asko (Bass)\, Tommy Clufetos (Drums
+ ) and Adam Wakeman (Keyboards).\n\nT
+ his summer saw OZZY go solo on the
+  European festival circuit\, with h
+ eadline performances at Download U
+ K\, Paris and Madrid\, Firenze Rocks
+ \, Copenhell\, Grasspop Metal Meetin
+ g and Sweden Rock Festival.\n\n"I've
+  been extremely blessed to have ha
+ d two successful music careers\," O
+ SBOURNE says. "I'm looking at this
+  final tour as being a huge celebr
+ ation for my fans and anyone who h
+ as enjoyed my music over the past 
+ five decades."\n\nOn his upcoming fa
+ rewell world tour\, produced by Liv
+ e Nation\, OSBOURNE will celebrate 
+ more than five decades as a perfor
+ mer (both as a solo artist and as 
+ lead singer of Black Sabbath which
+  toured through Europe in 2017 on 
+ their farewell tour). This tour\, e
+ xpected to take OZZY around the wo
+ rld with dates into 2020\, will mar
+ k the end of global touring for th
+ e legendary artist\, though he will
+  continue to perform select live s
+ hows in the future.\n\nThroughout hi
+ s career\, OZZY has sold more than 
+ 100 million records.\n\nTickets from
+  €59 including booking and facil
+ ity fees go on sale this Friday at
+  9am\n\nhttps://www.facebook.com/eve
+ nts/308017159958218/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181031T100001Z
+LAST-MODIFIED:20181031T100001Z
+CREATED:20181030T160432Z
+SEQUENCE:64529
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190128T180000Z
+DTEND:20190128T213000Z
+UID:e2121417671236902@facebook.com
+SUMMARY:Escape The Fate 'This War Is Ours' Show - Belfast - 28.1.19
+LOCATION:Limelight Belfast
+URL:https://www.facebook.com/events/2121417671236902/
+DESCRIPTION:DME By Arrangement With K2 Present
+ s\n\nEscape The Fate\n'This War Is Ou
+ rs' 10 year anniversary tour - per
+ forming the classic album in full!
+ \n\nPlus Guests\n\nLimelight Belfast\nM
+ onday 28th January 2019\n6pm\n18+\n£
+ 18 inc fees - on sale Fri 2nd Nove
+ mber @ 10am\n\nwww.dme-promotions.co
+ m\n\nhttps://www.facebook.com/events
+ /2121417671236902/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181031T100000Z
+LAST-MODIFIED:20181031T100000Z
+CREATED:20181030T160348Z
+SEQUENCE:64572
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190127T183000Z
+DTEND:20190127T223000Z
+UID:e284358229084517@facebook.com
+SUMMARY:Escape The Fate 'This War Is Ours' Show - Dublin - 27.1.19
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/284358229084517/
+DESCRIPTION:DME By Arrangement With K2 Present
+ s\n\nEscape The Fate\n'This War Is Ou
+ rs' 10 year anniversary tour - per
+ forming the classic album in full!
+ \n\nPlus Guests\n\nVoodoo Lounge Dubli
+ n\nSunday 27th January 2019\n6.30pm\n
+ 14+ (under 18's accompanied)\n€20
+  inc fees - on sale Fri 2nd Novemb
+ er @ 10am\n\nwww.dme-promotions.com\n
+ \nhttps://www.facebook.com/events/2
+ 84358229084517/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181011T142420Z
+LAST-MODIFIED:20181011T142420Z
+CREATED:20180824T123317Z
+SEQUENCE:4153863
+ORGANIZER;CN=Demented Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190126T190000Z
+DTEND:20190126T230000Z
+UID:e223602871833683@facebook.com
+SUMMARY:Michale Graves (Ex Misfits) in Dublin!
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/223602871833683/
+DESCRIPTION:Demented Promotions present\n\nMICHA
+ LE GRAVES (Ex Misfits)\nhttps://www
+ .facebook.com/Michale.Graves/\n\nwit
+ h \n\nsupport TBA\n\nDate: Saturday\, 2
+ 6th January 2019\nPlace: The Voodoo
+  Lounge\, 39/40 Arran Quay\nDoors: 7
+ .00pm\nPrice: Tickets €23 incl. b
+ ooking fee. See details below.\n\nTi
+ cket info: Tickets are available N
+ OW from the following places: \n\nWA
+ V Tickets via the WAV Ticket Offic
+ e on 39 Camden Row (beside Whelan’
+ s Venue) or by calling 1890 200 07
+ 8 or online @ http://wavtickets.ie
+ /. - Click the link at the top of 
+ this event page\, sure.\n\nSound Cell
+ ar on 47 Nassau Street. 01 677 194
+ 0.\n\nMusic Maker on 29 Exchequer St
+ reet. 01 677 9004.\n\nFor more infor
+ mation: \nhttp://www.facebook.com/d
+ ementedpromotions \nTwitter: @demen
+ tedpromo\nInstagram: dementedpromo\n
+ \nhttps://www.facebook.com/events/2
+ 23602871833683/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181113T181520Z
+LAST-MODIFIED:20181113T181520Z
+CREATED:20181113T181520Z
+SEQUENCE:0
+ORGANIZER;CN=TicketWeb:MAILTO:noreply@facebookmail.com
+DTSTART:20190125T230000Z
+DTEND:20190126T023000Z
+UID:e345100596224015@facebook.com
+SUMMARY:Negative Creeps (Nirvana Tribute) - Monroe's Galway
+LOCATION:Monroe's Galway
+URL:https://www.facebook.com/events/345100596224015/
+DESCRIPTION:€12   BF / Age 18 And Up\n\nAdditi
+ onal Info:\nWe are delighted to ann
+ ounce the return of Nirvana Tribut
+ e Negative Creeps to Monroe's Galw
+ ay January 25th 2019Nirvana tribut
+ e 'Negative Creeps'\, recreate the 
+ intense\, raw sound of live Nirvana
+ ! With songs taken from across the
+  bands entire back catalogue\, expe
+ rience the music of Nirvana as it 
+ should be\, LIVE AND LOUD! Come as 
+ you are.Tickets on sale now throug
+ h the link below\nTickets:\nhttps://
+ www.ticketweb.ie/event/negative-cr
+ eeps-nirvana-tribute-monroes-live-
+ tickets/8902215?REFERRAL_ID=twfb\n\n
+ https://www.facebook.com/events/34
+ 5100596224015/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181031T100000Z
+LAST-MODIFIED:20181031T100000Z
+CREATED:20181030T164758Z
+SEQUENCE:61922
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20190125T190000Z
+DTEND:20190125T223000Z
+UID:e511467042698843@facebook.com
+SUMMARY:Winterfylleth 'The Hallowing Of Heirdom' Acoustic Show - Dublin
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/511467042698843/
+DESCRIPTION:DME By Arrangement With UTA Presen
+ ts\n\nWinterfylleth\n'The Hallowing O
+ f Heirdom' Acoustic Tour\n\nw/guests
+ \nWolcensmen\nMark Deeks\n\nVoodoo Lou
+ nge Dublin\nFull Seated Show\nFriday
+  25th January 2019\n7pm - 18+\n€20
+  inc bkg fee (existing tickets fro
+ m postponed Sep 2018 show remain v
+ alid)\n\nwww.dme-promotions.com\n\nhtt
+ ps://www.facebook.com/events/51146
+ 7042698843/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180818T182458Z
+LAST-MODIFIED:20180818T182458Z
+CREATED:20180425T212423Z
+SEQUENCE:9925235
+ORGANIZER;CN=The Academy:MAILTO:noreply@facebookmail.com
+DTSTART:20190120T190000Z
+DTEND:20190120T230000Z
+UID:e1951573778506459@facebook.com
+SUMMARY:Uncle Acid and the Deadbeats at the Academy Green Room Dublin
+LOCATION:The Academy
+URL:https://www.facebook.com/events/1951573778506459/
+DESCRIPTION:Uncle Acid and the Deadbeats\nWASTE
+ LAND TOUR\nPlus\, very special guest
+ s \n\nBLOOD CEREMONY\n\nThe Academy Gr
+ een Room\, Sunday January 20th \n\nTi
+ ckets €20.00 Inc. booking fee go
+  on sale Monday April 30th at 10am
+  from Ticketmaster\n\nDoors 7.00pm |
+  Over 18’s | ID Required\n\nUNCLE 
+ ACID & THE DEADBEATS PLAY THE ACAD
+ EMY GREEN ROOM ON SUNDAY JANUARY 2
+ 0TH AS PART OF THEIR ‘WASTELAND’
+  TOUR WITH SPECIAL GUESTS BLOOD CE
+ REMONY\n\nUK’s scuzziest ambassado
+ rs of blood-curdling fuzz\, UNCLE A
+ CID & THE DEADBEATS\, prepare to hi
+ t the roads of Europe this winter 
+ in support of their much anticipat
+ ed fifth album\, due out this autum
+ n. Dates for mainland Europe and S
+ candinavia were announced last wee
+ k. Now they add a UK leg in Januar
+ y 2019. Support will come from occ
+ ult rockers BLOOD CEREMONY. \n\nThei
+ r last release\, ‘Lord of Misrule
+ ’\, was one of the top releases o
+ f 2016\, and new material is on the
+  horizon\n\nUncle Acid states:\n"Thes
+ e will be our first European shows
+  in two years and we're hungry to 
+ get back out and lay waste to many
+  of our favourite cities. You will
+  enjoy the show experiencing the l
+ atest PsychoVision screen technolo
+ gies with piles of cranked up\, ear
+  splitting valve amplification to 
+ melt your minds. The nightmare sha
+ llresume!"\n\nhttps://www.facebook.c
+ om/events/1951573778506459/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181107T135438Z
+LAST-MODIFIED:20181107T135438Z
+CREATED:20181010T123054Z
+SEQUENCE:2424224
+ORGANIZER;CN=Cable Street Beat Dublin:MAILTO:noreply@facebookmail.com
+DTSTART:20190119T200000Z
+DTEND:20190119T233000Z
+UID:e268125927172334@facebook.com
+SUMMARY:Fatal Blow, Curb Stomp, United Bottles
+LOCATION:The Thomas House
+URL:https://www.facebook.com/events/268125927172334/
+DESCRIPTION:Cable Street Beat Dublin presents 
+ a night of Antifascist Oi!\n\nFatal 
+ Blow - Anti-fascist Oi! band from 
+ South Wales featuring members of A
+ FA Oi! legends The Oppressed.\n\nCur
+ b Stomp - Oi! from Dortmund\, Germa
+ ny. Hard and SHARP!\n\nUnited Bottle
+ s - Started by members of Belfast'
+ s finest - Runnin' Riot. \n\nDoors a
+ t 20:00\nAdmission €12\n\nMore info
+  TBA\n\nhttps://www.facebook.com/eve
+ nts/268125927172334/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180817T143154Z
+LAST-MODIFIED:20180817T143154Z
+CREATED:20180426T092520Z
+SEQUENCE:9781594
+ORGANIZER;CN=Limelight Belfast:MAILTO:noreply@facebookmail.com
+DTSTART:20190119T190000Z
+DTEND:20190119T220000Z
+UID:e1776489142373661@facebook.com
+SUMMARY:Uncle Acid & The Deadbeats + Blood Ceremony at The Limelight!
+LOCATION:Limelight Belfast
+URL:https://www.facebook.com/events/1776489142373661/
+DESCRIPTION:Limelight Belfast Presents:\n\nUNCLE
+  ACID & THE DEADBEATS\n+ BLOOD CERE
+ MONY\n\nThe Limelight 2\, Belfast\nSat
+ urday 19th January 2019\nDoors 7pm 
+ *EARLY SHOW*\nTickets £16 + Bookin
+ g Fee\n18+ Only\n\nUK’s scuzziest a
+ mbassadors of blood-curdling fuzz\,
+  UNCLE ACID & THE DEADBEATS\, are p
+ leased to announce a headline Belf
+ ast show at The Limelight 2 on Sat
+ urday 19th January 2019. The band 
+ prepare to hit the roads of Europe
+  this winter in support of their m
+ uch anticipated fifth album\, due o
+ ut this autumn. Support will come 
+ from occult rockers BLOOD CEREMONY
+ . Their last release\, ‘Lord of M
+ isrule’\, was one of the top rele
+ ases of 2016\, and new material is 
+ on the horizon. Tickets on sale Mo
+ nday April 30th at 10am from www.l
+ imelightbelfast.com\, www.ticketmas
+ ter.ie Katy’s Bar & Ticketmaster
+  outlets nationwide. Northern Irel
+ and customers 0844 277 44 55 & Rep
+ ublic of Ireland customers 0818 71
+ 9 300.\n\nhttps://www.facebook.com/e
+ vents/1776489142373661/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181126T143527Z
+LAST-MODIFIED:20181126T143527Z
+CREATED:20181025T131006Z
+SEQUENCE:2769921
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190115T190000Z
+DTEND:20190115T220000Z
+UID:e600845847011689@facebook.com
+SUMMARY:Mastodon
+LOCATION:Olympia Theatre
+URL:https://www.facebook.com/events/600845847011689/
+DESCRIPTION:MCD Presents\nMastodon (+ Kvelertak
+  & Mutoid Man)\nThe Olympia Theatre
+ \nTuesday 15th January 2019\n\n**TICK
+ ETS ON SALE NOW**\n\nGrammy-Award-wi
+ nning hard rock quartet Mastodon h
+ as confirmed their return to live 
+ action with an extensive tour of t
+ he U.K. and Europe with a Dublin d
+ ate in the  Olympia Theatre on Jan
+ uary 15th. Support on all dates wi
+ ll be Kvelertak and Mutoid Man.\n\nA
+ dditionally\, promoters for each sh
+ ow will be making donations to one
+  of the following three charities\,
+  The TJ Martel Foundation\, Hirshbe
+ rg Foundation for Pancreatic Cance
+ r Research and Pancreatic Cancer A
+ ction Network in honor of the band
+ s long time manager\, Nick John\, wh
+ o passed away last month from panc
+ reatic cancer. For further details
+ \, go to: mastodonrocks.com.   \n\nTi
+ ckets priced from €36.50 includi
+ ng booking fee & €1 restoration 
+ levy are on sale now via Ticketmas
+ ter.ie\, usual Ticketmaster outlets
+  nationwide (list here) including 
+ The Olympia Theatre Box Office\, an
+ d by calling Ticketmaster at The O
+ lympia Phone Bookings on 0818 719 
+ 330.\n\nThe fees for this event incl
+ ude a €1.00 restoration levy. Th
+ e restoration levy will allow The 
+ Olympia Theatre to invest in maint
+ aining and enhancing the theatre t
+ o ensure that it continues to cons
+ istently deliver the highest quali
+ ty experience for theatre goers\, a
+ ctors\, performers & producers.\n\nUn
+ der 14's must be accompanied by an
+  adult. Standing tickets are recom
+ mended only for those over 14 year
+ s of age. Over 18's ID required to
+  gain access to the bars where alc
+ ohol is served. \n\n****************
+ **********************************
+ ******************\nApproximate sta
+ ge times will be posted once recei
+ ved from production. Doors open 7p
+ m.\n*******************************
+ **********************************
+ ***\n\nOne of the most international
+ ly respected and influential heavy
+  rock bands of their generation or
+  any other\, Mastodon continue to p
+ ush forward musically\, lyrically\, 
+ compositionally and have become a 
+ genre unto themselves as a result.
+  Their current acclaimed album\, Em
+ peror Of Sand\, has won a 2018 GRAM
+ MY® Award for “Best Metal Perfo
+ rmance” for the track “Sultan’
+ s Curse”. The Atlanta rock band 
+ was also nominated in the “Best 
+ Rock Album” category for Emperor
+  of Sand. This marks Mastodon’s 
+ first Grammy win following their p
+ revious five GRAMMY® nominations 
+ to date. The album also landed the
+  #1 spot in METAL HAMMER Top 100 A
+ lbums Of The Year\, and Mastodon pi
+ cked up ‘Best Live Band’ at th
+ e 2017 Metal Hammer Golden Gods. E
+ mperor of Sand remains both a crit
+ ical and commercial success for th
+ e quartet. Not only did it become 
+ the group’s third release to bow
+  in the Top 10 of the Billboard To
+ p 200\, but it also debuted at #1 o
+ n the Billboard Rock chart as well
+  as #1 on the Physical album chart
+ . Emperor of Sand was released to 
+ widespread praise:\n\n“That Mastod
+ on are capable of channeling perso
+ nal tragedies into madcap sci-fi f
+ antasy is impressive\, but on Emper
+ or Of Sand they finally harness th
+ eir musical ambitions as well.” 
+ – Pitchfork\n\n“Their most ambit
+ ious album in years - Mastodon is 
+ one of the most beloved heavy band
+ s on earth.” - Rolling Stone Mag
+ azine\n\n“Mastodon has an innate a
+ bility to be both accessible and r
+ eally friggin' far out at the same
+  time.” -  Revolver Magazine\n\n“
+ The music of Emperor Of Sand is an
+  emotional statement in itself. Fu
+ ry and invention coexist\, and rage
+ \, while palpable\, isn’t the sole
+  or dominant characteristic… met
+ al that soars with authority and i
+ ntellect. Emperor Of Sand stands a
+ s another arresting work by Mastod
+ on\, which may very well be contemp
+ orary metal’s most compelling gr
+ oup.” - Wall Street Journal\n\nAs 
+ previously announced\, Reprise Reco
+ rds have released a pair of exclus
+ ive 12” vinyl picture discs as p
+ art of our on-going “Picture Thi
+ s” series. Brann Dailor’s solo
+  track “Red Death”is one of th
+ e 6 songs found on DC Comics’ Da
+ rk Nights: Metal: Deluxe Edition c
+ ollection which comes with a poste
+ r and 32-page comic book and limit
+ ed to 4\,000 copies worldwide. Mast
+ odon’s groundbreaking 2014 album
+  Once More Round The Sun released 
+ as part of the “Picture This” 
+ series as a two disc 12” set in 
+ a limited edition of 2\,000 pieces 
+ worldwide.\n\nFollow Mastodon:\nWebsi
+ te: mastodonrocks.com\nFacebook: fa
+ cebook.com/Mastodon\nYouTube: youtu
+ be.com/mastodonmusic\nTwitter: @mas
+ todonmusic\nInstagram: @mastodonroc
+ ks\n\nhttps://www.facebook.com/event
+ s/600845847011689/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181126T143412Z
+LAST-MODIFIED:20181126T143412Z
+CREATED:20181022T164950Z
+SEQUENCE:3015862
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20190115T190000Z
+DTEND:20190115T220000Z
+UID:e472192536626476@facebook.com
+SUMMARY:Mastodon
+LOCATION:Olympia Theatre
+URL:https://www.facebook.com/events/472192536626476/
+DESCRIPTION:MCD Presents\nMastodon (+ Kvelertak
+  & Mutoid Man)\nThe Olympia Theatre
+ \nTuesday 15th January 2019\n\n**TICK
+ ETS ON SALE NOW**\n\nGrammy-Award-wi
+ nning hard rock quartet Mastodon h
+ as confirmed their return to live 
+ action with an extensive tour of t
+ he U.K. and Europe with a Dublin d
+ ate in the  Olympia Theatre on Jan
+ uary 15th. Support on all dates wi
+ ll be Kvelertak and Mutoid Man.\n\nA
+ dditionally\, promoters for each sh
+ ow will be making donations to one
+  of the following three charities\,
+  The TJ Martel Foundation\, Hirshbe
+ rg Foundation for Pancreatic Cance
+ r Research and Pancreatic Cancer A
+ ction Network in honor of the band
+ s long time manager\, Nick John\, wh
+ o passed away last month from panc
+ reatic cancer. For further details
+ \, go to: mastodonrocks.com.   \n\nTi
+ ckets priced from €36.50 includi
+ ng booking fee & €1 restoration 
+ levy are on sale now via Ticketmas
+ ter.ie\, usual Ticketmaster outlets
+  nationwide (list here) including 
+ The Olympia Theatre Box Office\, an
+ d by calling Ticketmaster at The O
+ lympia Phone Bookings on 0818 719 
+ 330.\n\nThe fees for this event incl
+ ude a €1.00 restoration levy. Th
+ e restoration levy will allow The 
+ Olympia Theatre to invest in maint
+ aining and enhancing the theatre t
+ o ensure that it continues to cons
+ istently deliver the highest quali
+ ty experience for theatre goers\, a
+ ctors\, performers & producers.\n\nUn
+ der 14's must be accompanied by an
+  adult. Standing tickets are recom
+ mended only for those over 14 year
+ s of age. Over 18's ID required to
+  gain access to the bars where alc
+ ohol is served. \n\n****************
+ **********************************
+ ******************\nApproximate sta
+ ge times will be posted once recei
+ ved from production. Doors open 7p
+ m.\n*******************************
+ **********************************
+ ***\n\nOne of the most international
+ ly respected and influential heavy
+  rock bands of their generation or
+  any other\, Mastodon continue to p
+ ush forward musically\, lyrically\, 
+ compositionally and have become a 
+ genre unto themselves as a result.
+  Their current acclaimed album\, Em
+ peror Of Sand\, has won a 2018 GRAM
+ MY® Award for “Best Metal Perfo
+ rmance” for the track “Sultan’
+ s Curse”. The Atlanta rock band 
+ was also nominated in the “Best 
+ Rock Album” category for Emperor
+  of Sand. This marks Mastodon’s 
+ first Grammy win following their p
+ revious five GRAMMY® nominations 
+ to date. The album also landed the
+  #1 spot in METAL HAMMER Top 100 A
+ lbums Of The Year\, and Mastodon pi
+ cked up ‘Best Live Band’ at th
+ e 2017 Metal Hammer Golden Gods. E
+ mperor of Sand remains both a crit
+ ical and commercial success for th
+ e quartet. Not only did it become 
+ the group’s third release to bow
+  in the Top 10 of the Billboard To
+ p 200\, but it also debuted at #1 o
+ n the Billboard Rock chart as well
+  as #1 on the Physical album chart
+ . Emperor of Sand was released to 
+ widespread praise:\n\n“That Mastod
+ on are capable of channeling perso
+ nal tragedies into madcap sci-fi f
+ antasy is impressive\, but on Emper
+ or Of Sand they finally harness th
+ eir musical ambitions as well.” 
+ – Pitchfork\n\n“Their most ambit
+ ious album in years - Mastodon is 
+ one of the most beloved heavy band
+ s on earth.” - Rolling Stone Mag
+ azine\n\n“Mastodon has an innate a
+ bility to be both accessible and r
+ eally friggin' far out at the same
+  time.” -  Revolver Magazine\n\n“
+ The music of Emperor Of Sand is an
+  emotional statement in itself. Fu
+ ry and invention coexist\, and rage
+ \, while palpable\, isn’t the sole
+  or dominant characteristic… met
+ al that soars with authority and i
+ ntellect. Emperor Of Sand stands a
+ s another arresting work by Mastod
+ on\, which may very well be contemp
+ orary metal’s most compelling gr
+ oup.” - Wall Street Journal\n\nChe
+ ck out Emperor Of Sand here: https
+ ://wbr.app.box.com/s/0069za9umsnls
+ 2y3siu0zbr3pabdbl6m\n\nAs previously
+  announced\, Reprise Records have r
+ eleased a pair of exclusive 12” 
+ vinyl picture discs as part of our
+  on-going “Picture This” serie
+ s. Brann Dailor’s solo track “
+ Red Death”is one of the 6 songs 
+ found on DC Comics’ Dark Nights:
+  Metal: Deluxe Edition collection 
+ which comes with a poster and 32-p
+ age comic book and limited to 4\,00
+ 0 copies worldwide. Mastodon’s g
+ roundbreaking 2014 album Once More
+  Round The Sun released as part of
+  the “Picture This” series as 
+ a two disc 12” set in a limited 
+ edition of 2\,000 pieces worldwide.
+ \n\nFollow Mastodon:\nWebsite: mastod
+ onrocks.com\nFacebook: facebook.com
+ /Mastodon\nYouTube: youtube.com/mas
+ todonmusic\nTwitter: @mastodonmusic
+ \nInstagram: @mastodonrocks\n\nhttps:
+ //www.facebook.com/events/47219253
+ 6626476/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181023T100001Z
+LAST-MODIFIED:20181023T100001Z
+CREATED:20181023T073604Z
+SEQUENCE:8637
+ORGANIZER;CN=Mastodon:MAILTO:noreply@facebookmail.com
+DTSTART:20190115T170000Z
+DTEND:20190115T230000Z
+UID:e340509656512366@facebook.com
+SUMMARY:Mastodon Live in Dublin
+LOCATION:Olympia Theatre
+URL:https://www.facebook.com/events/340509656512366/
+DESCRIPTION:Kvelertak\nMutoid Man\n\nhttps://www.
+ facebook.com/events/34050965651236
+ 6/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181023T100000Z
+LAST-MODIFIED:20181023T100000Z
+CREATED:20181023T072910Z
+SEQUENCE:9050
+ORGANIZER;CN=Mastodon:MAILTO:noreply@facebookmail.com
+DTSTART:20190114T170000Z
+DTEND:20190114T230000Z
+UID:e2148134538837667@facebook.com
+SUMMARY:Mastodon Live in Belfast
+LOCATION:Ulster Hall
+URL:https://www.facebook.com/events/2148134538837667/
+DESCRIPTION:With Special Guest\nKvelertak\nMutoi
+ d Man\n\nhttps://www.facebook.com/ev
+ ents/2148134538837667/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180907T092215Z
+LAST-MODIFIED:20180907T092215Z
+CREATED:20180620T160436Z
+SEQUENCE:6801459
+ORGANIZER;CN=The Thomas House:MAILTO:noreply@facebookmail.com
+DTSTART:20190105T210000Z
+DTEND:20190106T000000Z
+UID:e827967267397908@facebook.com
+SUMMARY:Control
+LOCATION:The Thomas House
+URL:https://www.facebook.com/events/827967267397908/
+DESCRIPTION:DUE TO CIRCUMSTANCES BEYOND OUR CO
+ NTROL WE HAVE MOVED THIS GIG TO SA
+ TURDAY 5TH JAN 2019. ORIGINAL TICK
+ ETS STILL VALID FOR THIS NEW DATE.
+  REFUNDS AVAILABLE FROM EVENTBRITE
+  IF NEW DATE DOESN'T SUIT. \n\nContr
+ ol return to Dublin for one night 
+ only. Support from Hooligan. Ticke
+ ts on the door or at Eventbrite.ie
+  link above.\n\nhttps://www.facebook
+ .com/events/827967267397908/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181101T174613Z
+LAST-MODIFIED:20181101T174613Z
+CREATED:20181101T171743Z
+SEQUENCE:1710
+ORGANIZER;CN=Nightmare Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181231T165800Z
+DTEND:20190101T195800Z
+UID:e1874526089331779@facebook.com
+SUMMARY:Unkindness of Ravens Headline show
+LOCATION:The Well Bar
+URL:https://www.facebook.com/events/1874526089331779/
+DESCRIPTION:For the very first time Nightmare 
+ Promotions and Wolftrap Records te
+ am up to bring you a very special\,
+  Unkindness of Ravens headline sho
+ w\, with very special guests\, Limer
+ icks own Third Island. This event 
+ will be held at the Well Bar Nenag
+ h on Monday December 31st\, and yes
+  that's new years eve which makes 
+ this even more special\, not just a
+ n end but a new beginning. There i
+ s NO ENTRY FEE on the night this I
+ S A FREE IN event and is also over
+  18's only.    Unkindness of Raven
+ s will be playing a number of trac
+ ks from all 3 albums so far and ma
+ ybe a hint of whats to come from a
+ lbum no 4.So join us in what is su
+ re to be a fantastic night and as 
+ always your support is always appr
+ eciated...\n\nhttps://www.facebook.c
+ om/events/1874526089331779/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180904T112142Z
+LAST-MODIFIED:20180904T112142Z
+CREATED:20180820T192355Z
+SEQUENCE:1267067
+ORGANIZER;CN=Bad Reputation IRL:MAILTO:noreply@facebookmail.com
+DTSTART:20181226T210000Z
+DTEND:20181227T020000Z
+UID:e515975198827555@facebook.com
+SUMMARY:Monsters of Craic - Christmas Craicer - Grunge Double Header
+LOCATION:Dolans Pub
+URL:https://www.facebook.com/events/515975198827555/
+DESCRIPTION:Bad Reputation IRL presents:\n\nMONS
+ TERS OF CRAIC\nChristmas Craicer \n-
+ Alice in Chains Tribute & Soundgar
+ den/Chris Cornell Tribute-\n\nAngry 
+ Chair - A tribute to Alice in Chai
+ ns\nand\nThe YEAR Grunge BROKE \n(A T
+ ribute to Soundgarden & Chris Corn
+ ell)\n\n+DOUBLE HEADER+\n\nSt. Stephen
+ 's Night\n26th December 2018\nDolans
+  Warehouse\,\nDock Rd.\,\nLimerick\, IR
+ L.\n\nDoors: 9pm\nAdm: €12 \n(or €
+ 10 advance tickets from www.dolans
+ .ie available soon)\n\nhttps://www.f
+ acebook.com/events/515975198827555
+ /
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180920T190426Z
+LAST-MODIFIED:20180920T190426Z
+CREATED:20180812T131857Z
+SEQUENCE:3390329
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181222T190000Z
+DTEND:20181222T223000Z
+UID:e888488548028092@facebook.com
+SUMMARY:Solstafir - Dublin - 22nd December 2018
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/888488548028092/
+DESCRIPTION:DME by arrangement with NMC Live p
+ resents\n\nSÓLSTAFIR\nPlus Guests\nTa
+ lons\nTelepathy\n\nVoodoo Lounge\, Dub
+ lin\n22nd December 2018\n€20 inc b
+ kg fee from Ticketmaster and usual
+  outlets\n18+ \n\nwww.dme-promotions.
+ com\n\nhttps://www.facebook.com/even
+ ts/888488548028092/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180920T190355Z
+LAST-MODIFIED:20180920T190355Z
+CREATED:20180812T131605Z
+SEQUENCE:3390470
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181221T183000Z
+DTEND:20181221T214500Z
+UID:e307527003352954@facebook.com
+SUMMARY:Solstafir - Belfast - 21st December 2018
+LOCATION:Limelight Belfast
+URL:https://www.facebook.com/events/307527003352954/
+DESCRIPTION:DME by arrangement with NMC Live p
+ resents\n\nSÓLSTAFIR\nPlus Guests\nTa
+ lons\nTelepathy\n\nLimelight 2\, Belfa
+ st\n21st December 2018\n£17.50 inc 
+ bkg fee from Ticketmaster and usua
+ l outlets\n18+ \n\nwww.dme-promotions
+ .com\n\nhttps://www.facebook.com/eve
+ nts/307527003352954/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180816T095141Z
+LAST-MODIFIED:20180816T095141Z
+CREATED:20180720T154022Z
+SEQUENCE:2311879
+ORGANIZER;CN=The Academy:MAILTO:noreply@facebookmail.com
+DTSTART:20181217T190000Z
+DTEND:20181217T230000Z
+UID:e588204534907844@facebook.com
+SUMMARY:Flogging Molly at the Academy Dublin
+LOCATION:The Academy
+URL:https://www.facebook.com/events/588204534907844/
+DESCRIPTION:FLOGGING MOLLY\n+ Face to Face & Lo
+ st In Stereo\n\n17th December 2018\nT
+ he Academy\n57 Middle Abbey Street\,
+  Dublin\n\nDoors 7.00pm\nTickets €3
+ 2.00 includes booking fee on sale 
+ Friday 27th July at 9am from Ticke
+ tmaster\nOver 18s\, ID required\n\nQui
+ ntessential Irish-American folk pu
+ nk band Flogging Molly – Dave Ki
+ ng (lead vocals\, acoustic guitar\, 
+ electric guitar\, bodhran)\, Bridget
+  Regan (violin\, tin whistle)\, Denn
+ is Casey (acoustic guitar\, electri
+ c guitar)\, Bob Schmidt (banjo\, man
+ dolin)\, Matt Hensley (accordion\, p
+ iano\, concertina)\, Nathen Maxwell 
+ (bass guitar\, vocals)\, Mike Alonso
+  (drums\, percussion) – are celeb
+ rating their 20th Anniversary as a
+  staple in the punk scene and tour
+ ing in support of Life Is Good\, th
+ eir first new album in over six ye
+ ars. It’s filled with rousing so
+ ngs that are timeless in their sen
+ timent\, but directly related to to
+ day’s most pressing concerns: po
+ litics\, the economy\, unemployment\,
+  planned boomtowns gone bust\, immi
+ gration policies gone awry\, and mu
+ ch more. Life Is Good serves as a 
+ wake-up call to those who have sim
+ ply stood by while far-reaching po
+ litical decisions were made that h
+ ad serious impact on them. The ban
+ d started out as the house band at
+  Molly Malone’s and built a loya
+ l following. They’ve built a mas
+ sive fan base through endless tour
+ ing\, and even have their very own 
+ boat cruise which has hosted every
+ one from Rancid to NOFX to The Off
+ spring to Less Than Jake to The En
+ glish Beat to The Bouncing Souls t
+ o Frank Turner to Gogol Bordello.\n
+ \nTickets €32.00 includes booking
+  fee on sale Friday 27th July at 9
+ am from Ticketmaster\n\nhttps://www.
+ facebook.com/events/58820453490784
+ 4/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181105T221544Z
+LAST-MODIFIED:20181105T221544Z
+CREATED:20181105T221544Z
+SEQUENCE:0
+ORGANIZER;CN=Bad Reputation IRL:MAILTO:noreply@facebookmail.com
+DTSTART:20181215T210000Z
+DTEND:20181216T003000Z
+UID:e1948136522157320@facebook.com
+SUMMARY:Metal Salvage / Craic Sabbath - Bad Rep Xmas Party-15th Dec 2018
+LOCATION:Dolans Pub
+URL:https://www.facebook.com/events/1948136522157320/
+DESCRIPTION:Bad Reputation IRL presents:\n\nBad 
+ Reputation Xmas Party\n\nMetal Salva
+ ge\n80s Heavy Metal classics from J
+ udas Priest\, Accept\, Dio\, Dokken\, 
+ Riot & more\nFeaturing:  A.A. Nemth
+ eanga (Primordial) \n& members of G
+ ama Bomb\, Unyielding Love\n\n&\nCraic
+  Sabbath\nBlack Sabbath tribute\, Oz
+ zy & Dio eras\n\nDOUBLE HEADER\nLimit
+ ed to 100 tickets\n\nSATURDAY 15th D
+ ECEMBER 2018\nKasbah\, Dolans\, Limer
+ ck\nDoors: 9pm\nAdm: €11 (advance 
+ tickets www.dolans.ie - ON SALE SO
+ ON)\n\nhttps://www.facebook.com/even
+ ts/1948136522157320/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181113T234316Z
+LAST-MODIFIED:20181113T234316Z
+CREATED:20181113T081543Z
+SEQUENCE:55653
+ORGANIZER;CN=Pethrophile Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181215T210000Z
+DTEND:20181216T000000Z
+UID:e563471977437099@facebook.com
+SUMMARY:The Crawling , Wolves And The Hideous White Album Launch
+LOCATION:Fred Zeppelins
+URL:https://www.facebook.com/events/563471977437099/
+DESCRIPTION:The crawling album launch\n\nhttps:/
+ /www.facebook.com/events/563471977
+ 437099/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181101T135528Z
+LAST-MODIFIED:20181101T135528Z
+CREATED:20180819T110527Z
+SEQUENCE:6403801
+ORGANIZER;CN=Demented Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181215T200000Z
+DTEND:20181216T023000Z
+UID:e2128703477153573@facebook.com
+SUMMARY:Mortiis (Era 1) in Dublin!
+LOCATION:Fibber Magees
+URL:https://www.facebook.com/events/2128703477153573/
+DESCRIPTION:Demented Promotions present\n\nMORTI
+ IS (Era 1)\nhttps://www.facebook.co
+ m/officialmortiis/\n\nplus support f
+ rom\n\nRestive Nation\nhttps://www.fa
+ cebook.com/restivenation\n\nDate: Sa
+ turday\, 15th December\nPlace: Fibbe
+ r Magees (Downstairs)\, 80/81 Parne
+ ll Street\nDoors: 8.00pm\nPrice: Tic
+ kets €22 incl. booking fee. See 
+ details below.\n\nTicket info: Ticke
+ ts are available NOW from the foll
+ owing places: \n\nWAV Tickets via th
+ e WAV Ticket Office on 39 Camden R
+ ow (beside Whelan’s Venue) or by
+  calling 1890 200 078 or online @ 
+ http://wavtickets.ie/. - Click the
+  link at the top of this event pag
+ e\, sure.\n\nMusic Maker on 29 Excheq
+ uer Street. 01 677 9004.\n\nSound Ce
+ llar on 47 Nassau Street. 01 677 1
+ 940.\n\nFor more information: \nhttp:
+ //www.facebook.com/dementedpromoti
+ ons \nTwitter: @dementedpromo\nInsta
+ gram: @dementedpromo\n\nhttps://www.
+ facebook.com/events/21287034771535
+ 73/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180904T103734Z
+LAST-MODIFIED:20180904T103734Z
+CREATED:20180904T102907Z
+SEQUENCE:507
+ORGANIZER;CN=Paranoid Beast Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181214T210000Z
+DTEND:20181215T003000Z
+UID:e358239778050509@facebook.com
+SUMMARY:Paranoid Beast Presents Bell Witch plus Support
+LOCATION:The Thomas House
+URL:https://www.facebook.com/events/358239778050509/
+DESCRIPTION:Seattle doom metal duo\, BELL WITCH
+ \, have confirmed a full European t
+ our in support of their recently r
+ eleased opus\, Mirror Reaper. \n\nRel
+ eased by Profound Lore in October\,
+  Mirror Reaper was engineered and 
+ mixed by veteran producer Billy An
+ derson (Swans\, Sleep\, Neurosis)\, t
+ he duo of Dylan Desmond (bass\, voc
+ als) and Jesse Shreibman (drums\, v
+ ocals\, organ) have pushed the band
+ ’s sound further beyond their la
+ ndmark 2015 LP\, Four Phantoms offe
+ ring up one continuous\, eighty-thr
+ ee-minute piece unfolding as a sin
+ gle track. While retaining the col
+ ossal heaviness of their previous 
+ releases\, Mirror Reaper sees the b
+ and explore the more meditative\, m
+ elancholy\, and introspective aspec
+ ts to their sound through the intr
+ oduction of long\, lonely organ pas
+ sages and the return of vocalist E
+ rik Moggridge (Aerial Ruin)\, offer
+ ing a prominent presence.\n\nAlongsi
+ de director\, Taylor Bednarz\, BELL 
+ WITCH has created a feature-length
+  music video to accompany the albu
+ m. The film is a video collage com
+ prised of dozens of archival films
+ . Each of these clips are woven to
+ gether with the album to build a p
+ atient\, heavy\, and haunting narrat
+ ive. The film aims to hold the vie
+ wer in the state of a lucid dream\,
+  feeling trapped as a specter drif
+ ting through places of darkness. M
+ irror Reaper will be a projection 
+ for the band’s live performances
+ \, as well as a standalone cinemati
+ c experience. The trailer for the 
+ film is available to view HERE:\nht
+ tps://www.youtube.com/watch?v=SZAt
+ lAQMGzI&feature=youtu.be\n\nhttps://
+ www.facebook.com/events/3582397780
+ 50509/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181113T142709Z
+LAST-MODIFIED:20181113T142709Z
+CREATED:20180912T132224Z
+SEQUENCE:5360685
+ORGANIZER;CN=Irish Metal Archive:MAILTO:noreply@facebookmail.com
+DTSTART:20181214T204500Z
+DTEND:20181215T003000Z
+UID:e232805460748222@facebook.com
+SUMMARY:Rato Raro / Abaddon Incarnate / Bisect - Fredz, Cork (14/12/18)
+LOCATION:Fred Zeppelins
+URL:https://www.facebook.com/events/232805460748222/
+DESCRIPTION:HAPPY FUCKING XMAS!!!\nThe Irish Me
+ tal Archive presents...\n\nRATO RARO
+  (Spain - Grindcore)\nAbaddon Incar
+ nate (Dublin - Grindcore/Death Met
+ al)\nBisect (Cork - Grind/Hardcore)
+ \n\nFred Zeppelins\nParliament St.\, C
+ ork.\nFriday\, 14th December\, 2018\n\n
+ Start Time: 8:45pm\nDoor Tax: €7\n
+ \n=======================\n\nRATO RAR
+ O is a band from Palencia founded 
+ in 1992 by the brothers Toño and 
+ Raúl who have maintained the band
+  during all these years\, in 2008 V
+ isy joined them on guitar and they
+  have remained as this trio since.
+ \nThe lyrics of the band deal with 
+ drug abuse\, mental self-destructio
+ n\, alcohol and excesses but they a
+ lso have their demands against abu
+ ses of power\, wars and injustices.
+  To date they have released three 
+ albums\, the most recent " Molecule
+ ccosedelia " in 2014.\nThe style th
+ ey practice is a kind of fusion be
+ tween Grindcore and Punk-Crust inf
+ luenced by bands like Repulsion\, T
+ he Exploited\, Doom\, Napalm Death o
+ r Terrorizer.\n\nhttps://www.faceboo
+ k.com/RATO-RARO-276042829080131/  
+ \nhttps://ratoraro.bandcamp.com/  \n
+ https://www.youtube.com/watch?v=ux
+ 12PgU4ogE\n\n=======================
+ \n\nAbaddon Incarnate can be charact
+ erized as being heavily influenced
+  by both Grindcore and Death Metal
+  as well as many other kinds of ge
+ nres such as Sludge\, Crust\, Punk a
+ nd Doom.\nOriginally formed as Deat
+ h/Thrash band BEREAVED back in 198
+ 9\, this early incarnation recorded
+  two demos. ‘Signs Of Death’ i
+ n a1992 and ‘Tortured Souls’ i
+ n 1994. The decision was then made
+  in 1994 to change to a faster and
+  more brutal Death/Grindcore style
+ \, so they changed their name to AB
+ ADDON INCARNATE and since then the
+  band has released a demo cassette
+ \, two promos\, five full-length alb
+ ums\, a Split 7" with US grind band
+  PHOPIA and most recently a live a
+ lbum.\nThe band has played alongsid
+ e notable bands such as OBITUARY\, 
+ NAPALM DEATH and BOLT THROWER also
+  performing at the London Death Fe
+ st\, Day of Darkness\, Dublin Death 
+ Fest and the Siege Of Limerick. Th
+ ey have toured extensively in Euro
+ pe including Spain\, France\, Britai
+ n\, Switzerland\, Germany. They have
+  also toured as far away as Russia
+ \, Australia\, and were the first ex
+ treme Irish metal band to play in 
+ Ecuador\, Colombia and Peru.\n\nhttp:
+ //www.irishmetalarchive.com/artist
+ s/abaddon-incarnate/ \nhttps://www.
+ facebook.com/abaddonincarnate \nhtt
+ ps://abaddonincarnate.bigcartel.co
+ m/ \nhttps://soundcloud.com/stevef-
+ 1/sets/abaddon \n\n=================
+ ======\n\nBisect is a band that form
+ ed during 2013 from the ashes of a
+  Polish band that carried the same
+  name. Based in Cork\, the band cur
+ rently is comprised of an internat
+ ional team of Irish\, Polish and It
+ alian musicians. Phil Langero (LOS
+  LANGEROS) on the vocals\, Kieran O
+ ’Neill on the drums\, Maciek Lach
+ mann on the bass and Fabrizio Vita
+ li on guitar and backing vocals.\nB
+ isect sound doesn't really fit any
+  one label\, maybe a result of thei
+ r Polish/Italian/Irish background\,
+  but the resulting musical blend i
+ s an aggressive hardcore d-beat so
+ und with brutality and grind front
+ ed by two intense vocalists with c
+ rushing lyrics that scream about i
+ ssues like social justice\, inclusi
+ on/marginalisation\,poverty\, etc\nTh
+ eir pummelling albums “We Are Th
+ e Migrants” (2013) and "Time The
+  Bastards Fell" (2018)\, as well as
+  the Split 12" with Cork band HORS
+ E\, are availble via bandcamp.\n\nhtt
+ p://www.irishmetalarchive.com/arti
+ sts/bisect/ \nhttps://bisect.bandca
+ mp.com/ \nhttps://www.facebook.com/
+ Bisect-477826922271974/ \nhttps://w
+ ww.youtube.com/channel/UCWdG8nQw9a
+ jk4w4BR-Srrmw/ \n\n=================
+ ======\n\nhttps://www.facebook.com/e
+ vents/232805460748222/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180925T105840Z
+LAST-MODIFIED:20180925T105840Z
+CREATED:20180925T075002Z
+SEQUENCE:11318
+ORGANIZER;CN=Warzone Collective:MAILTO:noreply@facebookmail.com
+DTSTART:20181213T210000Z
+DTEND:20181214T010000Z
+UID:e1935265670101269@facebook.com
+SUMMARY:Rato Raro (Palencia), Abaddon Incarnate, Wardomized & Lawfucker
+LOCATION:Voodoo Belfast
+URL:https://www.facebook.com/events/1935265670101269/
+DESCRIPTION:Voodoo Belfast and The Warzone Col
+ lective present!\n\nRato Raro GrindC
+ ore \nhttps://ratoraro.bandcamp.com
+ \nHeavy as fuck Grindcore from Pale
+ ncia\, Spain. First time in Belfast
+  for these guys.\n\nAbaddon Incarnat
+ e\nhttps://candlelightrecordsuk.ban
+ dcamp.com/album/pessimist\nSeriousl
+ y fast Grindcore/Death Metal legen
+ ds from Dublin.\n\nWardomized\nhttps:
+ //wardomized.bandcamp.com\nBelfast/
+ Lisburn Grind Crew.\n\nLawfucker\nhtt
+ ps://lawfucker.bandcamp.com\nD-beat
+  Punx from Belfast.\n\n13th December
+ \, Doors 9pm\, £5 in.\n\nhttps://www.
+ facebook.com/events/19352656701012
+ 69/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180816T153708Z
+LAST-MODIFIED:20180816T153708Z
+CREATED:20180816T115438Z
+SEQUENCE:13350
+ORGANIZER;CN=Paranoid Visions:MAILTO:noreply@facebookmail.com
+DTSTART:20181213T200000Z
+DTEND:20181213T230000Z
+UID:e651682605204452@facebook.com
+SUMMARY:GBH / Paranoid Visions / the Lee Harveys
+LOCATION:The Bowery
+URL:https://www.facebook.com/events/651682605204452/
+DESCRIPTION:FOAD in association with Black Dog
+  Music presents \n\nGBH\n+\nParanoid V
+ isions\nThe Lee Harveys\n\nat the Bow
+ ery\n\ntickets from www.tickets.ie a
+ nd www.ticketmaster.com\n\nhttps://w
+ ww.facebook.com/events/65168260520
+ 4452/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180816T094457Z
+LAST-MODIFIED:20180816T094457Z
+CREATED:20180816T094457Z
+SEQUENCE:0
+ORGANIZER;CN=Paranoid Beast Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181213T193000Z
+DTEND:20181213T224000Z
+UID:e293215161487436@facebook.com
+SUMMARY:Paranoid Beast Promotions presents Bell Witch + Support
+LOCATION:Cyprus Avenue
+URL:https://www.facebook.com/events/293215161487436/
+DESCRIPTION:Seattle doom metal duo\, BELL WITCH
+ \, have confirmed a full European t
+ our in support of their recently r
+ eleased opus\, Mirror Reaper. \n\nRel
+ eased by Profound Lore in October\,
+  Mirror Reaper was engineered and 
+ mixed by veteran producer Billy An
+ derson (Swans\, Sleep\, Neurosis)\, t
+ he duo of Dylan Desmond (bass\, voc
+ als) and Jesse Shreibman (drums\, v
+ ocals\, organ) have pushed the band
+ ’s sound further beyond their la
+ ndmark 2015 LP\, Four Phantoms offe
+ ring up one continuous\, eighty-thr
+ ee-minute piece unfolding as a sin
+ gle track. While retaining the col
+ ossal heaviness of their previous 
+ releases\, Mirror Reaper sees the b
+ and explore the more meditative\, m
+ elancholy\, and introspective aspec
+ ts to their sound through the intr
+ oduction of long\, lonely organ pas
+ sages and the return of vocalist E
+ rik Moggridge (Aerial Ruin)\, offer
+ ing a prominent presence.\n\nAlongsi
+ de director\, Taylor Bednarz\, BELL 
+ WITCH has created a feature-length
+  music video to accompany the albu
+ m. The film is a video collage com
+ prised of dozens of archival films
+ . Each of these clips are woven to
+ gether with the album to build a p
+ atient\, heavy\, and haunting narrat
+ ive. The film aims to hold the vie
+ wer in the state of a lucid dream\,
+  feeling trapped as a specter drif
+ ting through places of darkness. M
+ irror Reaper will be a projection 
+ for the band’s live performances
+ \, as well as a standalone cinemati
+ c experience. The trailer for the 
+ film is available to view HERE:\nht
+ tps://www.youtube.com/watch?v=SZAt
+ lAQMGzI&feature=youtu.be\n\nhttps://
+ www.facebook.com/events/2932151614
+ 87436/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181104T210809Z
+LAST-MODIFIED:20181104T210809Z
+CREATED:20181002T221017Z
+SEQUENCE:2847472
+ORGANIZER;CN=DeCrypt Dublin:MAILTO:noreply@facebookmail.com
+DTSTART:20181208T210000Z
+DTEND:20181209T030000Z
+UID:e155403118730531@facebook.com
+SUMMARY:DeCrypt - December Party 2018
+LOCATION:On The Rox
+URL:https://www.facebook.com/events/155403118730531/
+DESCRIPTION:Dublin's monthly alternative club 
+ night….\nDeCrypt\nSaturday 8th Dec
+ ember 2018\n\nLocation: On The Rox\nU
+ pstairs at "39/40" (formerly known
+  as Voodoo Lounge Dublin.)\nArran Q
+ uay\, Dublin \n\nYour DeCrypt Dublin 
+ dj's will be playing\nplaying all y
+ our favourite Alternative 80's - G
+ oth - Industrial - EBM - Electro -
+  Deathrock - Metal - Darkwave….a
+ nd more….\nWITH VERY SPECIAL GUES
+ T DJ DANIEL JONASSON\n(Dupont / Cov
+ enant / SAW\, Stockholm\, Sweden)\n\nA
+ CCESS:\nWalking: 7minute walk from 
+ O'Connell Bridge\, towards Four Cou
+ rts.\nLuas: Smithfield Luas stop\n\nA
+ CCOMMODATION NEARBY:\nGenerator Hos
+ tel\, Smithfield\nMaldron Hotel\, Smi
+ thfield\n\nPhotographer on the prowl
+ ….get yer glad-rags on! \n\nDoors:
+  9pm…till late\nEntry: 5euro\n\nhtt
+ ps://www.facebook.com/events/15540
+ 3118730531/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181121T205502Z
+LAST-MODIFIED:20181121T205502Z
+CREATED:20180517T091441Z
+SEQUENCE:16285221
+ORGANIZER;CN=Invictus Productions:MAILTO:noreply@facebookmail.com
+DTSTART:20181208T181500Z
+DTEND:20181208T223000Z
+UID:e1011877075634592@facebook.com
+SUMMARY:Solstice, Mourning Beloveth, Death The Leveller
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/1011877075634592/
+DESCRIPTION:Invictus Productions in associatio
+ n with White Horse Records present
+ s:\n\nSolstice-Englander \nMourning B
+ eloveth\nDeath The Leveller\n\nSaturd
+ ay December 8th\nVoodoo Lounge (dow
+ nstairs)\nDoors 6:15 pm\nAdmission €
+ 20\n\nAfter party until late with DJ
+  Brian Taube deliverin' the goods!
+ \n\nhttps://www.facebook.com/events/
+ 1011877075634592/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180913T160153Z
+LAST-MODIFIED:20180913T160153Z
+CREATED:20180816T081216Z
+SEQUENCE:2447377
+ORGANIZER;CN=Buddycore:MAILTO:noreply@facebookmail.com
+DTSTART:20181208T150000Z
+DTEND:20181209T234500Z
+UID:e1192749930863210@facebook.com
+SUMMARY:Buddyfest2018
+LOCATION:Drop Dead Twice
+URL:https://www.facebook.com/events/1192749930863210/
+DESCRIPTION:BuddyFest returns for 2 days this 
+ year in Drop Dead Twice on Dec 8th
+  & 9th with an estimated 16 bands 
+ on\n\nHeadliners on the Saturday nig
+ ht will be the wonderful\nButcher B
+ aby\nhttps://youtu.be/E2o_IRFHPKU\nA
+ lso confirmed for Saturday are \nTr
+ ashcat\nExistenz (Swe)\nThe Lee Harv
+ eys\nThe Booty Crew\nAffected Youth\n
+ Amongst the Wolves\nNomatrix\nSNüBB
+ ED \n\nSundays Headliners are\nCadave
+ r Club\nhttps://youtu.be/BR_moalcGZ
+ 4\nAlso confirmed for Sunday \nSHITH
+ aTT\nStop! Stop! Start Again\nTonic 
+ All-Stars\nDeathgrip\nMadhouse\nDrast
+ ics\n\nAdm will be €15 on the Satu
+ rday & €10 on the Sunday\nWe'll b
+ e doing tickets as well this this 
+ year (when we have the lineup full
+ y sorted)\, 2 day ticket will be €
+ 20 euro & will include finger food
+  on Saturday during the break in b
+ ands\nwe'll also have a DJ both day
+ s spinning tunes between bands\n\nht
+ tps://www.facebook.com/events/1192
+ 749930863210/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181001T133222Z
+LAST-MODIFIED:20181001T133222Z
+CREATED:20181001T131540Z
+SEQUENCE:1002
+ORGANIZER;CN=TOTAL WAR - Dublin:MAILTO:noreply@facebookmail.com
+DTSTART:20181207T213000Z
+DTEND:20181208T023000Z
+UID:e286377588753732@facebook.com
+SUMMARY:Total War
+LOCATION:Fibber Magees
+URL:https://www.facebook.com/events/286377588753732/
+DESCRIPTION:Raise a glass and enjoy the divine
+  sounds of neo-folk\, martial indus
+ trial\, heavy electronics\, industri
+ al noise\, dark ambient\, experiment
+ al\, and black metal! FREE admissio
+ n\, and FREE CD giveaways!!\n\nhttps:
+ //www.facebook.com/events/28637758
+ 8753732/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181108T073159Z
+LAST-MODIFIED:20181108T073159Z
+CREATED:20180829T160549Z
+SEQUENCE:6103570
+ORGANIZER;CN=Deep Cover:MAILTO:noreply@facebookmail.com
+DTSTART:20181207T190000Z
+DTEND:20181207T230000Z
+UID:e2023583454618433@facebook.com
+SUMMARY:Hotter Than Hell (KISS Tribute!)
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/2023583454618433/
+DESCRIPTION:Deep Cover presents:\n\nHotter Than 
+ Hell (Europe's No.1 KISS Tribute)\n
+ https://www.facebook.com/hthuk/\n\nw
+ ith\n\nMotorheaders\nhttps://www.face
+ book.com/Motorheaders/\n\nplus suppo
+ rt from\n\nWALKER\nhttps://www.facebo
+ ok.com/WALKERbandofficial/\n\nVoodoo
+  Lounge (Main Room)\nFriday\, 7th De
+ cember\n7pm\nTickets €15 incl. boo
+ king fee. See details below.\n\nTick
+ et info: Tickets are available NOW
+  from the following places: \n\nWAV 
+ Tickets via the WAV Ticket Office 
+ on 39 Camden Row (beside Whelan’
+ s Venue) or by calling 1890 200 07
+ 8 or online @ http://wavtickets.ie
+ /. - Click the link at the top of 
+ this event page\, sure.\n\nand from:\n
+ \nSound Cellar on 47 Nassau Street.
+  01 677 1940.\n\nMusic Maker on 29 E
+ xchequer Street. 01 677 9004.\n\nhtt
+ ps://www.facebook.com/events/20235
+ 83454618433/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181107T142011Z
+LAST-MODIFIED:20181107T142011Z
+CREATED:20180731T114504Z
+SEQUENCE:8562907
+ORGANIZER;CN=Demented Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181203T190000Z
+DTEND:20181203T230000Z
+UID:e1036602773182853@facebook.com
+SUMMARY:Madball in Dublin!
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/1036602773182853/
+DESCRIPTION:Demented Promotions present\n\nMADBA
+ LL\nhttps://www.facebook.com/madbal
+ lNYC/\n\nplus support from\n\nLast Wis
+ hes\nhttps://www.facebook.com/lastw
+ isheshc/\n\nWorld of Difference\nhttp
+ s://worldxxx.bandcamp.com/\n\nDate: 
+ Monday\, 3rd December\nPlace: The Vo
+ odoo Lounge\, 39/40 Arran Quay\nDoor
+ s: 7.00pm\nPrice: Tickets €25 inc
+ l. booking fee. See details below.
+ \n\nTicket info: Tickets are availab
+ le NOW from the following places: 
+ \n\nWAV Tickets via the WAV Ticket O
+ ffice on 39 Camden Row (beside Whe
+ lan’s Venue) or by calling 1890 
+ 200 078 or online @ http://wavtick
+ ets.ie/. - Click the link at the t
+ op of this event page\, sure.\n\nMusi
+ c Maker on 29 Exchequer Street. 01
+  677 9004.\n\nSound Cellar on 47 Nas
+ sau Street. 01 677 1940.\n\nFor more
+  information: \nhttp://www.facebook
+ .com/dementedpromotions \nTwitter: 
+ @dementedpromo\nInstagram: @demente
+ dpromo\n\nhttps://www.facebook.com/e
+ vents/1036602773182853/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181029T132751Z
+LAST-MODIFIED:20181029T132751Z
+CREATED:20180615T084321Z
+SEQUENCE:11767470
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20181202T183000Z
+DTEND:20181202T213000Z
+UID:e1980528021980292@facebook.com
+SUMMARY:Tesseract + Between the Buried and Me + Plini
+LOCATION:Tivoli Theatre
+URL:https://www.facebook.com/events/1980528021980292/
+DESCRIPTION:Sale Dates and Times:\n\nPublic Onsa
+ le : Fri\, 15 Jun 2018 at 10:00 AM\n
+ \nhttps://www.facebook.com/events/1
+ 980528021980292/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180823T165457Z
+LAST-MODIFIED:20180823T165457Z
+CREATED:20180611T075159Z
+SEQUENCE:6339778
+ORGANIZER;CN=TesseracT:MAILTO:noreply@facebookmail.com
+DTSTART:20181202T183000Z
+DTEND:20181202T230000Z
+UID:e195676151077782@facebook.com
+SUMMARY:UK & Ireland headline Sonder Tour | Dublin
+LOCATION:Tivoli Theatre
+URL:https://www.facebook.com/events/195676151077782/
+DESCRIPTION:TesseracT\nBetween The Buried And M
+ e\nPlini\n\nHaving played to an ever-
+ growing fan base in North America 
+ on their 6-week tour in support of
+  their new album Sonder and follow
+ ing a phenomenal set on Friday\, wh
+ en they headlined Download Festiva
+ l’s Dogtooth Stage\, TesseracT ar
+ e excited to announce the UK & Ire
+ land dates on their Sonder headlin
+ e tour. ‘We’re finally able to
+  announce TesseracT’s return to 
+ our home shores! It’s been over 
+ 2 years since our last UK headline
+  and we’re excited to bring our 
+ biggest and best show to our UK fa
+ ns. We’re also in very good comp
+ any\, joining us -  our friends\, Be
+ tween the Buried and Me and Plini 
+ - these shows are not to be missed
+ ...we’ll see you all there!’  
+ enthuses vocalist Daniel Tompkins.
+ \n\nAmos Williams continues ‘One o
+ f our earliest international tours
+  was with BTBAM. They left quite a
+ n impression on us that has altere
+ d our approach to performance and 
+ presentation ever since. So\, prepa
+ re yourselves UK\, for quite a show
+ . Plini are bringing the awesome (
+ as they did each and every day on 
+ our recent North American tour wit
+ h them)\, BTBAM are bringing the in
+ credible\, and we’re bringing eve
+ rything we can and then some more 
+ to these shows. We’re also plann
+ ing to perform Sonder in full and 
+ film the London show on December 1
+ st at Shepherds Bush Empire\; a mil
+ estone venue for TesseracT\, where 
+ we will get to play on a stage tha
+ t has been host to many of our her
+ oes throughout its history. ‘\n\nh
+ ttps://www.facebook.com/events/195
+ 676151077782/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181009T111153Z
+LAST-MODIFIED:20181009T111153Z
+CREATED:20180829T114146Z
+SEQUENCE:3540607
+ORGANIZER;CN=Bad Reputation IRL:MAILTO:noreply@facebookmail.com
+DTSTART:20181201T210000Z
+DTEND:20181202T010000Z
+UID:e253709055483262@facebook.com
+SUMMARY:Hed P.E. / Davey Suicide / Xero - Dolans Upstairs, Limerick
+LOCATION:Dolans Pub
+URL:https://www.facebook.com/events/253709055483262/
+DESCRIPTION:Bad Reputation IRL presents:\n\nHed 
+ PE\n&\n Davey Suicide\n+ Xero - Limer
+ ick\nSatrurday 1st December 2018\nDo
+ lans Upstairs\,\nDolans\nLimerick\n\nDo
+ ors: 9pm \nTickets:  €18 (+bkg fe
+ e)\nwww.dolans.ie & www.ticketmaste
+ r.ie (AVAILABLE NOW)\n\nhttps://www.
+ facebook.com/events/25370905548326
+ 2/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181119T113716Z
+LAST-MODIFIED:20181119T113716Z
+CREATED:20180821T155533Z
+SEQUENCE:7760503
+ORGANIZER;CN=Paranoid Visions:MAILTO:noreply@facebookmail.com
+DTSTART:20181201T200000Z
+DTEND:20181202T010000Z
+UID:e252039805314089@facebook.com
+SUMMARY:FOAD Presents the Restarts
+LOCATION:Drop Dead Twice
+URL:https://www.facebook.com/events/252039805314089/
+DESCRIPTION:FOAD are delighted to welcome back
+  the Restarts who continue in thei
+ r quest to travel to all corners o
+ f the world!\n\nsupport comes from t
+ he Nilz and..... the revamped Dubt
+ ones who are likely to lift the ro
+ of off the venue!\n\nAS there is a l
+ ot of other gigs on in Dublin on t
+ he same night\, we will be running 
+ this gig a bit later than normal! 
+ Restarts on at about 11.30\n\nhttps:
+ //www.facebook.com/events/25203980
+ 5314089/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181025T100513Z
+LAST-MODIFIED:20181025T100513Z
+CREATED:20180123T082604Z
+SEQUENCE:23765949
+ORGANIZER;CN=Ticketmaster Events:MAILTO:noreply@facebookmail.com
+DTSTART:20181201T183000Z
+DTEND:20181201T213000Z
+UID:e211646722752226@facebook.com
+SUMMARY:Def Leppard
+LOCATION:3Arena
+URL:https://www.facebook.com/events/211646722752226/
+DESCRIPTION:Sale Dates and Times:\n\nPublic Onsa
+ le : Fri\, 26 Jan 2018 at 09:00 AM\n
+ \nThree Customer Presale : Wed\, 24 
+ Jan 2018 at 09:00 AM\n\nFanclub Pres
+ ale : Wed\, 24 Jan 2018 at 09:00 AM
+ \n\nhttps://www.facebook.com/events/
+ 211646722752226/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180827T172138Z
+LAST-MODIFIED:20180827T172138Z
+CREATED:20180612T190409Z
+SEQUENCE:6560249
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181201T180000Z
+DTEND:20181201T220000Z
+UID:e669605440048065@facebook.com
+SUMMARY:CKY & Sumo Cyco & Bullets & Octane - Dublin - 1st Dec '18
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/669605440048065/
+DESCRIPTION:DME By Arrangement With UTA Presen
+ ts\n\nCKY\nPlus Guests\nSumo Cyco\nBull
+ ets And Octane\n\nVoodoo Lounge\, Dub
+ lin \nSaturday 1st December 2018\n6p
+ m - 18+\n€25 inc bkg fee - on sal
+ e Fri. 15th June 10am\n\nwww.dme-pro
+ motions.com\n\nhttps://www.facebook.
+ com/events/669605440048065/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181016T181815Z
+LAST-MODIFIED:20181016T181815Z
+CREATED:20180602T233148Z
+SEQUENCE:11731587
+ORGANIZER;CN=The LEE Harveys:MAILTO:noreply@facebookmail.com
+DTSTART:20181130T200000Z
+DTEND:20181201T123000Z
+UID:e2087247897959243@facebook.com
+SUMMARY:Night Of The Punks @ Drop Dead Twice (The Taproom)
+LOCATION:Drop Dead Twice
+URL:https://www.facebook.com/events/2087247897959243/
+DESCRIPTION:Night of The Punks @ Drop Dead Twi
+ ce (The Taproom).\n\nOn the night we
+  have your favourite Dublin Punks 
+ "Trouble Pilgrims" along with "The
+  Lee Harveys" and "The Lord Revere
+ nd Mongo Joans and The Coathanger 
+ Solution" as well as the fantastic
+  "Stephen's Ruin" all the way from
+  Germany.\n\nDoors at 8:00pm - Admis
+ sion 10E\n\nTrouble Pilgrims\n#troubl
+ epilgrims\n\nThe LEE Harveys\n#thelee
+ harveys\n\nStephen's Ruin\n#stephensr
+ uin\n\n#thelordreverendmongojoansand
+ thecoathangersolution \n\n#nightofth
+ epunksdublin\n#dropdeadtwice\n#ddtta
+ proom\n\nhttps://www.facebook.com/ev
+ ents/2087247897959243/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180815T111623Z
+LAST-MODIFIED:20180815T111623Z
+CREATED:20180612T190000Z
+SEQUENCE:5501783
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181130T180000Z
+DTEND:20181130T220000Z
+UID:e913270675518583@facebook.com
+SUMMARY:CKY & Sumo Cyco & Bullets & Octane - Belfast - 30th Nov '18
+LOCATION:Limelight Belfast
+URL:https://www.facebook.com/events/913270675518583/
+DESCRIPTION:DME By Arrangement With UTA Presen
+ ts\n\nCKY\nPlus Guests\nSumo Cyco\nBull
+ ets And Octane\n\nLimelight 2\, Belfa
+ st\nFriday 30th November 2018\n6pm -
+  18+\n£20 inc bkg fee - on sale Fr
+ i. 15th June 10am\n\nwww.dme-promoti
+ ons.com\n\nhttps://www.facebook.com/
+ events/913270675518583/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181116T104528Z
+LAST-MODIFIED:20181116T104528Z
+CREATED:20180829T130504Z
+SEQUENCE:6817224
+ORGANIZER;CN=Bad Reputation IRL:MAILTO:noreply@facebookmail.com
+DTSTART:20181129T200000Z
+DTEND:20181129T233000Z
+UID:e704234686618594@facebook.com
+SUMMARY:Aborted / Cryptopsy / Ingested / Unfathomable Ruination-Limerick
+LOCATION:Dolans Pub
+URL:https://www.facebook.com/events/704234686618594/
+DESCRIPTION:Bad Reputation presents\nAborted\nCr
+ yptopsy\nWith\nINGESTED \nUnfathomabl
+ e Ruination\n\nThursday 29th Novembe
+ r 2018\nDolans Warehouse\nLimerick\n\n
+ Tickets: €20 (ON SALE NOW - www.
+ dolans.ie & www.ticketmaster.ie)\n\n
+ https://www.facebook.com/events/70
+ 4234686618594/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180829T120007Z
+LAST-MODIFIED:20180829T120007Z
+CREATED:20180829T103118Z
+SEQUENCE:5329
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181128T180000Z
+DTEND:20181128T230000Z
+UID:e238337380143539@facebook.com
+SUMMARY:Aborted & Cryptopsy & Ingested & Unfathomable Ruination - Dublin
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/238337380143539/
+DESCRIPTION:DME By Arrangement With Doomstar B
+ ookings Presents\n\nAborted\nCryptops
+ y\nINGESTED\nUnfathomable Ruination\n
+ \nVoodoo Lounge Dublin\n28th Novembe
+ r 2018\n6pm - 18+\n€22 inc bkg fee
+  - on sale Monday 3rd September 10
+ am\n\nwww.dme-promotions.com\n\nhttps:
+ //www.facebook.com/events/23833738
+ 0143539/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20180816T170303Z
+LAST-MODIFIED:20180816T170303Z
+CREATED:20180801T183652Z
+SEQUENCE:1290371
+ORGANIZER;CN=DME Promotions:MAILTO:noreply@facebookmail.com
+DTSTART:20181121T180000Z
+DTEND:20181121T210000Z
+UID:e2032833160365868@facebook.com
+SUMMARY:Beyond Creation & Gorod & Entheos & Brought By Pain - Dublin
+LOCATION:Voodoo Lounge Dublin
+URL:https://www.facebook.com/events/2032833160365868/
+DESCRIPTION:DME By Arrangement With Avocado Bo
+ oking Presents\n\n'ALGORYTHM EUROPEA
+ N TOUR 2018'\n\nBeyond Creation\nGORO
+ D\nENTHEOS\nBrought By Pain\n\nVoodoo 
+ Lounge\, Dublin\n21st November 2018\n
+ 6pm - 18+\n€20 inc bkg fee from w
+ ww.ticketmaster.ie & outlets natio
+ nwide\, www.tickets.ie & Sound Cell
+ ar\n\nwww.dme-promotions.com\n\nhttps:
+ //www.facebook.com/events/20328331
+ 60365868/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:TENTATIVE
