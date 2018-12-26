@@ -36,7 +36,6 @@ def get_args():
 
 """
 Main module
-This starts everything
 """
 def main():
 
@@ -51,44 +50,33 @@ def main():
    ics = icsFile.read().strip()
    icsFile.close()
 
+   # Open the csv file fir writing
    csvFile = open(args.csv, 'w+')
+   # Write the column headings
    csvFile.write("Event Venue Name,Event Organizer Name,Event Name,Event Start Date,Event Start Time,Event End Date,Event Description,Timezone\n")
 
-
+   # Search for any text that exists beween BEGIN:VEVENT and END:VEVENT using a regular expression
+   # Add all of the search results to "reg"
    reg = re.compile(r'BEGIN:VEVENT(.*?(?=))END:VEVENT', re.DOTALL|re.MULTILINE)
+   # FOr each result (called block) in reg
    for block in re.finditer(reg, ics):
+      # Search the text that comes after DTSTAMP and add it to group1, search for the text after LAST-MODIFIED and add it to groups 2 etc.
       reg = re.compile(r'DTSTAMP:(.*)LAST-MODIFIED:(.*)CREATED:(.*)SEQUENCE:(.*)ORGANIZER;CN=(.*):MAILTO(.*)DTSTART:(.*)DTEND:(.*)UID:(.*)SUMMARY:(.*)LOCATION:(.*?(?=))URL:(.*)DESCRIPTION:(.*?(?=))CLASS:(.*)STATUS:(.*)PARTSTAT:(.*)', re.DOTALL|re.MULTILINE)
       for out in re.finditer(reg, block.group(1)):
-         '''
-         print out.group(1).replace('\n','') # DTSTAMP
-         print out.group(2).replace('\n','') # LAST-MODIFIED:
-         print out.group(3).replace('\n','') # CREATED:
-         print out.group(4).replace('\n','') # SEQUENCE:
-         print out.group(5).replace('\n','') # ORGANIZER
-         print out.group(6).replace('\n','') # MAILTO
-         print out.group(7).replace('\n','') # DTSTART
-         print out.group(8).replace('\n','') # DTEND
-         print out.group(9).replace('\n','') # UID
-         print out.group(10).replace('\n','') # SUMMARY
-         print out.group(11).replace('\n','') # LOCATION
-         print out.group(12).replace('\n','') # URL
-         print (((out.group(13).replace('\n','')).replace('\\n','')).replace('\r ','')).replace('\\','') # DESCRIPTION
-         print out.group(14).replace('\n','') # CLASS
-         print out.group(15).replace('\n','') # STATUS
-         print out.group(16).replace('\n','') # PARTSTAT
-         '''
 
-
+         # Grab the dates from group 7 & 8
          # Convert the date to standard date
          start = dateutil.parser.parse(out.group(7))
          end = dateutil.parser.parse(out.group(8))
 
          # Extract the date and time from the dates
+         # Convert the dates to the format the calendar app wants. 
          startDate = start.strftime('%Y-%m-%d')
          endDate = end.strftime('%Y-%m-%d')
          startTime = start.strftime('%H:%M:%S')
          endTime = end.strftime('%H:%M:%S')
 
+         # Write the other stuff in the correct order replacing newlines, commas and other stuff that will confuse the calendar app, with spaces and nothing
          csvFile.write(((((out.group(11).replace('\n ','').replace(',', ''))).replace('\\n',' ')).replace('\\','')).replace('\n','') + ',') # LOCATION
          csvFile.write(((((out.group(5).replace('\n ','').replace(',', ''))).replace('\\n',' ')).replace('\\','')).replace('\n','') + ',') # ORGANIZER
          csvFile.write(((((out.group(10).replace('\n ','').replace(',', ''))).replace('\\n',' ')).replace('\\','')).replace('\n','') + ',') # SUMMARY
@@ -98,6 +86,7 @@ def main():
          csvFile.write(((((out.group(13).replace('\n ','').replace(',', ''))).replace('\\n',' ')).replace('\\','')).replace('\n','') + ',') # DESCRIPTION
          csvFile.write("Europe/Dublin\n")
 
+   # CLose the CSV file
    csvFile.close()
 
          
