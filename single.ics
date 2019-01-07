@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+PRODID:-//Facebook//NONSGML Facebook Events V1.0//EN
+X-WR-CALNAME:Antaine Mac An Rí's Facebook Events
+X-PUBLISHED-TTL:PT12H
+X-ORIGINAL-URL:/events/
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20181106T193959Z
+LAST-MODIFIED:20181106T193959Z
+CREATED:20181019T170716Z
+SEQUENCE:1564363
+ORGANIZER;CN=Invictus Productions:MAILTO:noreply@facebookmail.com
+DTSTART:20191026T170000Z
+DTEND:20191026T220000Z
+UID:e2176763695979376@facebook.com
+SUMMARY:De Mysteriis Dom Invicti: 20 Years of Invictus SOLD OUT
+LOCATION:1 John's Square\, Limerick\, County 
+ Limerick\, V94 RRH6\, Ireland
+URL:https://www.facebook.com/events/2176763695979376/
+DESCRIPTION:Invictus Productions in alliance w
+ ith Bad Reputation IRL present\n\nDe
+  Mysteriis Dom Invicti: 20 Years o
+ f Invictus Productions\, a Samhain 
+ Celebration at St. John's Church\, 
+ John's Square\, Limerick.\n\nFeaturin
+ g\n\nNEGATIVE PLANE (USA)\nMalthusian
+  (Irl)\nPossession - Band (Bel)\nInc
+ oncessus Lux Lucis (UK)\nSacrilegia
+  (Irl)\n\nThis unique\, celebratory e
+ vent will take place in a deconsec
+ rated church and will be first tim
+ e Negative Plane\, as well as the o
+ ther acts\, will have ever performe
+ d in a church setting. Stained Gla
+ ss Revelations brought to life.\n\nT
+ ickets are €35\, will be limited 
+ to 150 ONLY and will be available 
+ from Thursday November 1st from ww
+ w.invictusproductions.net.\n\nTicket
+ s will be printed and mailed to cu
+ stomers.\n\nhttps://www.facebook.com
+ /events/2176763695979376/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:TENTATIVE
+END:VEVENT

@@ -3,9 +3,6 @@
 
 """
 thesraid@gmail.com
-
-0.1 Switches, Open File, regex out lines and convert ISO 8601 date
-0.2 write to CSV in correct format
 """
 
 import argparse # Used to read in arguments from the command line
@@ -55,7 +52,7 @@ def main():
    icsFile.close()
 
    csvFile = open(args.csv, 'w+')
-   csvFile.write("Event Venue Name,Event Organizer Name,Event Name,Event Start Date,Event Start Time,Event End Date,Event Description,Timezone,tag\n")
+   csvFile.write("Event Venue Name,Event Organizer Name,Event Name,Event Start Date,Event Start Time,Event End Date,Event Description,Timezone\n")
 
 
    reg = re.compile(r'BEGIN:VEVENT(.*?(?=))END:VEVENT', re.DOTALL|re.MULTILINE)
@@ -80,14 +77,26 @@ def main():
          print out.group(15).replace('\n','') # STATUS
          print out.group(16).replace('\n','') # PARTSTAT
          '''
-         csvFile.write((out.group(11).replace('\n','').replace(',', ''))  + ',') # LOCATION
-         csvFile.write((out.group(5).replace('\n','').replace(',', '')) + ',') # ORGANIZER
-         csvFile.write((out.group(10).replace('\n','').replace(',', '')) + ',') # SUMMARY
-         csvFile.write((out.group(7).replace('\n','').replace(',', '')) + ',') # DTSTART
-         csvFile.write((out.group(7).replace('\n','').replace(',', '')) + ',') # DTSTARTTIME
-         csvFile.write((out.group(8).replace('\n','').replace(',', '')) + ',') # DTEND
-         csvFile.write((((out.group(13).replace('\n ','').replace(',', ''))).replace('\\n','')).replace('\\','') + ',') # DESCRIPTION
-         csvFile.write(",Europe/Dublin,Ireland\n")
+
+
+         # Convert the date to standard date
+         start = dateutil.parser.parse(out.group(7))
+         end = dateutil.parser.parse(out.group(8))
+
+         # Extract the date and time from the dates
+         startDate = start.strftime('%Y-%m-%d')
+         endDate = end.strftime('%Y-%m-%d')
+         startTime = start.strftime('%H:%M:%S')
+         endTime = end.strftime('%H:%M:%S')
+
+         csvFile.write(((((out.group(11).replace('\n ','').replace(',', ''))).replace('\\n',' ')).replace('\\','')).replace('\n','') + ',') # LOCATION
+         csvFile.write(((((out.group(5).replace('\n ','').replace(',', ''))).replace('\\n',' ')).replace('\\','')).replace('\n','') + ',') # ORGANIZER
+         csvFile.write(((((out.group(10).replace('\n ','').replace(',', ''))).replace('\\n',' ')).replace('\\','')).replace('\n','') + ',') # SUMMARY
+         csvFile.write(startDate + ',') # DTSTART
+         csvFile.write(startTime + ',') # DTSTARTTIME
+         csvFile.write(endDate + ',') # DTEND
+         csvFile.write(((((out.group(13).replace('\n ','').replace(',', ''))).replace('\\n',' ')).replace('\\','')).replace('\n','') + ',') # DESCRIPTION
+         csvFile.write("Europe/Dublin\n")
 
    csvFile.close()
 

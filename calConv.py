@@ -11,47 +11,22 @@ import dateutil.parser # Used to convert the date format
 import datetime # Used to extract the date and time seperately from the date
 from subprocess import call # Used to run Operating SYstem commands
 ###########################################################################################
-"""
-Get command line args from the user.
-"""
-def get_args():
-    parser = argparse.ArgumentParser(
-        description='ICS and CSV details')
-
-    parser.add_argument('-i', '--ics',
-                        required=True,
-                        action='store',
-                        help='ICS file location')
-
-    parser.add_argument('-c', '--csv',
-                        required=True,
-                        action='store',
-                        help='CSV file location')
-
-    args = parser.parse_args()
-
-    return args
-
-###########################################################################################
 
 """
 Main module
 """
-def main():
+def main(ics, csv):
 
-   # Get the arguments from the command line using the get_args function above
-   args = get_args()
-  
    # Run dos2unix to get rid of windows crap
-   call(["dos2unix", "-q", args.ics])
+   call(["dos2unix", "-q", ics])
 
    # Open the ics file, read it's contents to ics then close the file
-   icsFile = open(args.ics, 'r')
+   icsFile = open(ics, 'r')
    ics = icsFile.read().strip()
    icsFile.close()
 
    # Open the csv file fir writing
-   csvFile = open(args.csv, 'w+')
+   csvFile = open(csv, 'w+')
    # Write the column headings
    csvFile.write("Event Venue Name,Event Organizer Name,Event Name,Event Start Date,Event Start Time,Event End Date,Event Description,Timezone\n")
 
@@ -89,9 +64,3 @@ def main():
    # CLose the CSV file
    csvFile.close()
 
-         
-###########################################################################################
-
-""" Start program """
-if __name__ == "__main__":
-    main()
