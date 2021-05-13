@@ -1,0 +1,13 @@
+[Unit]
+Description=ICS conversion service
+After=network.target
+StartLimitIntervalSec=0
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=www-data
+ExecStart=/opt/calConv/calConvWS
+
+[Install]
+WantedBy=multi-user.target
